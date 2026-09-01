@@ -1,0 +1,4132 @@
+{
+  "metadata": {
+    "source": "mrjohnny1215/allrentaladmin:public/data/products.json",
+    "matchKey": "normalized brand + normalized model",
+    "amount": "maximum registered commission across product plans",
+    "entryCount": 687
+  },
+  "entries": [
+    {
+      "brand": "세스코",
+      "model": "EADS511",
+      "commission": 147436,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EADS531",
+      "commission": 233262,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EADS711",
+      "commission": 167072,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EADS731",
+      "commission": 255354,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EBCB142",
+      "commission": 156926,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EBCB152",
+      "commission": 207490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EBEB112",
+      "commission": 127472,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EBEB132",
+      "commission": 129272,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EP-320",
+      "commission": 134344,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EP-430",
+      "commission": 186708,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EPEW552",
+      "commission": 271062,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EW-210",
+      "commission": 127472,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EWBD151",
+      "commission": 356236,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EWBD351",
+      "commission": 122808,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EWBS351",
+      "commission": 122808,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EWBS551",
+      "commission": 215099,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EWDD951",
+      "commission": 539508,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EWED351",
+      "commission": 88526,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EWES351",
+      "commission": 88526,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EWES551",
+      "commission": 170181,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EWES552",
+      "commission": 242100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EWES751",
+      "commission": 233100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "EWES752",
+      "commission": 269100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "FSDW111",
+      "commission": 64144,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "FSDW211",
+      "commission": 69054,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "FSEW112",
+      "commission": 78872,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "FSEW212",
+      "commission": 83781,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "TH-3500D",
+      "commission": 113236,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "TH-570L-1",
+      "commission": 93599,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "VH-310_새니제닉",
+      "commission": 105136,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "VH-310_핸드제닉",
+      "commission": 105136,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "VS-310",
+      "commission": 92862,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "VS-411P",
+      "commission": 162326,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "VS-510M",
+      "commission": 173618,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "VS210H",
+      "commission": 162326,
+      "sourceCount": 1
+    },
+    {
+      "brand": "세스코",
+      "model": "VT-200",
+      "commission": 76499,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "AN734",
+      "commission": 423000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "AP107/AQ107/AR107",
+      "commission": 252000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "AP520",
+      "commission": 378000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "AQ730",
+      "commission": 382500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "AR318",
+      "commission": 328500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "AR626",
+      "commission": 409500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "AS524",
+      "commission": 355500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "AS526",
+      "commission": 364500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "BM750",
+      "commission": 265500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "BP550",
+      "commission": 279000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "BP750",
+      "commission": 310500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "BQ450",
+      "commission": 270000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "BQ650",
+      "commission": 292500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "BR550",
+      "commission": 229500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "BT150",
+      "commission": 198000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "BT552",
+      "commission": 270000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "BT660",
+      "commission": 261000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "BT762",
+      "commission": 279000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "CL556",
+      "commission": 171000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "CL796",
+      "commission": 306000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "CL796+CL556",
+      "commission": 396000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "CM-7000TG",
+      "commission": 558000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "CN785",
+      "commission": 198000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "DT921",
+      "commission": 225000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "GP106",
+      "commission": 153000,
+      "sourceCount": 2
+    },
+    {
+      "brand": "웰스",
+      "model": "HN877",
+      "commission": 1147500,
+      "sourceCount": 2
+    },
+    {
+      "brand": "웰스",
+      "model": "HP157",
+      "commission": 387000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "HR768RWA",
+      "commission": 567000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "KW-G01W1-R",
+      "commission": 252000,
+      "sourceCount": 36
+    },
+    {
+      "brand": "웰스",
+      "model": "LT-S600W",
+      "commission": 369000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "MODUWAVE",
+      "commission": 405000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WK370",
+      "commission": 328500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WK470",
+      "commission": 418500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WM071",
+      "commission": 283500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WM371",
+      "commission": 427500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WP270",
+      "commission": 382500,
+      "sourceCount": 2
+    },
+    {
+      "brand": "웰스",
+      "model": "WP610",
+      "commission": 247500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WQ171",
+      "commission": 283500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WQ271",
+      "commission": 292500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WQ652",
+      "commission": 239310,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WQ672",
+      "commission": 259110,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WQ672+BT150",
+      "commission": 337500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WQ672+BT150+AP107",
+      "commission": 301500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WR872",
+      "commission": 553500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WR872+BT150",
+      "commission": 382500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WS672",
+      "commission": 387000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WS674",
+      "commission": 405000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WT652",
+      "commission": 274500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "웰스",
+      "model": "WT672",
+      "commission": 292500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "[가정용] 청호 미니 안마의자 드리미 (DREAMY)",
+      "commission": 275625,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "[가정용] 청호 소형 안마의자 로망 (Roman)",
+      "commission": 275625,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "AD-10H7050",
+      "commission": 293400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "AH-12H6050",
+      "commission": 244800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "AP-10H4052",
+      "commission": 239850,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "AP-10H4553",
+      "commission": 239400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "AP-15H5170",
+      "commission": 252000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "AP-15H5174",
+      "commission": 264600,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "AP-20H7560",
+      "commission": 302400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "AP-25H8150",
+      "commission": 382500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "AP-30H8220",
+      "commission": 446400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "AP-30H8350",
+      "commission": 282150,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "AP-40H8220",
+      "commission": 459000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "AV-06H3050",
+      "commission": 189540,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "BD-35D50R",
+      "commission": 185400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "BD-35D51",
+      "commission": 106200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "BD-35D72",
+      "commission": 185400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "BD-36D50",
+      "commission": 150300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "BD-36D60",
+      "commission": 155700,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "BD-40D60",
+      "commission": 132300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "BS-35D50",
+      "commission": 151200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "BS-65D70",
+      "commission": 237600,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "CHDH-120JA",
+      "commission": 183600,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "SF-75A60",
+      "commission": 267300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WF-60C90521M",
+      "commission": 374400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-15C7500",
+      "commission": 520200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-36C80620N",
+      "commission": 406890,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-36C90620N",
+      "commission": 486900,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-37C90720N",
+      "commission": 423900,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-53C8600M",
+      "commission": 280800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-53C9600M",
+      "commission": 297900,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-55S90510M",
+      "commission": 437287,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-55S9P510M",
+      "commission": 453825,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-60C80511M",
+      "commission": 419760,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-60C90511M",
+      "commission": 418770,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-70S90010M",
+      "commission": 559530,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-70S9P010M",
+      "commission": 484312,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-80S9P510M",
+      "commission": 524700,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "William J 매트리스 K",
+      "commission": 264600,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "William J 매트리스 LK",
+      "commission": 277200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "William J 매트리스 Q",
+      "commission": 239400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "William J 매트리스 SS",
+      "commission": 233100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-30B90620N",
+      "commission": 324000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-30C8460N",
+      "commission": 90000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-30C9460BN",
+      "commission": 99000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-30C9560BN",
+      "commission": 288000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-30S50010N",
+      "commission": 166050,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-31S90010N",
+      "commission": 247500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-35C90010N",
+      "commission": 207000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-40C60000M",
+      "commission": 175500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-43C60000M",
+      "commission": 207900,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-45C90020M",
+      "commission": 205200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-45S9P010M",
+      "commission": 356400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-46S90510M",
+      "commission": 394200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-46S90510N",
+      "commission": 402300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-46S9P510M",
+      "commission": 415800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-50C80621N",
+      "commission": 288000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-50C90621N",
+      "commission": 421200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-50S90010M",
+      "commission": 274950,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-60C80511M",
+      "commission": 348975,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-60C90511M",
+      "commission": 368550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-60C90520M",
+      "commission": 356400,
+      "sourceCount": 2
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-80S9P510M",
+      "commission": 496800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "네스티지 매트리스 K",
+      "commission": 327600,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "네스티지 매트리스 LK",
+      "commission": 343800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "네스티지 매트리스 Q",
+      "commission": 310500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "네스티지 매트리스 SS",
+      "commission": 292500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 드림 매트리스 K",
+      "commission": 241200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 드림 매트리스 LK",
+      "commission": 260100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 드림 매트리스 Q",
+      "commission": 222300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 드림 매트리스 SS",
+      "commission": 203400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 드림 온열 매트리스 K",
+      "commission": 242100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 드림 온열 매트리스 LK",
+      "commission": 259200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 드림 온열 매트리스 Q",
+      "commission": 231300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 드림 온열 매트리스 SS",
+      "commission": 218700,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 코지 매트리스 K",
+      "commission": 241200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 코지 매트리스 LK",
+      "commission": 260100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 코지 매트리스 Q",
+      "commission": 217800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 코지 매트리스 SS",
+      "commission": 198900,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 코지 온열 매트리스 K",
+      "commission": 242100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 코지 온열 매트리스 LK",
+      "commission": 259200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 코지 온열 매트리스 Q",
+      "commission": 231300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 코지 온열 매트리스 SS",
+      "commission": 218700,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "로얄스위트 프라임 매트리스 K",
+      "commission": 285300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "로얄스위트 프라임 매트리스 LK",
+      "commission": 297900,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "로얄스위트 프라임 매트리스 Q",
+      "commission": 270000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "로얄스위트 프라임 매트리스 SS",
+      "commission": 258300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "멜로우 드림 매트리스 K",
+      "commission": 224100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "멜로우 드림 매트리스 LK",
+      "commission": 230400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "멜로우 드림 매트리스 Q",
+      "commission": 207900,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "멜로우 드림 매트리스 SS",
+      "commission": 195300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 파운데이션 (G) K",
+      "commission": 126900,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 파운데이션 (G) Q",
+      "commission": 121500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 파운데이션 (G) SS",
+      "commission": 104850,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 파운데이션 K",
+      "commission": 126900,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 파운데이션 Q",
+      "commission": 121500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 파운데이션 SS",
+      "commission": 104850,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 프레임 FB (패브릭 볼륨헤드) K",
+      "commission": 201600,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 프레임 FB (패브릭 볼륨헤드) Q",
+      "commission": 190800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 프레임 FB (패브릭 볼륨헤드) SS",
+      "commission": 184500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 프레임 FG (쿠션 날개형) K",
+      "commission": 207900,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 프레임 FG (쿠션 날개형) Q",
+      "commission": 201600,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 프레임 FG (쿠션 날개형) SS",
+      "commission": 190800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 프레임 FT (미니멀 템바보드) K",
+      "commission": 172800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 프레임 FT (미니멀 템바보드) Q",
+      "commission": 162000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 프레임 FT (미니멀 템바보드) SS",
+      "commission": 155700,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 프레임 FU (수납 쿠션) K",
+      "commission": 179100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 프레임 FU (수납 쿠션) Q",
+      "commission": 172800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "스프링에어 프레임 FU (수납 쿠션) SS",
+      "commission": 162000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "안마의자 MC-700W",
+      "commission": 316800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "온리 드림 매트리스 Q",
+      "commission": 187200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "온리 드림 매트리스 S",
+      "commission": 161550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "온리 드림 매트리스 SS",
+      "commission": 171000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "클린핏 K",
+      "commission": 162450,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "클린핏 Q",
+      "commission": 145350,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "클린핏 S",
+      "commission": 102600,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "클린핏 SS",
+      "commission": 128250,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "파운데이션(그레이,웜베이지,샌드베이지) K",
+      "commission": 114750,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "파운데이션(그레이,웜베이지,샌드베이지) LK",
+      "commission": 160650,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "파운데이션(그레이,웜베이지,샌드베이지) Q",
+      "commission": 107100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "파운데이션(그레이,웜베이지,샌드베이지) S",
+      "commission": 84150,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "파운데이션(그레이,웜베이지,샌드베이지) SS",
+      "commission": 91800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FBT (패브릭 템바보드 프레임) K",
+      "commission": 144900,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FBT (패브릭 템바보드 프레임) LK",
+      "commission": 163800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FBT (패브릭 템바보드 프레임) Q",
+      "commission": 132300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FBT (패브릭 템바보드 프레임) S",
+      "commission": 107100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FBT (패브릭 템바보드 프레임) SS",
+      "commission": 119700,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FC (쿠션형 헤드보드) K",
+      "commission": 144900,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FC (쿠션형 헤드보드) LK",
+      "commission": 163800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FC (쿠션형 헤드보드) Q",
+      "commission": 132300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FC (쿠션형 헤드보드) S",
+      "commission": 107100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FC (쿠션형 헤드보드) SS",
+      "commission": 119700,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) K",
+      "commission": 157500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) K - 더블 판넬",
+      "commission": 191250,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) K - 싱글 판넬",
+      "commission": 180000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) LK",
+      "commission": 176400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) LK - 더블 판넬",
+      "commission": 214200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) LK - 싱글 판넬",
+      "commission": 201600,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) Q",
+      "commission": 144900,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) Q - 더블 판넬",
+      "commission": 175950,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) Q - 싱글 판넬",
+      "commission": 165600,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) S",
+      "commission": 119700,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) S - 더블 판넬",
+      "commission": 145350,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) S - 싱글 판넬",
+      "commission": 136800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) SS",
+      "commission": 132300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) SS - 더블 판넬",
+      "commission": 160650,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH (호텔식 패브릭) SS - 싱글 판넬",
+      "commission": 151200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) K",
+      "commission": 119700,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) K - 더블 판넬",
+      "commission": 145350,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) K - 싱글 판넬",
+      "commission": 136800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) LK",
+      "commission": 138600,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) LK - 더블 판넬",
+      "commission": 168300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) LK - 싱글 판넬",
+      "commission": 158400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) Q",
+      "commission": 107100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) Q - 더블 판넬",
+      "commission": 130050,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) Q - 싱글 판넬",
+      "commission": 122400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) S",
+      "commission": 75600,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) S - 더블 판넬",
+      "commission": 91800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) S - 싱글 판넬",
+      "commission": 86400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) SS",
+      "commission": 94500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) SS - 더블 판넬",
+      "commission": 114750,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS (미니멀 프레임) SS - 싱글 판넬",
+      "commission": 108000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 WB (패브릭 원목) K",
+      "commission": 151200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 WB (패브릭 원목) LK",
+      "commission": 170100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 WB (패브릭 원목) Q",
+      "commission": 138600,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 WB (패브릭 원목) S",
+      "commission": 113400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 WB (패브릭 원목) SS",
+      "commission": 126000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "ACAH-061AA",
+      "commission": 377280,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "ACAH-065AA",
+      "commission": 308736,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "ACAH-085AA",
+      "commission": 377280,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "ACAH-105AA",
+      "commission": 388890,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AD-1221E",
+      "commission": 333450,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AD-2026C",
+      "commission": 344970,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AD-2325C",
+      "commission": 344970,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AD-2526N",
+      "commission": 356670,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-1019D",
+      "commission": 365580,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-1023F",
+      "commission": 344970,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-1125G",
+      "commission": 344970,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-1225F",
+      "commission": 325440,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-1523D",
+      "commission": 388890,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-1526A",
+      "commission": 356670,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-1623M",
+      "commission": 400500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-2023K",
+      "commission": 400500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-2026B",
+      "commission": 365580,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-2425H",
+      "commission": 377280,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-3018B",
+      "commission": 435510,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-3021D",
+      "commission": 447030,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-3024H",
+      "commission": 447030,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-3519A",
+      "commission": 393930,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-3525I",
+      "commission": 423810,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-4025D",
+      "commission": 458640,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "APD-1023A",
+      "commission": 400500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "APD-1025E",
+      "commission": 423810,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "APH-0525F",
+      "commission": 388890,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "APM-1226H",
+      "commission": 400500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "BA20-D",
+      "commission": 321840,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "BA36-B",
+      "commission": 333450,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS25-B",
+      "commission": 356670,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS37-C",
+      "commission": 365580,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS38-C",
+      "commission": 377280,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS39-A",
+      "commission": 344970,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS40-B",
+      "commission": 344970,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS41-B",
+      "commission": 344970,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS47",
+      "commission": 356670,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS49-A",
+      "commission": 356670,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS51-A",
+      "commission": 388890,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "BB15-A",
+      "commission": 363510,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "BB16-A",
+      "commission": 386820,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "BB17-A",
+      "commission": 398430,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CER-04",
+      "commission": 310950,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFGK-CB02",
+      "commission": 398880,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-CB01",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-CB02",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-CB03",
+      "commission": 365490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-CB04",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-F04",
+      "commission": 312390,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-F05",
+      "commission": 312390,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-FP01",
+      "commission": 334620,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-FP01S",
+      "commission": 354330,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-FP02",
+      "commission": 334620,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-FP02S",
+      "commission": 354330,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-HT01",
+      "commission": 376560,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-TM09",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-TM11",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-TM12",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-TM13",
+      "commission": 334620,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFK-TM14",
+      "commission": 334620,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFLK-CB02",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFLK-CB04",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFLK-F04",
+      "commission": 312390,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFLK-F05",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFLK-HT01",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFLK-TM12",
+      "commission": 365490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFLK-TM13",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFLK-TM14",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-CB01",
+      "commission": 365490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-CB02",
+      "commission": 365490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-CB03",
+      "commission": 354330,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-CB04",
+      "commission": 365490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-F04",
+      "commission": 312390,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-F05",
+      "commission": 312390,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-FP01",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-FP01S",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-FP02",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-FP02S",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-HT01",
+      "commission": 365490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-LM01G",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-LM02G",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-SB01",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-TM09",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-TM11",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-TM12",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-TM13",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFQ-TM14",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFS-SB01",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-CB01",
+      "commission": 354330,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-CB02",
+      "commission": 354330,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-CB03",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-F04",
+      "commission": 312390,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-F05",
+      "commission": 312390,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-FP01",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-FP01S",
+      "commission": 334620,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-FP02",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-FP02S",
+      "commission": 334620,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-HT01",
+      "commission": 354330,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-LM01G",
+      "commission": 334620,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-LM02G",
+      "commission": 334620,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-SB01",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-TM09",
+      "commission": 312390,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-TM11",
+      "commission": 312390,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-TM12",
+      "commission": 334620,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-TM13",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CFSS-TM14",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-1111N/CHP-1112N",
+      "commission": 414990,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-264L",
+      "commission": 215820,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-3140N",
+      "commission": 427770,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-5700R",
+      "commission": 453060,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-5711L",
+      "commission": 389790,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-5711R",
+      "commission": 389790,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-5720L",
+      "commission": 440370,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-5730L",
+      "commission": 389790,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-5730N",
+      "commission": 389790,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-5730R",
+      "commission": 402390,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-6340L",
+      "commission": 389790,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-700L",
+      "commission": 405990,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-7211N",
+      "commission": 402390,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-7212N",
+      "commission": 414990,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-7220N",
+      "commission": 414990,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-8200N",
+      "commission": 414990,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-8210N",
+      "commission": 414990,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-8310L",
+      "commission": 414990,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHPI-5801L",
+      "commission": 465660,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHPI-5810L",
+      "commission": 478260,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHPI-5820L",
+      "commission": 465660,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHPI-5830L",
+      "commission": 478260,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHPI-620L",
+      "commission": 453060,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHPI-7400N",
+      "commission": 453060,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHPI-7410N",
+      "commission": 453060,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHPI-7420N",
+      "commission": 465660,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHPI-7430N",
+      "commission": 440370,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHPI-7511L",
+      "commission": 440370,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHPI-7521L",
+      "commission": 440370,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHR-04",
+      "commission": 344340,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CIP-31W",
+      "commission": 386190,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CIR-303",
+      "commission": 352800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CIR-F41GS",
+      "commission": 408420,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CIR-F60GS",
+      "commission": 497430,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMGK-SP01S",
+      "commission": 476730,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMGK-SP01SC",
+      "commission": 498960,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMGK-SP02S",
+      "commission": 487890,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMGK-SP02SC",
+      "commission": 510120,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMK-AS04",
+      "commission": 487890,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMK-AS05",
+      "commission": 535770,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMK-PR03",
+      "commission": 409950,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMK-PR04_V2",
+      "commission": 409950,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMK-S03",
+      "commission": 376560,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMK-S05",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMK-SE01",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMK-SE02",
+      "commission": 376560,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMK-SE03",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMK-SL01",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMK-SP01S",
+      "commission": 432180,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMK-SP01SC",
+      "commission": 454500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMK-SP02S",
+      "commission": 443340,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMK-SP02SC",
+      "commission": 465570,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMLK-AS04",
+      "commission": 510120,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMLK-AS05",
+      "commission": 579420,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMLK-PR04_V2",
+      "commission": 421110,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMLK-S03",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMLK-SE02",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMLK-SE03",
+      "commission": 398880,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMLK-SP01S",
+      "commission": 443340,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMLK-SP01SC",
+      "commission": 465570,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMLK-SP02S",
+      "commission": 465570,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMLK-SP02SC",
+      "commission": 487890,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-AS04",
+      "commission": 476730,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-AS05",
+      "commission": 521190,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-M01",
+      "commission": 365490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-OB03",
+      "commission": 365490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-PR03",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-PR04_V2",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-S03",
+      "commission": 354330,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-S05",
+      "commission": 365490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-SE01",
+      "commission": 365490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-SE02",
+      "commission": 365490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-SE03",
+      "commission": 365490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-SL01",
+      "commission": 376560,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-SP01S",
+      "commission": 421110,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-SP01SC",
+      "commission": 443340,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-SP02S",
+      "commission": 432180,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-SP02SC",
+      "commission": 454500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMQ-ST01EH",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMS-ST01EH",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-AS04",
+      "commission": 443340,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-AS05",
+      "commission": 476730,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-M01",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-OB03",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-PR03",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-PR04_V2",
+      "commission": 387630,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-S03",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-S05",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SE01",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SE02",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SE03",
+      "commission": 354330,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SL01",
+      "commission": 345780,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SP01S",
+      "commission": 409950,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SP01SC",
+      "commission": 432180,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SP02S",
+      "commission": 421110,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SP02SC",
+      "commission": 443340,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-ST01EH",
+      "commission": 323550,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CP-6340L",
+      "commission": 389790,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "CP-7211N",
+      "commission": 389790,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CP-7220N",
+      "commission": 402390,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CPI-7400N",
+      "commission": 440370,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CPI-7410N",
+      "commission": 440370,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CPI-7511L",
+      "commission": 427770,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CPSI-8510L",
+      "commission": 453060,
+      "sourceCount": 2
+    },
+    {
+      "brand": "코웨이",
+      "model": "CUP-30KS",
+      "commission": 364050,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "FAD-01S",
+      "commission": 408420,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "FAD-02S",
+      "commission": 408420,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "HCM-P01",
+      "commission": 397350,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "HCM-U01",
+      "commission": 352800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "MB-M03M",
+      "commission": 512100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "MB-M05M",
+      "commission": 539100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "MB-R03M",
+      "commission": 482400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "MB-R05M",
+      "commission": 509400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "MC-B02",
+      "commission": 341730,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "MC-B03",
+      "commission": 341730,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "MC-C01",
+      "commission": 355230,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "MC-C02",
+      "commission": 384930,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "MC-R01",
+      "commission": 390330,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "MC-R01M",
+      "commission": 395730,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "MC-SC01",
+      "commission": 533700,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "NHP-31KE",
+      "commission": 310950,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "NIP-31KE",
+      "commission": 322020,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "P-150N",
+      "commission": 342090,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "P-2200N",
+      "commission": 329490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "P-2210N",
+      "commission": 342090,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "P-350N",
+      "commission": 329490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "P-6320L",
+      "commission": 342090,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "WMG-2005",
+      "commission": 333450,
+      "sourceCount": 1
+    },
+    {
+      "brand": "코웨이",
+      "model": "WMG-3004",
+      "commission": 344970,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-09AA10FWH",
+      "commission": 199731,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-12R10FNW",
+      "commission": 168264,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-14L10FEW",
+      "commission": 189243,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-14R10FNW",
+      "commission": 178753,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-17T10FWH",
+      "commission": 199731,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-20T10FWH",
+      "commission": 210221,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-23AH10FNW",
+      "commission": 311099,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-25W10FWS",
+      "commission": 234571,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-28AH10FNW",
+      "commission": 289799,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-28AH10GNW",
+      "commission": 289799,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-28W10FWS",
+      "commission": 270204,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-30AH30FE",
+      "commission": 287299,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-35U10FWS",
+      "commission": 313209,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-35U20FWGE",
+      "commission": 349011,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-40AB10FNW",
+      "commission": 412641,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BFCS-LED",
+      "commission": 173618,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BFCS-UV",
+      "commission": 138272,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-H10",
+      "commission": 49909,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-H100",
+      "commission": 99000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-H30",
+      "commission": 59727,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-H40",
+      "commission": 69545,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-H50",
+      "commission": 79363,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-H80",
+      "commission": 89181,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-O10",
+      "commission": 122563,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-O100",
+      "commission": 222709,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-O150",
+      "commission": 261981,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-O200",
+      "commission": 320890,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-O250",
+      "commission": 360163,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-O30",
+      "commission": 126490,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-O300",
+      "commission": 419072,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-O50",
+      "commission": 146127,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BIPM-O70",
+      "commission": 179509,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "BPS-W1",
+      "commission": 125901,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CBT-E1021W",
+      "commission": 141119,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CBT-G1031W",
+      "commission": 114487,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CBT-G3031W",
+      "commission": 107768,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CBT-IS1031RW",
+      "commission": 202440,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CBT-IS1031W",
+      "commission": 191541,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CBT-KFFS31RW",
+      "commission": 202440,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CBT-L1031W",
+      "commission": 149996,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CBT-L1032W",
+      "commission": 149996,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CBT-PFF31RW",
+      "commission": 202440,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CBT-QF1041W",
+      "commission": 213338,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CBT-QS1041RW",
+      "commission": 219975,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CBT-QSB1041W",
+      "commission": 233131,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CBT-QSF1041W",
+      "commission": 219975,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AAS100ULW/ULDS",
+      "commission": 433259,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-ABS100GWH/GP",
+      "commission": 463628,
+      "sourceCount": 2
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-ABSC100GWH/GP",
+      "commission": 477717,
+      "sourceCount": 2
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-ACS1610SNW",
+      "commission": 597370,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-ACSR1620SW",
+      "commission": 607842,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AD011UGW",
+      "commission": 124060,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AE502HW",
+      "commission": 122013,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AF1601SW",
+      "commission": 347544,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AFRP1601SW",
+      "commission": 441121,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AHS100HE",
+      "commission": 545996,
+      "sourceCount": 2
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AHS101HE",
+      "commission": 570542,
+      "sourceCount": 2
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AHSC100HE",
+      "commission": 557757,
+      "sourceCount": 2
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AJS801SW",
+      "commission": 505088,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AJS821SW",
+      "commission": 505088,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AK011EG/EP/GB",
+      "commission": 162159,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AKS011EG/EP/GB",
+      "commission": 187125,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AMS100",
+      "commission": 535052,
+      "sourceCount": 2
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AQS100EWH",
+      "commission": 516923,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-DN1201S",
+      "commission": 306383,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-DN2001",
+      "commission": 282294,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-F603HW",
+      "commission": 180471,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-F603SW",
+      "commission": 180471,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-QN3002S",
+      "commission": 292211,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-QRP3002S",
+      "commission": 316447,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-SS100H",
+      "commission": 465802,
+      "sourceCount": 2
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-SS101HW",
+      "commission": 408861,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-TS100WS/DSL/GWH/GPK",
+      "commission": 293530,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-U011W/B",
+      "commission": 133632,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-W601HW",
+      "commission": 199813,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-W601SW",
+      "commission": 209484,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-W602HW",
+      "commission": 198729,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-W602SW",
+      "commission": 210335,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-WR602HW",
+      "commission": 222381,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-WRP602SW",
+      "commission": 242017,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-WS601HW",
+      "commission": 209484,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-WS601SW",
+      "commission": 222381,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-X501HW",
+      "commission": 173779,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-X501SW",
+      "commission": 183450,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CPPU-C1710C",
+      "commission": 86956,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CPPU-C1710CP",
+      "commission": 92316,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CWS-AO201W",
+      "commission": 76412,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "DH-WF21561EB",
+      "commission": 174840,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "DH-X22721EB",
+      "commission": 137845,
+      "sourceCount": 1
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "DH-Y1652FNW",
+      "commission": 110413,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "A-B233W,Z",
+      "commission": 279000,
+      "sourceCount": 2
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "A-B313W",
+      "commission": 396000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "A-C101W",
+      "commission": 216000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "A-C102W",
+      "commission": 126000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "A-T11DW0B",
+      "commission": 198000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "A-T12DW0B",
+      "commission": 324000,
+      "sourceCount": 2
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "B-L200W",
+      "commission": 162000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "B-S300W",
+      "commission": 162000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "C-B300B0B",
+      "commission": 216000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HDC9300B0F",
+      "commission": 216000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQAA10340F",
+      "commission": 450900,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQAA313W0F",
+      "commission": 474300,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQAB20340F",
+      "commission": 517500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQAB203E0F",
+      "commission": 323100,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQAB303E0F",
+      "commission": 424800,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQAV10340F",
+      "commission": 281700,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQBA300WBG",
+      "commission": 135000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQBB100W1D",
+      "commission": 220500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQBP530W0D",
+      "commission": 337500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQCC300B0G",
+      "commission": 261000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPA70SW0G",
+      "commission": 567000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPD11CC0G",
+      "commission": 410400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPG30CW0E",
+      "commission": 284400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPG30SW0E",
+      "commission": 291600,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPI73C",
+      "commission": 486000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPM11CW1D/E0C",
+      "commission": 351000,
+      "sourceCount": 2
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPM15C",
+      "commission": 119700,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPS11C",
+      "commission": 392400,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-A52C",
+      "commission": 324000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-A52S",
+      "commission": 324000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-B30CB/CW",
+      "commission": 207000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-B30SB/SW",
+      "commission": 198000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-M15CB",
+      "commission": 72000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-P32CS",
+      "commission": 171000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-P32SS",
+      "commission": 171000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-R40CS",
+      "commission": 234000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-R40SS",
+      "commission": 234000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "PM40SW",
+      "commission": 261000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "PM50SW",
+      "commission": 360000,
+      "sourceCount": 2
+    },
+    {
+      "brand": "LG",
+      "model": "AS065CWHA",
+      "commission": 310172,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "AS065PWHA",
+      "commission": 251181,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "AS065SWHA",
+      "commission": 280718,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "AS155GWDL",
+      "commission": 268936,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "AS185LGAA",
+      "commission": 286609,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "AS192DSFAM",
+      "commission": 310172,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "AS195DWWAM",
+      "commission": 298390,
+      "sourceCount": 2
+    },
+    {
+      "brand": "LG",
+      "model": "AS206N(S/G)HAM",
+      "commission": 380863,
+      "sourceCount": 2
+    },
+    {
+      "brand": "LG",
+      "model": "AS235DWSAM",
+      "commission": 357300,
+      "sourceCount": 2
+    },
+    {
+      "brand": "LG",
+      "model": "AS285DWWAM",
+      "commission": 351409,
+      "sourceCount": 2
+    },
+    {
+      "brand": "LG",
+      "model": "AS305DWWAM",
+      "commission": 357300,
+      "sourceCount": 2
+    },
+    {
+      "brand": "LG",
+      "model": "AS322DSFAM",
+      "commission": 369081,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "AS336NSLCM",
+      "commission": 427990,
+      "sourceCount": 2
+    },
+    {
+      "brand": "LG",
+      "model": "AS356N(S/G)MAM",
+      "commission": 498681,
+      "sourceCount": 2
+    },
+    {
+      "brand": "LG",
+      "model": "DQ256M(W/E)GAS",
+      "commission": 274827,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "FS065PSKAM",
+      "commission": 298390,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "HY705R(S/G)UAM",
+      "commission": 451472,
+      "sourceCount": 3
+    },
+    {
+      "brand": "LG",
+      "model": "WD120M(C/N)B",
+      "commission": 292744,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WD220M(C/N)B",
+      "commission": 321218,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WD323A(C/W)B",
+      "commission": 384790,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WD325AS",
+      "commission": 393218,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WD520ACB",
+      "commission": 370226,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WD520VC",
+      "commission": 389454,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WD523V(C/H/S/P/M)",
+      "commission": 422836,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WD524V(C/H/S)",
+      "commission": 459326,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WD525AHB/ACB/AGB/AS",
+      "commission": 423981,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WD722R(K/H/E)",
+      "commission": 547362,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WD723R(K/E)",
+      "commission": 432818,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WD724R(K/H/E)",
+      "commission": 547362,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WS511SH",
+      "commission": 253890,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WS513SH",
+      "commission": 312136,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WU523A(C/W)B",
+      "commission": 437318,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WU523AS",
+      "commission": 421608,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WU823AS",
+      "commission": 448772,
+      "sourceCount": 1
+    },
+    {
+      "brand": "LG",
+      "model": "WU923A(C/W/N/B)B, AS",
+      "commission": 479290,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "ACL-131T",
+      "commission": 70363,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "ACL-15C1A",
+      "commission": 183538,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "ACL-20C1A",
+      "commission": 216634,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "ACL-25C1A",
+      "commission": 236863,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "ACL-300VA",
+      "commission": 423204,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "ACL130Z0SKPN",
+      "commission": 173863,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "ACL16C",
+      "commission": 222545,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "ACL22C",
+      "commission": 268568,
+      "sourceCount": 3
+    },
+    {
+      "brand": "SK매직",
+      "model": "ACL22P1C",
+      "commission": 283500,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "BID-096P",
+      "commission": 183927,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "BIDF17DR43WH",
+      "commission": 178200,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "BIDF17DR54WW",
+      "commission": 184950,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "BIDS17DR64WH",
+      "commission": 224427,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "BIDS51DR15WH",
+      "commission": 219518,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-9100C",
+      "commission": 81000,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-B600F",
+      "commission": 182700,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-B610F",
+      "commission": 244636,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-B700",
+      "commission": 181063,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-B710",
+      "commission": 244636,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-GBC102",
+      "commission": 91063,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IAC414S",
+      "commission": 305018,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IAC425",
+      "commission": 527400,
+      "sourceCount": 2
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IAC506S",
+      "commission": 610036,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IAC606S",
+      "commission": 512672,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IC110F",
+      "commission": 352881,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-PBC204S",
+      "commission": 94336,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPUJAC104",
+      "commission": 237109,
+      "sourceCount": 3
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPUJAC115",
+      "commission": 432490,
+      "sourceCount": 2
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPUJAC125",
+      "commission": 321218,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPUJCC104",
+      "commission": 179018,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPUMAC306",
+      "commission": 291681,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPUTDC104",
+      "commission": 134590,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPUTDC10R",
+      "commission": 181063,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPUTDC114",
+      "commission": 131890,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPUTDF104",
+      "commission": 216409,
+      "sourceCount": 1
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPUTDF114",
+      "commission": 131890,
+      "sourceCount": 1
+    }
+  ]
+}
