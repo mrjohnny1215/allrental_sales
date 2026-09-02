@@ -111,6 +111,7 @@ Promise.all([
   const commissionConnected=(commissionStatusCounts.brand_model_exact||0)+(commissionStatusCounts.brand_model_prefix||0);
   $('#stats').innerHTML=`<div><b>${allProducts.length}</b><span>판매 가능 상품</span></div><div><b>${c.water_purifier||0}</b><span>정수기</span></div><div><b>${c.air_purifier||0}</b><span>공기청정기</span></div><div><b>${c.bidet||0}</b><span>비데</span></div><div><b>${c.mattress||0}</b><span>매트리스</span></div><div><b>${commissionConnected}</b><span>수수료 연결</span></div><div><b>${commissionStatusCounts.unregistered||0}</b><span>수수료 미등록</span></div>`;
   render();
+  if(window.refreshCrm) window.refreshCrm();
 }).catch(e=>{$('#productList').className='empty error';$('#productList').textContent=e.message});
 
 (function(){
