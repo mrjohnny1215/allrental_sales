@@ -1,0 +1,6532 @@
+{
+  "generatedAt": "2026-09-02T06:07:15.003Z",
+  "summary": {
+    "customerProducts": 427,
+    "adminProducts": 771,
+    "missingCount": 159,
+    "suspectedNormalizationIssueCount": 149,
+    "unknownBrandMissingCount": 0
+  },
+  "missing": [
+    {
+      "brand": "웰스",
+      "model": "BM750RWA",
+      "title": "[웰스] 비데 자동살균",
+      "category": "bidet",
+      "price": 22900,
+      "url": "https://rentalsegye.com/product.php?no=18058&cid=1379&gid=1408"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "BD-35D40",
+      "title": "[청호나이스] 쾌변 건조 비데 B350 + 소형변좌",
+      "category": "bidet",
+      "price": 12900,
+      "url": "https://rentalsegye.com/product.php?no=22090&cid=1379&gid=1408"
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "B-S300W0B",
+      "title": "[현대큐밍] 더클린 스마트",
+      "category": "bidet",
+      "price": 18900,
+      "url": "https://rentalsegye.com/product.php?no=22112&cid=1379&gid=1408"
+    },
+    {
+      "brand": "웰스",
+      "model": "BP550CWA",
+      "title": "[웰스] 리모컨 비데 향균방수 플러스",
+      "category": "bidet",
+      "price": 14900,
+      "url": "https://rentalsegye.com/product.php?no=28102&cid=1379&gid=1408"
+    },
+    {
+      "brand": "웰스",
+      "model": "BP750CWA",
+      "title": "[웰스] 리모컨 비데 자동살균",
+      "category": "bidet",
+      "price": 17900,
+      "url": "https://rentalsegye.com/product.php?no=28103&cid=1379&gid=1408"
+    },
+    {
+      "brand": "웰스",
+      "model": "BM750RWA",
+      "title": "[웰스] 비데 자동살균 (홈케어)",
+      "category": "bidet",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=28106&cid=1379&gid=1408"
+    },
+    {
+      "brand": "웰스",
+      "model": "BQ650RWA",
+      "title": "[웰스] 비데 올스텐 트윈",
+      "category": "bidet",
+      "price": 18900,
+      "url": "https://rentalsegye.com/product.php?no=33291&cid=1379&gid=1408"
+    },
+    {
+      "brand": "웰스",
+      "model": "BQ450RWA",
+      "title": "[웰스] 비데 올스텐",
+      "category": "bidet",
+      "price": 14900,
+      "url": "https://rentalsegye.com/product.php?no=33292&cid=1379&gid=1408"
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS40-A",
+      "title": "[코웨이] 스스로케어 비데(일반형)",
+      "category": "bidet",
+      "price": 15660,
+      "url": "https://rentalsegye.com/product.php?no=33838&cid=1379&gid=1408"
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS41-A",
+      "title": "[코웨이] 스타일케어 비데",
+      "category": "bidet",
+      "price": 17010,
+      "url": "https://rentalsegye.com/product.php?no=34630&cid=1379&gid=1408"
+    },
+    {
+      "brand": "웰스",
+      "model": "BR550RWA",
+      "title": "[웰스] 올스텐 에어 비데",
+      "category": "bidet",
+      "price": 15900,
+      "url": "https://rentalsegye.com/product.php?no=38139&cid=1379&gid=1408"
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS47-A",
+      "title": "[코웨이] 스스로케어 비데 리모트2",
+      "category": "bidet",
+      "price": 20400,
+      "url": "https://rentalsegye.com/product.php?no=41358&cid=1379&gid=1408"
+    },
+    {
+      "brand": "SK매직",
+      "model": "BID-F17D",
+      "title": "[SK매직] 풀스텐 스파 방수 비데",
+      "category": "bidet",
+      "price": 14900,
+      "url": "https://rentalsegye.com/product.php?no=42328&cid=1379&gid=1408"
+    },
+    {
+      "brand": "SK매직",
+      "model": "BID-F17DR54",
+      "title": "[SK매직] 위글위글 풀스텐 스파 비데",
+      "category": "bidet",
+      "price": 15900,
+      "url": "https://rentalsegye.com/product.php?no=42329&cid=1379&gid=1408"
+    },
+    {
+      "brand": "SK매직",
+      "model": "BID-S17D",
+      "title": "[SK매직] 풀스텐 살균 비데",
+      "category": "bidet",
+      "price": 15900,
+      "url": "https://rentalsegye.com/product.php?no=42330&cid=1379&gid=1408"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "BS-35D50P",
+      "title": "[청호나이스] B600 플러스 비데",
+      "category": "bidet",
+      "price": 16900,
+      "url": "https://rentalsegye.com/product.php?no=45099&cid=1379&gid=1408"
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IAC414",
+      "title": "[SK매직] 원코크 얼음물 직수얼음 정수기",
+      "category": "water",
+      "price": 39400,
+      "url": "https://rentalsegye.com/product.php?no=42272&cid=1377&gid=1424"
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IAC425S",
+      "title": "[SK매직] 원코크 플러스 얼음물 정수기",
+      "category": "water",
+      "price": 39000,
+      "url": "https://rentalsegye.com/product.php?no=42268&cid=1377&gid=1424"
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPM11C",
+      "title": "[현대큐밍] 더슬림 마이핏 냉온정수기",
+      "category": "water",
+      "price": 19900,
+      "url": "https://rentalsegye.com/product.php?no=32998&cid=1377&gid=1424"
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-ABS100GWH/GPK",
+      "title": "[쿠쿠] 인스퓨어 STEAM 100 끓인 물 정수기",
+      "category": "water",
+      "price": 24210,
+      "url": "https://rentalsegye.com/product.php?no=27966&cid=1377&gid=1424"
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AHS100HEW/EG/EBR/EB/PK",
+      "title": "[쿠쿠] 제로 100 슬림 얼음 정수기",
+      "category": "water",
+      "price": 36810,
+      "url": "https://rentalsegye.com/product.php?no=36388&cid=1377&gid=1424"
+    },
+    {
+      "brand": "웰스",
+      "model": "WP270UWA",
+      "title": "[웰스] 미네랄 중형 스탠드 PLUS 냉온정수기",
+      "category": "water",
+      "price": 29900,
+      "url": "https://rentalsegye.com/product.php?no=24544&cid=1377&gid=1424"
+    },
+    {
+      "brand": "웰스",
+      "model": "WP270UWA",
+      "title": "[웰스] 미네랄 중형 스탠드 PLUS 냉온정수기 (업소용)",
+      "category": "water",
+      "price": 36900,
+      "url": "https://rentalsegye.com/product.php?no=24545&cid=1377&gid=1424"
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-B30S",
+      "title": "[현대큐밍] 더퓨어 베이직 냉온정수기",
+      "category": "water",
+      "price": 16900,
+      "url": "https://rentalsegye.com/product.php?no=11361&cid=1377&gid=1424"
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-R40C(R)S",
+      "title": "[현대큐밍] 프리미엄RO 냉온정수기 (하프형)",
+      "category": "water",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=11371&cid=1377&gid=1424"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-30C9560N",
+      "title": "[청호나이스] 냉온정수기",
+      "category": "water",
+      "price": 24900,
+      "url": "https://rentalsegye.com/product.php?no=14943&cid=1377&gid=1424"
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-B30C",
+      "title": "[현대큐밍] 더퓨어 베이직 냉온정수기",
+      "category": "water",
+      "price": 16900,
+      "url": "https://rentalsegye.com/product.php?no=15221&cid=1377&gid=1424"
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-DN2001S",
+      "title": "[쿠쿠] 업소용 대용량 냉온정수기 L",
+      "category": "water",
+      "price": 25900,
+      "url": "https://rentalsegye.com/product.php?no=19829&cid=1377&gid=1424"
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-JAC104S(WW)",
+      "title": "[SK매직] 초소형 직수 정수기 위글위글",
+      "category": "water",
+      "price": 26000,
+      "url": "https://rentalsegye.com/product.php?no=42270&cid=1377&gid=1424"
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-JAC104S",
+      "title": "[SK매직] 초소형 직수 정수기",
+      "category": "water",
+      "price": 26000,
+      "url": "https://rentalsegye.com/product.php?no=42274&cid=1377&gid=1424"
+    },
+    {
+      "brand": "웰스",
+      "model": "WM071RWA",
+      "title": "[웰스] 정수기 RO",
+      "category": "water",
+      "price": 35900,
+      "url": "https://rentalsegye.com/product.php?no=19901&cid=1377&gid=1424"
+    },
+    {
+      "brand": "웰스",
+      "model": "WQ271UWA",
+      "title": "[웰스]  정수기 미네랄 소형 스탠드",
+      "category": "water",
+      "price": 21900,
+      "url": "https://rentalsegye.com/product.php?no=31351&cid=1377&gid=1424"
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQP-M50SW",
+      "title": "[현대큐밍] 더퓨어 마크업 대용량 냉온정수기",
+      "category": "water",
+      "price": 29900,
+      "url": "https://rentalsegye.com/product.php?no=29669&cid=1377&gid=1424"
+    },
+    {
+      "brand": "웰스",
+      "model": "WP610NWA",
+      "title": "[웰스] 미미 정수기",
+      "category": "water",
+      "price": 9900,
+      "url": "https://rentalsegye.com/product.php?no=26417&cid=1377&gid=1424"
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AHSC100HEB/EW",
+      "title": "[쿠쿠] 제로 100 슬림 바리스타 정수",
+      "category": "water",
+      "price": 37710,
+      "url": "https://rentalsegye.com/product.php?no=40255&cid=1377&gid=1424"
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQP-M40SW",
+      "title": "[현대큐밍] 더퓨어 마크업 RO 냉온정수기",
+      "category": "water",
+      "price": 32900,
+      "url": "https://rentalsegye.com/product.php?no=29169&cid=1377&gid=1424"
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQP-M50SW",
+      "title": "[현대큐밍] 더퓨어 마크업 중용량 냉온정수기",
+      "category": "water",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=29170&cid=1377&gid=1424"
+    },
+    {
+      "brand": "웰스",
+      "model": "WQ171UWA",
+      "title": "[웰스] 냉온정수기 미네랄",
+      "category": "water",
+      "price": 20900,
+      "url": "https://rentalsegye.com/product.php?no=31350&cid=1377&gid=1424"
+    },
+    {
+      "brand": "웰스",
+      "model": "WQ652NWR",
+      "title": "[웰스] 슈퍼쿨링 냉정수기",
+      "category": "water",
+      "price": 15900,
+      "url": "https://rentalsegye.com/product.php?no=30055&cid=1377&gid=1424"
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-SS100WSV/HGM/HGP/HGB",
+      "title": "[쿠쿠] ZERO 100S UV살균 끓인 물 · 얼음 냉온정수기",
+      "category": "water",
+      "price": 39900,
+      "url": "https://rentalsegye.com/product.php?no=31348&cid=1377&gid=1424"
+    },
+    {
+      "brand": "웰스",
+      "model": "WR872MWA",
+      "title": "[웰스] 아이스원 얼음정수기",
+      "category": "water",
+      "price": 39900,
+      "url": "https://rentalsegye.com/product.php?no=36099&cid=1377&gid=1424"
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AAS100ULDS/ULW",
+      "title": "[쿠쿠] 인스퓨어 끓인 물 STEAM 100 빌트인 정수기",
+      "category": "water",
+      "price": 40900,
+      "url": "https://rentalsegye.com/product.php?no=32839&cid=1377&gid=1424"
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPM14C",
+      "title": "[현대큐밍] 더슬림 마이핏 냉정수기",
+      "category": "water",
+      "price": 19900,
+      "url": "https://rentalsegye.com/product.php?no=32999&cid=1377&gid=1424"
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-ABSC100GWH/PK",
+      "title": "[쿠쿠] 인스퓨어 100 Barista",
+      "category": "water",
+      "price": 25110,
+      "url": "https://rentalsegye.com/product.php?no=34424&cid=1377&gid=1424"
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-9100",
+      "title": "[SK매직] 언더싱크 정수기",
+      "category": "water",
+      "price": 18900,
+      "url": "https://rentalsegye.com/product.php?no=42299&cid=1377&gid=1424"
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-GBC102S",
+      "title": "[SK매직] 무전원 에코 미니 정수기 Green 41",
+      "category": "water",
+      "price": 13900,
+      "url": "https://rentalsegye.com/product.php?no=42297&cid=1377&gid=1424"
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPS1CYOE",
+      "title": "[현대큐밍] 딜라이트 직수형 냉온정수기",
+      "category": "water",
+      "price": 27900,
+      "url": "https://rentalsegye.com/product.php?no=36487&cid=1377&gid=1424"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-60C90521M",
+      "title": "[청호나이스] 아이스트리 플리 얼음냉온정수기",
+      "category": "water",
+      "price": 38900,
+      "url": "https://rentalsegye.com/product.php?no=37346&cid=1377&gid=1424"
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPI73CG0E",
+      "title": "[현대큐밍] 딜라이트 아이스 얼음냉온정수기",
+      "category": "water",
+      "price": 44900,
+      "url": "https://rentalsegye.com/product.php?no=37177&cid=1377&gid=1424"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-1111N",
+      "title": "[코웨이] 엘리트 빌트인 정수기",
+      "category": "water",
+      "price": 27810,
+      "url": "https://rentalsegye.com/product.php?no=41303&cid=1377&gid=1424"
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-JAC115P",
+      "title": "[SK매직] PSG 초소형 플러스 직수 정수기",
+      "category": "water",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=42266&cid=1377&gid=1424"
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IAC425P",
+      "title": "[SK매직] PSG 원코크 플러스 얼음물 정수기",
+      "category": "water",
+      "price": 39000,
+      "url": "https://rentalsegye.com/product.php?no=42267&cid=1377&gid=1424"
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-B700F",
+      "title": "[SK매직] 뉴그랜드 정수기",
+      "category": "water",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=42311&cid=1377&gid=1424"
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-B710F",
+      "title": "[SK매직] 뉴그랜드 정수기",
+      "category": "water",
+      "price": 29900,
+      "url": "https://rentalsegye.com/product.php?no=42312&cid=1377&gid=1424"
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AMS100EBE/WH/BR/PK/BK",
+      "title": "[쿠쿠] 인스퓨어 미니100 초소형 냉온정수기",
+      "category": "water",
+      "price": 26010,
+      "url": "https://rentalsegye.com/product.php?no=43680&cid=1377&gid=1424"
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-JAC125S",
+      "title": "[SK매직] 초소형 라이트 직수 냉온정수기",
+      "category": "water",
+      "price": 24000,
+      "url": "https://rentalsegye.com/product.php?no=44619&cid=1377&gid=1424"
+    },
+    {
+      "brand": "웰스",
+      "model": "WT652NWA",
+      "title": "[웰스] 슈퍼쿨링2 냉정수기",
+      "category": "water",
+      "price": 17900,
+      "url": "https://rentalsegye.com/product.php?no=47211&cid=1377&gid=1424"
+    },
+    {
+      "brand": "웰스",
+      "model": "WT672NWA",
+      "title": "[웰스] 슈퍼쿨링2 냉온정수기",
+      "category": "water",
+      "price": 19900,
+      "url": "https://rentalsegye.com/product.php?no=47212&cid=1377&gid=1424"
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AHS101HEW",
+      "title": "[쿠쿠] 제로 100 슬림 플러스 얼음 냉온정수기",
+      "category": "water",
+      "price": 36810,
+      "url": "https://rentalsegye.com/product.php?no=47913&cid=1377&gid=1424"
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IAC606",
+      "title": "[SK매직] MEGA ICE 얼음정수기 mini",
+      "category": "water",
+      "price": 35900,
+      "url": "https://rentalsegye.com/product.php?no=49288&cid=1377&gid=1424"
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-MAC306SWH",
+      "title": "[SK매직] 투워터 직수 냉온정수기",
+      "category": "water",
+      "price": 32900,
+      "url": "https://rentalsegye.com/product.php?no=48070&cid=1377&gid=1424"
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IAC506",
+      "title": "[SK매직] MEGA ICE 얼음냉온정수기",
+      "category": "water",
+      "price": 41500,
+      "url": "https://rentalsegye.com/product.php?no=48596&cid=1377&gid=1424"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-7211N_V2",
+      "title": "[코웨이] 아이콘 정수기2 V2",
+      "category": "water",
+      "price": 25110,
+      "url": "https://rentalsegye.com/product.php?no=48835&cid=1377&gid=1424"
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-SS101WSV",
+      "title": "[쿠쿠] 제로 100S 끓인물 얼음 냉온정수기 화이트",
+      "category": "water",
+      "price": 37900,
+      "url": "https://rentalsegye.com/product.php?no=49323&cid=1377&gid=1424"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CP-7211N_V2",
+      "title": "[코웨이] 아이콘 정수기2 V2",
+      "category": "water",
+      "price": 23310,
+      "url": "https://rentalsegye.com/product.php?no=49384&cid=1377&gid=1424"
+    },
+    {
+      "brand": "코웨이",
+      "model": "APMS-1020A",
+      "title": "[코웨이] 듀얼클린 가습공기청정기 12평형",
+      "category": "air",
+      "price": 26400,
+      "url": "https://rentalsegye.com/product.php?no=11460&cid=1379&gid=1407"
+    },
+    {
+      "brand": "세스코",
+      "model": "EADS721",
+      "title": "[세스코] 트루에어 공기청정기 판테온 25평형 포레스트그린",
+      "category": "air",
+      "price": 21900,
+      "url": "https://rentalsegye.com/product.php?no=39801&cid=1379&gid=1407"
+    },
+    {
+      "brand": "웰스",
+      "model": "AQ107",
+      "title": "[웰스] 공기청정기 미니맥스 7평형 허브그린",
+      "category": "air",
+      "price": 12900,
+      "url": "https://rentalsegye.com/product.php?no=24547&cid=1379&gid=1407"
+    },
+    {
+      "brand": "웰스",
+      "model": "AP107",
+      "title": "[웰스] 공기청정기 미니맥스 7평형 스톤그레이",
+      "category": "air",
+      "price": 12900,
+      "url": "https://rentalsegye.com/product.php?no=30298&cid=1379&gid=1407"
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-3522F",
+      "title": "[코웨이] 파워업 공기청정기 35평형",
+      "category": "air",
+      "price": 45900,
+      "url": "https://rentalsegye.com/product.php?no=36867&cid=1379&gid=1407"
+    },
+    {
+      "brand": "웰스",
+      "model": "AR107",
+      "title": "[웰스] 공기청정기 미니맥스 7평형 우드베이지",
+      "category": "air",
+      "price": 12900,
+      "url": "https://rentalsegye.com/product.php?no=37089&cid=1379&gid=1407"
+    },
+    {
+      "brand": "웰스",
+      "model": "AP520VWA",
+      "title": "[웰스] 토네이도 안티바이러스 공기청정기 22평형",
+      "category": "air",
+      "price": 25900,
+      "url": "https://rentalsegye.com/product.php?no=39232&cid=1379&gid=1407"
+    },
+    {
+      "brand": "세스코",
+      "model": "EADS741",
+      "title": "[세스코] 트루살균 공기청정기 판테온 25평형 포레스트그린",
+      "category": "air",
+      "price": 33900,
+      "url": "https://rentalsegye.com/product.php?no=39799&cid=1379&gid=1407"
+    },
+    {
+      "brand": "세스코",
+      "model": "EADS541",
+      "title": "[세스코] 트루살균 공기청정기 판테온 20평형 포레스트그린",
+      "category": "air",
+      "price": 30900,
+      "url": "https://rentalsegye.com/product.php?no=40192&cid=1379&gid=1407"
+    },
+    {
+      "brand": "세스코",
+      "model": "EADS521",
+      "title": "[세스코] 트루에어 공기청정기 판테온 20평형 포레스트그린",
+      "category": "air",
+      "price": 18900,
+      "url": "https://rentalsegye.com/product.php?no=40194&cid=1379&gid=1407"
+    },
+    {
+      "brand": "웰스",
+      "model": "AS524CWA",
+      "title": "[웰스] 에어가든 Lite 공기청정기 24평형",
+      "category": "air",
+      "price": 20900,
+      "url": "https://rentalsegye.com/product.php?no=40611&cid=1379&gid=1407"
+    },
+    {
+      "brand": "웰스",
+      "model": "AS526CWA",
+      "title": "[웰스] 에어가든 Lite 공기청정기 26평형",
+      "category": "air",
+      "price": 23900,
+      "url": "https://rentalsegye.com/product.php?no=40613&cid=1379&gid=1407"
+    },
+    {
+      "brand": "SK매직",
+      "model": "ACL-300",
+      "title": "[SK매직] 슈퍼 공기청정기 30평형",
+      "category": "air",
+      "price": 49900,
+      "url": "https://rentalsegye.com/product.php?no=42315&cid=1379&gid=1407"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "AP-23H8550",
+      "title": "[청호나이스] A880 멀티순환 벽걸이 공기청정기 23평형",
+      "category": "air",
+      "price": 38900,
+      "url": "https://rentalsegye.com/product.php?no=42318&cid=1379&gid=1407"
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQAD203",
+      "title": "[현대큐밍] 딜라이트 에어 공기청정기 23평형",
+      "category": "air",
+      "price": 22900,
+      "url": "https://rentalsegye.com/product.php?no=50217&cid=1379&gid=1407"
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-30AH30FEDR",
+      "title": "[쿠쿠] 인스퓨어 헤리티지 공기청정기 30평형 어스다크그레이",
+      "category": "air",
+      "price": 22900,
+      "url": "https://rentalsegye.com/product.php?no=47181&cid=1379&gid=1407"
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-30AH30FEDG",
+      "title": "[쿠쿠] 인스퓨어 헤리티지 공기청정기 30평형 어스다크브라운",
+      "category": "air",
+      "price": 22900,
+      "url": "https://rentalsegye.com/product.php?no=47180&cid=1379&gid=1407"
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "SH-3025AH",
+      "title": "[현대큐밍] 더케어 에어스팬 공기청정기 30평형 화이트/블랙",
+      "category": "air",
+      "price": 28900,
+      "url": "https://rentalsegye.com/product.php?no=47209&cid=1379&gid=1407"
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-N25W10FWS",
+      "title": "[쿠쿠] 인스퓨어 W8200 펫 전용 공기청정기",
+      "category": "air",
+      "price": 29900,
+      "url": "https://rentalsegye.com/product.php?no=47520&cid=1379&gid=1407"
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQAD103",
+      "title": "[현대큐밍] 딜라이트 에어 공기청정기 14평형",
+      "category": "air",
+      "price": 17900,
+      "url": "https://rentalsegye.com/product.php?no=50183&cid=1379&gid=1407"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-PR03,CMQ-PR03,CMK-PR03",
+      "title": "[코웨이] 탑퍼교체 하이브리드3 매트리스 (슈퍼싱글,퀸,킹)",
+      "category": "mattress",
+      "price": 19900,
+      "url": "https://rentalsegye.com/product.php?no=11552&cid=1486&gid=1580"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-PR04,CMQ-PR04,CMK-PR04,CMLK-PR04",
+      "title": "[코웨이] 탑퍼교체 하이브리드4 매트리스 (슈퍼싱글,퀸,킹,라지킹)",
+      "category": "mattress",
+      "price": 19900,
+      "url": "https://rentalsegye.com/product.php?no=11554&cid=1486&gid=1580"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SL01,CMQ-SL01,CMK-SL01",
+      "title": "[코웨이] 탑퍼교체 더블체인지 매트리스 (슈퍼싱글,퀸,킹)",
+      "category": "mattress",
+      "price": 12900,
+      "url": "https://rentalsegye.com/product.php?no=11561&cid=1486&gid=1580"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-M01,CMQ-M01",
+      "title": "[코웨이] 컴팩트 메모리폼 매트리스 (슈퍼싱글,퀸)",
+      "category": "mattress",
+      "price": 14900,
+      "url": "https://rentalsegye.com/product.php?no=11562&cid=1486&gid=1580"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-OB03,CMQ-OB03",
+      "title": "[코웨이] 커버교체 원바디2 매트리스 (슈퍼싱글,퀸)",
+      "category": "mattress",
+      "price": 14900,
+      "url": "https://rentalsegye.com/product.php?no=28015&cid=1486&gid=1580"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMS-ST01EH,CMSS-ST01EH,CMQ-ST01EH",
+      "title": "[코웨이] 엘리트 매트리스 (싱글,슈퍼싱글,퀸)",
+      "category": "mattress",
+      "price": 10900,
+      "url": "https://rentalsegye.com/product.php?no=34136&cid=1486&gid=1580"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SP01SC,CMQ-SP01SC,CMK-SP01SC,CMLK-SP01SC,CMGK-SP01SC",
+      "title": "[코웨이] 비렉스 시그니처 매트리스 컴포트 (슈퍼싱글,퀸,킹,라지킹,그레이트킹)",
+      "category": "mattress",
+      "price": 38900,
+      "url": "https://rentalsegye.com/product.php?no=34492&cid=1486&gid=1580"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SP01S,CMQ-SP01S,CMK-SP01S,CMLK-SP01S,CMGK-SP01S",
+      "title": "[코웨이] 비렉스 시그니처 매트리스 (슈퍼싱글,퀸,킹,라지킹,그레이트킹)",
+      "category": "mattress",
+      "price": 34900,
+      "url": "https://rentalsegye.com/product.php?no=34493&cid=1486&gid=1580"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SE01,CMQ-SE01,CMK-SE01",
+      "title": "[코웨이] 비렉스 더블사이드 매트리스 (슈퍼싱글,퀸,킹)",
+      "category": "mattress",
+      "price": 15900,
+      "url": "https://rentalsegye.com/product.php?no=34697&cid=1486&gid=1580"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-AS05,CMQ-AS05,CMK-AS05,CMLK-AS05",
+      "title": "[코웨이] 비렉스 스마트 매트리스 S8+ (슈퍼싱글,퀸,킹,라지킹)",
+      "category": "mattress",
+      "price": 66900,
+      "url": "https://rentalsegye.com/product.php?no=39202&cid=1486&gid=1580"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-AS04,CMQ-AS04,CMK-AS04,CMLK-AS04",
+      "title": "[코웨이] 비렉스 스마트 매트리스 S6+ (슈퍼싱글,퀸,킹,라지킹)",
+      "category": "mattress",
+      "price": 52900,
+      "url": "https://rentalsegye.com/product.php?no=39203&cid=1486&gid=1580"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SE02,CMQ-SE02,CMK-SE02,CMLK-SE02",
+      "title": "[코웨이] 비렉스 모디 매트리스 (슈퍼싱글,퀸,킹,라지킹)",
+      "category": "mattress",
+      "price": 12900,
+      "url": "https://rentalsegye.com/product.php?no=44945&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "온리 드림",
+      "title": "[청호나이스] 매트리스 온리 드림 화이트베이지 S/SS/Q",
+      "category": "mattress",
+      "price": 13900,
+      "url": "https://rentalsegye.com/product.php?no=45187&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "매트리스 William J",
+      "title": "[청호나이스] 매트리스 William J 웜베이지 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 25900,
+      "url": "https://rentalsegye.com/product.php?no=45188&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 드림",
+      "title": "[청호나이스] 매트리스 듀얼 드림 화이트베이지 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 15900,
+      "url": "https://rentalsegye.com/product.php?no=45189&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 코지",
+      "title": "[청호나이스] 매트리스 듀얼 코지 화이트베이지 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 15900,
+      "url": "https://rentalsegye.com/product.php?no=45190&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FBT + 듀얼 드림",
+      "title": "[청호나이스] 패브릭 템바보드 프레임 FBT + 매트리스 듀얼 드림 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 33800,
+      "url": "https://rentalsegye.com/product.php?no=45240&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 WB + 매트리스 William J",
+      "title": "[청호나이스] 패브릭 원목 프레임 + 매트리스 William J SS/Q/K/LK",
+      "category": "mattress",
+      "price": 44800,
+      "url": "https://rentalsegye.com/product.php?no=45243&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FC + 온리 드림",
+      "title": "[청호나이스] 쿠션형 헤드보드 프레임 FC + 매트리스 온리 드림 S/SS/Q",
+      "category": "mattress",
+      "price": 28800,
+      "url": "https://rentalsegye.com/product.php?no=45245&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "파운데이션 + 듀얼 코지",
+      "title": "[청호나이스] 파운데이션 + 매트리스 듀얼 코지 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 28800,
+      "url": "https://rentalsegye.com/product.php?no=45247&cid=1486&gid=1580"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SE03,CMQ-SE03,CMK-SE03,CMLK-SE03",
+      "title": "[코웨이] 비렉스 루네어 매트리스 (슈퍼싱글,퀸,킹,라지킹)",
+      "category": "mattress",
+      "price": 14900,
+      "url": "https://rentalsegye.com/product.php?no=45381&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS + 듀얼 코지",
+      "title": "[청호나이스] 미니멀 프레임 FS + 매트리스 듀얼 코지 SS/Q/K/LK 5년약정",
+      "category": "mattress",
+      "price": 42800,
+      "url": "https://rentalsegye.com/product.php?no=45387&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS + 듀얼 코지",
+      "title": "[청호나이스] 미니멀 프레임 FS + 매트리스 듀얼 코지 SS/Q/K/LK 6년약정",
+      "category": "mattress",
+      "price": 30800,
+      "url": "https://rentalsegye.com/product.php?no=45389&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH + 듀얼 드림",
+      "title": "[청호나이스] 호텔식 패브릭 프레임 FH + 매트리스 듀얼 드림 SS/Q/K/LK 5년약정",
+      "category": "mattress",
+      "price": 49800,
+      "url": "https://rentalsegye.com/product.php?no=45397&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH + 듀얼 드림",
+      "title": "[청호나이스] 호텔식 패브릭 프레임 FH + 매트리스 듀얼 드림 SS/Q/K/LK 6년약정",
+      "category": "mattress",
+      "price": 35800,
+      "url": "https://rentalsegye.com/product.php?no=45402&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FBT + 듀얼 코지",
+      "title": "[청호나이스] 패브릭 템바보드 프레임 FBT + 매트리스 듀얼 코지 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 33800,
+      "url": "https://rentalsegye.com/product.php?no=45424&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 WB + 듀얼 드림",
+      "title": "[청호나이스] 패브릭 원목 프레임 + 매트리스 듀얼 드림 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 34800,
+      "url": "https://rentalsegye.com/product.php?no=45426&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FC + 매트리스 William J",
+      "title": "[청호나이스] 쿠션형 헤드보드 프레임 FC + 매트리스 William J SS/Q/K/LK",
+      "category": "mattress",
+      "price": 43800,
+      "url": "https://rentalsegye.com/product.php?no=45428&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "파운데이션 + 온리 드림",
+      "title": "[청호나이스] 파운데이션 + 매트리스 온리 드림 S/SS/Q",
+      "category": "mattress",
+      "price": 24800,
+      "url": "https://rentalsegye.com/product.php?no=45431&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "네스티지 매트리스",
+      "title": "[청호나이스] 네스티지 매트리스 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 38900,
+      "url": "https://rentalsegye.com/product.php?no=47465&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 드림 온열 매트리스",
+      "title": "[청호나이스] 듀얼 드림 온열 매트리스 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 29900,
+      "url": "https://rentalsegye.com/product.php?no=47467&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 코지 온열 매트리스",
+      "title": "[청호나이스] 듀얼 코지 온열 매트리스 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 29900,
+      "url": "https://rentalsegye.com/product.php?no=47469&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "로얄스위트 프라임 매트리스",
+      "title": "[청호나이스] 로얄스위트 프라임 매트리스 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 30900,
+      "url": "https://rentalsegye.com/product.php?no=47471&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "멜로우드림 매트리스",
+      "title": "[청호나이스] 멜로우드림 매트리스 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 24900,
+      "url": "https://rentalsegye.com/product.php?no=47473&cid=1486&gid=1580"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMGK-SP02SC,CMLK-SP02SC,CMK-SP02SC,CMQ-SP02SC,CMSS-SP02SC",
+      "title": "[코웨이] 시그니처 파이어쉴드 컴포트 매트리스 (슈퍼싱글,퀸,킹,라지킹,그레이트킹)",
+      "category": "mattress",
+      "price": 42900,
+      "url": "https://rentalsegye.com/product.php?no=48598&cid=1486&gid=1580"
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMGK-SP02S,CMLK-SP02S,CMK-SP02S,CMQ-SP02S,CMSS-SP02S",
+      "title": "[코웨이] 시그니처 파이어쉴드 매트리스 (슈퍼싱글,퀸,킹,라지킹,그레이트킹)",
+      "category": "mattress",
+      "price": 38900,
+      "url": "https://rentalsegye.com/product.php?no=48599&cid=1486&gid=1580"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "MC-250W",
+      "title": "[청호나이스] 미니 안마의자 드리미",
+      "category": "massage",
+      "price": 35900,
+      "url": "https://rentalsegye.com/product.php?no=39423&cid=1378&gid=1404"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "MC-300W",
+      "title": "[청호나이스] 소형 안마의자 로망",
+      "category": "massage",
+      "price": 36900,
+      "url": "https://rentalsegye.com/product.php?no=43678&cid=1378&gid=1404"
+    },
+    {
+      "brand": "청호나이스",
+      "model": "MC-700W",
+      "title": "[청호나이스] 안마의자",
+      "category": "massage",
+      "price": 45900,
+      "url": "https://rentalsegye.com/product.php?no=43679&cid=1378&gid=1404"
+    },
+    {
+      "brand": "코웨이",
+      "model": "MC-C02AT",
+      "title": "[코웨이] 비렉스 안마의자 페블체어2",
+      "category": "massage",
+      "price": 58900,
+      "url": "https://rentalsegye.com/product.php?no=47512&cid=1378&gid=1404"
+    },
+    {
+      "brand": "LG",
+      "model": "WU523ACB/WB",
+      "title": "[LG] 퓨리케어 오브제컬렉션 빌트인 냉온정수기",
+      "category": "water",
+      "price": 23900,
+      "url": "https://rentalsegye.com/product.php?no=38406&cid=1377&gid=1424"
+    },
+    {
+      "brand": "LG",
+      "model": "WD220MCB/NB",
+      "title": "[LG] 퓨리케어 오브제컬렉션 라이트온 온정수기",
+      "category": "water",
+      "price": 16900,
+      "url": "https://rentalsegye.com/product.php?no=37469&cid=1377&gid=1424"
+    },
+    {
+      "brand": "LG",
+      "model": "WD525ACB/GB",
+      "title": "[LG] 오브제컬렉션 ALL직수 상하좌우 냉온정수기",
+      "category": "water",
+      "price": 19900,
+      "url": "https://rentalsegye.com/product.php?no=20174&cid=1377&gid=1424"
+    },
+    {
+      "brand": "LG",
+      "model": "WD323ACB/WB",
+      "title": "[LG] 퓨리케어 오브제컬렉션 냉정수기",
+      "category": "water",
+      "price": 18900,
+      "url": "https://rentalsegye.com/product.php?no=32284&cid=1377&gid=1424"
+    },
+    {
+      "brand": "LG",
+      "model": "WD120MCB/NB",
+      "title": "[LG] 퓨리케어 오브제컬렉션 라이트온 정수전용 정수기",
+      "category": "water",
+      "price": 13900,
+      "url": "https://rentalsegye.com/product.php?no=34816&cid=1377&gid=1424"
+    },
+    {
+      "brand": "LG",
+      "model": "WD524V(C/H/S)T",
+      "title": "[LG] 퓨리케어 오브제컬렉션 음성인식 냉온정수기",
+      "category": "water",
+      "price": 24900,
+      "url": "https://rentalsegye.com/product.php?no=42360&cid=1377&gid=1424"
+    },
+    {
+      "brand": "LG",
+      "model": "WD523V(C/H/S/P/M)T",
+      "title": "[LG] 퓨리케어 오브제컬렉션 냉온정수기",
+      "category": "water",
+      "price": 22900,
+      "url": "https://rentalsegye.com/product.php?no=42361&cid=1377&gid=1424"
+    },
+    {
+      "brand": "LG",
+      "model": "WD520VCT",
+      "title": "[LG] 퓨리케어 오브제컬렉션 맞춤 lite 냉온정수기",
+      "category": "water",
+      "price": 18900,
+      "url": "https://rentalsegye.com/product.php?no=42753&cid=1377&gid=1424"
+    },
+    {
+      "brand": "LG",
+      "model": "WD722RK/WD722RH/WD722RE",
+      "title": "[LG] 퓨리케어 오브제컬렉션 얼음 냉온정수기",
+      "category": "water",
+      "price": 31900,
+      "url": "https://rentalsegye.com/product.php?no=46340&cid=1377&gid=1424"
+    },
+    {
+      "brand": "LG",
+      "model": "WU923ACB/WB/NB/BB",
+      "title": "[LG] 퓨리케어 오브제컬렉션 빌트인 냉온정수기",
+      "category": "water",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=50699&cid=1377&gid=1424"
+    },
+    {
+      "brand": "LG",
+      "model": "WU923AS",
+      "title": "[LG] 퓨리케어 듀얼 빌트인 냉온정수기",
+      "category": "water",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=50701&cid=1377&gid=1424"
+    },
+    {
+      "brand": "LG",
+      "model": "AS480BWFA",
+      "title": "[LG] 퓨리케어 공기청정기 48평형 화이트",
+      "category": "air",
+      "price": 60500,
+      "url": "https://rentalsegye.com/product.php?no=21051&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS156HWWC",
+      "title": "[LG] 퓨리케어 360도 히트 공기청정기 15평형 화이트",
+      "category": "air",
+      "price": 13900,
+      "url": "https://rentalsegye.com/product.php?no=38910&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS195DWWA",
+      "title": "[LG] 퓨리케어 360도 공기청정기 19평형 크리미스노우",
+      "category": "air",
+      "price": 22900,
+      "url": "https://rentalsegye.com/products.php?no=41643&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS305DWWA",
+      "title": "[LG] 퓨리케어 360도 공기청정기 30평형 크리미스노우",
+      "category": "air",
+      "price": 31900,
+      "url": "https://rentalsegye.com/products.php?no=41867&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS206NGHA",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M5 공기청정기 20평형 네이처그린",
+      "category": "air",
+      "price": 39100,
+      "url": "https://rentalsegye.com/products.php?no=48393&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS356LSAA",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 월핏 스탠드 공기청정기 35평형 카밍베이지",
+      "category": "air",
+      "price": 43900,
+      "url": "https://rentalsegye.com/product.php?no=50655&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS285DWWA",
+      "title": "[LG] 퓨리케어 360도 플러스 공기청정기 29평형 크리미스노우",
+      "category": "air",
+      "price": 29600,
+      "url": "https://rentalsegye.com/products.php?no=46590&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS185LSAA",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 월핏 스탠드 공기청정기 18평형 카밍베이지",
+      "category": "air",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=47047&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS195DWWA(V필터)",
+      "title": "[LG] 퓨리케어 공기청정기 19평형 크리미스노우 + 360도 V필터 1개",
+      "category": "air",
+      "price": 28900,
+      "url": "https://rentalsegye.com/product.php?no=47049&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS305DWWA(V필터)",
+      "title": "[LG] 퓨리케어 공기청정기 30평형 크리미스노우 + 360도 V필터 2개",
+      "category": "air",
+      "price": 39900,
+      "url": "https://rentalsegye.com/product.php?no=47050&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "FS065PSKA",
+      "title": "[LG] 퓨리케어 오브제컬렉션 에어로타워 Hit 공기청정기 5.5평형 카밍베이지",
+      "category": "air",
+      "price": 32400,
+      "url": "https://rentalsegye.com/products.php?no=50355&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS356NSMAM",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M7 공기청정기 34평형 카밍베이지 + 무빙휠",
+      "category": "air",
+      "price": 58900,
+      "url": "https://rentalsegye.com/product.php?no=47868&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS356NGMAM",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M7 공기청정기 34평형 네이처그린 + 무빙휠",
+      "category": "air",
+      "price": 58900,
+      "url": "https://rentalsegye.com/product.php?no=47869&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS206NSHAM",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M5 공기청정기 19평형 카밍베이지 + 무빙휠",
+      "category": "air",
+      "price": 38900,
+      "url": "https://rentalsegye.com/product.php?no=47870&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS206NGHAM",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M5 공기청정기 19평형 네이처그린 + 무빙휠",
+      "category": "air",
+      "price": 38900,
+      "url": "https://rentalsegye.com/product.php?no=47871&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS186LSAA",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 월핏 스탠드 공기청정기 18평형 카밍베이지",
+      "category": "air",
+      "price": 21500,
+      "url": "https://rentalsegye.com/products.php?no=47979&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS186LSAAW",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 월핏 벽걸이 공기청정기 18평형 카밍베이지",
+      "category": "air",
+      "price": 22600,
+      "url": "https://rentalsegye.com/products.php?no=47981&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS186LSAAS",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 월핏 스탠드 공기청정기 18평형 카밍베이지 + 선반 키트",
+      "category": "air",
+      "price": 25900,
+      "url": "https://rentalsegye.com/products.php?no=47983&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS356NGMA",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M7 공기청정기 34평형 네이처그린",
+      "category": "air",
+      "price": 52200,
+      "url": "https://rentalsegye.com/products.php?no=48395&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS356NSMA",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M7 공기청정기 34평형 카밍베이지",
+      "category": "air",
+      "price": 52200,
+      "url": "https://rentalsegye.com/products.php?no=48397&cid=1379&gid=1407"
+    },
+    {
+      "brand": "LG",
+      "model": "AS206NSHA",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M5 공기청정기 20평형 카밍베이지",
+      "category": "air",
+      "price": 47900,
+      "url": "https://rentalsegye.com/product.php?no=48435&cid=1379&gid=1407"
+    },
+    {
+      "brand": "웰스",
+      "model": "HN877TOA",
+      "title": "[웰스] 안마의자 최고급형 일반관리 브라운",
+      "category": "massage",
+      "price": 95900,
+      "url": "https://rentalsegye.com/product.php?no=22194&cid=1378&gid=1404"
+    },
+    {
+      "brand": "웰스",
+      "model": "HR768",
+      "title": "[웰스] 고급형 안마의자",
+      "category": "massage",
+      "price": 63900,
+      "url": "https://rentalsegye.com/product.php?no=34951&cid=1378&gid=1404"
+    }
+  ],
+  "missingByCategory": {
+    "bidet": 16,
+    "water": 60,
+    "air": 41,
+    "mattress": 36,
+    "massage": 6
+  },
+  "brandCoverage": {
+    "웰스": 25,
+    "청호나이스": 29,
+    "현대큐밍": 14,
+    "코웨이": 24,
+    "SK매직": 18,
+    "쿠쿠": 13,
+    "세스코": 4,
+    "LG": 32
+  },
+  "suspectedNormalizationIssue": [
+    {
+      "brand": "웰스",
+      "model": "BM750RWA",
+      "title": "[웰스] 비데 자동살균",
+      "category": "bidet",
+      "price": 22900,
+      "url": "https://rentalsegye.com/product.php?no=18058&cid=1379&gid=1408",
+      "normalizedModel": "BM750RWA",
+      "similarExact": [
+        {
+          "key": "웰스|BM750",
+          "model": "BM750",
+          "originalModel": "BM750",
+          "name": "자동살균 비데"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|BM750",
+          "model": "BM750",
+          "originalModel": "BM750",
+          "name": "자동살균 비데"
+        }
+      ]
+    },
+    {
+      "brand": "청호나이스",
+      "model": "BD-35D40",
+      "title": "[청호나이스] 쾌변 건조 비데 B350 + 소형변좌",
+      "category": "bidet",
+      "price": 12900,
+      "url": "https://rentalsegye.com/product.php?no=22090&cid=1379&gid=1408",
+      "normalizedModel": "BD35D40",
+      "similarExact": [
+        {
+          "key": "청호나이스|BD35D50R",
+          "model": "BD35D50R",
+          "originalModel": "BD-35D50R",
+          "name": "쾌변비데 B350 (리모컨)"
+        },
+        {
+          "key": "청호나이스|BD35D51",
+          "model": "BD35D51",
+          "originalModel": "BD-35D51",
+          "name": "에어버블 비데"
+        },
+        {
+          "key": "청호나이스|BD35D72",
+          "model": "BD35D72",
+          "originalModel": "BD-35D72",
+          "name": "쾌변비데 B350 PLUS(쾌변+건조+탈취+자동물내림)"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "B-S300W0B",
+      "title": "[현대큐밍] 더클린 스마트",
+      "category": "bidet",
+      "price": 18900,
+      "url": "https://rentalsegye.com/product.php?no=22112&cid=1379&gid=1408",
+      "normalizedModel": "BS300W0B",
+      "similarExact": [
+        {
+          "key": "현대큐밍|BS300W",
+          "model": "BS300W",
+          "originalModel": "B-S300W",
+          "name": "더클린 스마트"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "현대큐밍|BS300W",
+          "model": "BS300W",
+          "originalModel": "B-S300W",
+          "name": "더클린 스마트"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "BP550CWA",
+      "title": "[웰스] 리모컨 비데 향균방수 플러스",
+      "category": "bidet",
+      "price": 14900,
+      "url": "https://rentalsegye.com/product.php?no=28102&cid=1379&gid=1408",
+      "normalizedModel": "BP550CWA",
+      "similarExact": [
+        {
+          "key": "웰스|BP550",
+          "model": "BP550",
+          "originalModel": "BP550",
+          "name": "리모컨 비데 향균방수+"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|BP550",
+          "model": "BP550",
+          "originalModel": "BP550",
+          "name": "리모컨 비데 향균방수+"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "BP750CWA",
+      "title": "[웰스] 리모컨 비데 자동살균",
+      "category": "bidet",
+      "price": 17900,
+      "url": "https://rentalsegye.com/product.php?no=28103&cid=1379&gid=1408",
+      "normalizedModel": "BP750CWA",
+      "similarExact": [
+        {
+          "key": "웰스|BP750",
+          "model": "BP750",
+          "originalModel": "BP750",
+          "name": "리모컨 비데 자동살균"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|BP750",
+          "model": "BP750",
+          "originalModel": "BP750",
+          "name": "리모컨 비데 자동살균"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "BM750RWA",
+      "title": "[웰스] 비데 자동살균 (홈케어)",
+      "category": "bidet",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=28106&cid=1379&gid=1408",
+      "normalizedModel": "BM750RWA",
+      "similarExact": [
+        {
+          "key": "웰스|BM750",
+          "model": "BM750",
+          "originalModel": "BM750",
+          "name": "자동살균 비데"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|BM750",
+          "model": "BM750",
+          "originalModel": "BM750",
+          "name": "자동살균 비데"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "BQ650RWA",
+      "title": "[웰스] 비데 올스텐 트윈",
+      "category": "bidet",
+      "price": 18900,
+      "url": "https://rentalsegye.com/product.php?no=33291&cid=1379&gid=1408",
+      "normalizedModel": "BQ650RWA",
+      "similarExact": [
+        {
+          "key": "웰스|BQ650",
+          "model": "BQ650",
+          "originalModel": "BQ650",
+          "name": "웰스 비데 올스텐 트윈"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|BQ650",
+          "model": "BQ650",
+          "originalModel": "BQ650",
+          "name": "웰스 비데 올스텐 트윈"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "BQ450RWA",
+      "title": "[웰스] 비데 올스텐",
+      "category": "bidet",
+      "price": 14900,
+      "url": "https://rentalsegye.com/product.php?no=33292&cid=1379&gid=1408",
+      "normalizedModel": "BQ450RWA",
+      "similarExact": [
+        {
+          "key": "웰스|BQ450",
+          "model": "BQ450",
+          "originalModel": "BQ450",
+          "name": "웰스 비데 올스텐"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|BQ450",
+          "model": "BQ450",
+          "originalModel": "BQ450",
+          "name": "웰스 비데 올스텐"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS40-A",
+      "title": "[코웨이] 스스로케어 비데(일반형)",
+      "category": "bidet",
+      "price": 15660,
+      "url": "https://rentalsegye.com/product.php?no=33838&cid=1379&gid=1408",
+      "normalizedModel": "BAS40A",
+      "similarExact": [
+        {
+          "key": "코웨이|BAS40B",
+          "model": "BAS40B",
+          "originalModel": "BAS40-B",
+          "name": "스타일 비데"
+        },
+        {
+          "key": "코웨이|BAS41B",
+          "model": "BAS41B",
+          "originalModel": "BAS41-B",
+          "name": "스타일 비데 플러스"
+        },
+        {
+          "key": "코웨이|BAS47",
+          "model": "BAS47",
+          "originalModel": "BAS47",
+          "name": "컴팩트 비데 2"
+        },
+        {
+          "key": "코웨이|BAS49A",
+          "model": "BAS49A",
+          "originalModel": "BAS49-A",
+          "name": "슬리믹 비데"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS41-A",
+      "title": "[코웨이] 스타일케어 비데",
+      "category": "bidet",
+      "price": 17010,
+      "url": "https://rentalsegye.com/product.php?no=34630&cid=1379&gid=1408",
+      "normalizedModel": "BAS41A",
+      "similarExact": [
+        {
+          "key": "코웨이|BAS40B",
+          "model": "BAS40B",
+          "originalModel": "BAS40-B",
+          "name": "스타일 비데"
+        },
+        {
+          "key": "코웨이|BAS41B",
+          "model": "BAS41B",
+          "originalModel": "BAS41-B",
+          "name": "스타일 비데 플러스"
+        },
+        {
+          "key": "코웨이|BAS47",
+          "model": "BAS47",
+          "originalModel": "BAS47",
+          "name": "컴팩트 비데 2"
+        },
+        {
+          "key": "코웨이|BAS49A",
+          "model": "BAS49A",
+          "originalModel": "BAS49-A",
+          "name": "슬리믹 비데"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "웰스",
+      "model": "BR550RWA",
+      "title": "[웰스] 올스텐 에어 비데",
+      "category": "bidet",
+      "price": 15900,
+      "url": "https://rentalsegye.com/product.php?no=38139&cid=1379&gid=1408",
+      "normalizedModel": "BR550RWA",
+      "similarExact": [
+        {
+          "key": "웰스|BR550",
+          "model": "BR550",
+          "originalModel": "BR550",
+          "name": "웰스 비데 올스텐 에어"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|BR550",
+          "model": "BR550",
+          "originalModel": "BR550",
+          "name": "웰스 비데 올스텐 에어"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "BAS47-A",
+      "title": "[코웨이] 스스로케어 비데 리모트2",
+      "category": "bidet",
+      "price": 20400,
+      "url": "https://rentalsegye.com/product.php?no=41358&cid=1379&gid=1408",
+      "normalizedModel": "BAS47A",
+      "similarExact": [
+        {
+          "key": "코웨이|BAS40B",
+          "model": "BAS40B",
+          "originalModel": "BAS40-B",
+          "name": "스타일 비데"
+        },
+        {
+          "key": "코웨이|BAS41B",
+          "model": "BAS41B",
+          "originalModel": "BAS41-B",
+          "name": "스타일 비데 플러스"
+        },
+        {
+          "key": "코웨이|BAS47",
+          "model": "BAS47",
+          "originalModel": "BAS47",
+          "name": "컴팩트 비데 2"
+        },
+        {
+          "key": "코웨이|BAS49A",
+          "model": "BAS49A",
+          "originalModel": "BAS49-A",
+          "name": "슬리믹 비데"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|BAS47",
+          "model": "BAS47",
+          "originalModel": "BAS47",
+          "name": "컴팩트 비데 2"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "BID-F17D",
+      "title": "[SK매직] 풀스텐 스파 방수 비데",
+      "category": "bidet",
+      "price": 14900,
+      "url": "https://rentalsegye.com/product.php?no=42328&cid=1379&gid=1408",
+      "normalizedModel": "BIDF17D",
+      "similarExact": [
+        {
+          "key": "SK매직|BIDF17DR43WH",
+          "model": "BIDF17DR43WH",
+          "originalModel": "BIDF17DR43WH",
+          "name": "풀스텐 스파 비데"
+        },
+        {
+          "key": "SK매직|BIDF17DR54WW",
+          "model": "BIDF17DR54WW",
+          "originalModel": "BIDF17DR54WW",
+          "name": "위글위글 풀스텐 스파 비데"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|BIDF17DR43WH",
+          "model": "BIDF17DR43WH",
+          "originalModel": "BIDF17DR43WH",
+          "name": "풀스텐 스파 비데"
+        },
+        {
+          "key": "SK매직|BIDF17DR54WW",
+          "model": "BIDF17DR54WW",
+          "originalModel": "BIDF17DR54WW",
+          "name": "위글위글 풀스텐 스파 비데"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "BID-F17DR54",
+      "title": "[SK매직] 위글위글 풀스텐 스파 비데",
+      "category": "bidet",
+      "price": 15900,
+      "url": "https://rentalsegye.com/product.php?no=42329&cid=1379&gid=1408",
+      "normalizedModel": "BIDF17DR54",
+      "similarExact": [
+        {
+          "key": "SK매직|BIDF17DR43WH",
+          "model": "BIDF17DR43WH",
+          "originalModel": "BIDF17DR43WH",
+          "name": "풀스텐 스파 비데"
+        },
+        {
+          "key": "SK매직|BIDF17DR54WW",
+          "model": "BIDF17DR54WW",
+          "originalModel": "BIDF17DR54WW",
+          "name": "위글위글 풀스텐 스파 비데"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|BIDF17DR54WW",
+          "model": "BIDF17DR54WW",
+          "originalModel": "BIDF17DR54WW",
+          "name": "위글위글 풀스텐 스파 비데"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "BID-S17D",
+      "title": "[SK매직] 풀스텐 살균 비데",
+      "category": "bidet",
+      "price": 15900,
+      "url": "https://rentalsegye.com/product.php?no=42330&cid=1379&gid=1408",
+      "normalizedModel": "BIDS17D",
+      "similarExact": [
+        {
+          "key": "SK매직|BIDS17DR64WH",
+          "model": "BIDS17DR64WH",
+          "originalModel": "BIDS17DR64WH",
+          "name": "풀스텐 살균 비데"
+        },
+        {
+          "key": "SK매직|BIDS51DR15WH",
+          "model": "BIDS51DR15WH",
+          "originalModel": "BIDS51DR15WH",
+          "name": "올클린 케어 비데"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|BIDS17DR64WH",
+          "model": "BIDS17DR64WH",
+          "originalModel": "BIDS17DR64WH",
+          "name": "풀스텐 살균 비데"
+        }
+      ]
+    },
+    {
+      "brand": "청호나이스",
+      "model": "BS-35D50P",
+      "title": "[청호나이스] B600 플러스 비데",
+      "category": "bidet",
+      "price": 16900,
+      "url": "https://rentalsegye.com/product.php?no=45099&cid=1379&gid=1408",
+      "normalizedModel": "BS35D50P",
+      "similarExact": [
+        {
+          "key": "청호나이스|BS35D50",
+          "model": "BS35D50",
+          "originalModel": "BS-35D50",
+          "name": "살균비데 B600 PLUS"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "청호나이스|BS35D50",
+          "model": "BS35D50",
+          "originalModel": "BS-35D50",
+          "name": "살균비데 B600 PLUS"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IAC414",
+      "title": "[SK매직] 원코크 얼음물 직수얼음 정수기",
+      "category": "water",
+      "price": 39400,
+      "url": "https://rentalsegye.com/product.php?no=42272&cid=1377&gid=1424",
+      "normalizedModel": "WPUIAC414",
+      "similarExact": [
+        {
+          "key": "SK매직|WPUIAC414S",
+          "model": "WPUIAC414S",
+          "originalModel": "WPU-IAC414S",
+          "name": "원코크 얼음물"
+        },
+        {
+          "key": "SK매직|WPUIAC425",
+          "model": "WPUIAC425",
+          "originalModel": "WPU-IAC425",
+          "name": "원코크 플러스 얼음물"
+        },
+        {
+          "key": "SK매직|WPUIAC506S",
+          "model": "WPUIAC506S",
+          "originalModel": "WPU-IAC506S",
+          "name": "MEGA ICE 얼음"
+        },
+        {
+          "key": "SK매직|WPUIAC606S",
+          "model": "WPUIAC606S",
+          "originalModel": "WPU-IAC606S",
+          "name": "MEGA ICE 얼음 mini"
+        },
+        {
+          "key": "SK매직|WPUIC110F",
+          "model": "WPUIC110F",
+          "originalModel": "WPU-IC110F",
+          "name": "스탠드형 직수 얼음냉온"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|WPUIAC414S",
+          "model": "WPUIAC414S",
+          "originalModel": "WPU-IAC414S",
+          "name": "원코크 얼음물"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IAC425S",
+      "title": "[SK매직] 원코크 플러스 얼음물 정수기",
+      "category": "water",
+      "price": 39000,
+      "url": "https://rentalsegye.com/product.php?no=42268&cid=1377&gid=1424",
+      "normalizedModel": "WPUIAC425S",
+      "similarExact": [
+        {
+          "key": "SK매직|WPUIAC414S",
+          "model": "WPUIAC414S",
+          "originalModel": "WPU-IAC414S",
+          "name": "원코크 얼음물"
+        },
+        {
+          "key": "SK매직|WPUIAC425",
+          "model": "WPUIAC425",
+          "originalModel": "WPU-IAC425",
+          "name": "원코크 플러스 얼음물"
+        },
+        {
+          "key": "SK매직|WPUIAC506S",
+          "model": "WPUIAC506S",
+          "originalModel": "WPU-IAC506S",
+          "name": "MEGA ICE 얼음"
+        },
+        {
+          "key": "SK매직|WPUIAC606S",
+          "model": "WPUIAC606S",
+          "originalModel": "WPU-IAC606S",
+          "name": "MEGA ICE 얼음 mini"
+        },
+        {
+          "key": "SK매직|WPUIC110F",
+          "model": "WPUIC110F",
+          "originalModel": "WPU-IC110F",
+          "name": "스탠드형 직수 얼음냉온"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|WPUIAC425",
+          "model": "WPUIAC425",
+          "originalModel": "WPU-IAC425",
+          "name": "원코크 플러스 얼음물"
+        }
+      ]
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPM11C",
+      "title": "[현대큐밍] 더슬림 마이핏 냉온정수기",
+      "category": "water",
+      "price": 19900,
+      "url": "https://rentalsegye.com/product.php?no=32998&cid=1377&gid=1424",
+      "normalizedModel": "HQPM11C",
+      "similarExact": [
+        {
+          "key": "현대큐밍|HQPM11CW1DE0C",
+          "model": "HQPM11CW1DE0C",
+          "originalModel": "HQPM11CW1D/E0C",
+          "name": "냉온 더슬림 마이핏"
+        },
+        {
+          "key": "현대큐밍|HQPM15C",
+          "model": "HQPM15C",
+          "originalModel": "HQPM15C",
+          "name": "딜라이트 아이"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "현대큐밍|HQPM11CW1DE0C",
+          "model": "HQPM11CW1DE0C",
+          "originalModel": "HQPM11CW1D/E0C",
+          "name": "냉온 더슬림 마이핏"
+        }
+      ]
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-ABS100GWH/GPK",
+      "title": "[쿠쿠] 인스퓨어 STEAM 100 끓인 물 정수기",
+      "category": "water",
+      "price": 24210,
+      "url": "https://rentalsegye.com/product.php?no=27966&cid=1377&gid=1424",
+      "normalizedModel": "CPABS100GWHGPK",
+      "similarExact": [
+        {
+          "key": "쿠쿠|CPABS100GWHGP",
+          "model": "CPABS100GWHGP",
+          "originalModel": "CP-ABS100GWH/GP",
+          "name": "스팀100(ABS100)"
+        },
+        {
+          "key": "쿠쿠|CPABSC100GWHGP",
+          "model": "CPABSC100GWHGP",
+          "originalModel": "CP-ABSC100GWH/GP",
+          "name": "스팀100 바리스타(ABSC100)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "쿠쿠|CPABS100GWHGP",
+          "model": "CPABS100GWHGP",
+          "originalModel": "CP-ABS100GWH/GP",
+          "name": "스팀100(ABS100)"
+        }
+      ]
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AHS100HEW/EG/EBR/EB/PK",
+      "title": "[쿠쿠] 제로 100 슬림 얼음 정수기",
+      "category": "water",
+      "price": 36810,
+      "url": "https://rentalsegye.com/product.php?no=36388&cid=1377&gid=1424",
+      "normalizedModel": "CPAHS100HEWEGEBREBPK",
+      "similarExact": [
+        {
+          "key": "쿠쿠|CPAHS100HE",
+          "model": "CPAHS100HE",
+          "originalModel": "CP-AHS100HE",
+          "name": "제로 100 슬림 얼음(AHS100)"
+        },
+        {
+          "key": "쿠쿠|CPAHS101HE",
+          "model": "CPAHS101HE",
+          "originalModel": "CP-AHS101HE",
+          "name": "제로 100 슬림 플러스 얼음(AHS101)"
+        },
+        {
+          "key": "쿠쿠|CPAHSC100HE",
+          "model": "CPAHSC100HE",
+          "originalModel": "CP-AHSC100HE",
+          "name": "제로 100 슬림 바리스타(AHSC100)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "쿠쿠|CPAHS100HE",
+          "model": "CPAHS100HE",
+          "originalModel": "CP-AHS100HE",
+          "name": "제로 100 슬림 얼음(AHS100)"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "WP270UWA",
+      "title": "[웰스] 미네랄 중형 스탠드 PLUS 냉온정수기",
+      "category": "water",
+      "price": 29900,
+      "url": "https://rentalsegye.com/product.php?no=24544&cid=1377&gid=1424",
+      "normalizedModel": "WP270UWA",
+      "similarExact": [
+        {
+          "key": "웰스|WP270",
+          "model": "WP270",
+          "originalModel": "WP270",
+          "name": "냉온 미네랄 중형 스탠드 Plus"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|WP270",
+          "model": "WP270",
+          "originalModel": "WP270",
+          "name": "냉온 미네랄 중형 스탠드 Plus"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "WP270UWA",
+      "title": "[웰스] 미네랄 중형 스탠드 PLUS 냉온정수기 (업소용)",
+      "category": "water",
+      "price": 36900,
+      "url": "https://rentalsegye.com/product.php?no=24545&cid=1377&gid=1424",
+      "normalizedModel": "WP270UWA",
+      "similarExact": [
+        {
+          "key": "웰스|WP270",
+          "model": "WP270",
+          "originalModel": "WP270",
+          "name": "냉온 미네랄 중형 스탠드 Plus"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|WP270",
+          "model": "WP270",
+          "originalModel": "WP270",
+          "name": "냉온 미네랄 중형 스탠드 Plus"
+        }
+      ]
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-B30S",
+      "title": "[현대큐밍] 더퓨어 베이직 냉온정수기",
+      "category": "water",
+      "price": 16900,
+      "url": "https://rentalsegye.com/product.php?no=11361&cid=1377&gid=1424",
+      "normalizedModel": "PB30S",
+      "similarExact": [
+        {
+          "key": "현대큐밍|PB30CBCW",
+          "model": "PB30CBCW",
+          "originalModel": "P-B30CB/CW",
+          "name": "더퓨어 베이직 카운터"
+        },
+        {
+          "key": "현대큐밍|PB30SBSW",
+          "model": "PB30SBSW",
+          "originalModel": "P-B30SB/SW",
+          "name": "더퓨어 베이직 스탠드"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "현대큐밍|PB30SBSW",
+          "model": "PB30SBSW",
+          "originalModel": "P-B30SB/SW",
+          "name": "더퓨어 베이직 스탠드"
+        }
+      ]
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-R40C(R)S",
+      "title": "[현대큐밍] 프리미엄RO 냉온정수기 (하프형)",
+      "category": "water",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=11371&cid=1377&gid=1424",
+      "normalizedModel": "PR40CRS",
+      "similarExact": [
+        {
+          "key": "현대큐밍|PR40CS",
+          "model": "PR40CS",
+          "originalModel": "P-R40CS",
+          "name": "더퓨어 프리미엄RO 카운터"
+        },
+        {
+          "key": "현대큐밍|PR40SS",
+          "model": "PR40SS",
+          "originalModel": "P-R40SS",
+          "name": "더퓨어 프리미엄RO 스탠드"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WP-30C9560N",
+      "title": "[청호나이스] 냉온정수기",
+      "category": "water",
+      "price": 24900,
+      "url": "https://rentalsegye.com/product.php?no=14943&cid=1377&gid=1424",
+      "normalizedModel": "WP30C9560N",
+      "similarExact": [
+        {
+          "key": "청호나이스|WP30B90620N",
+          "model": "WP30B90620N",
+          "originalModel": "WP-30B90620N",
+          "name": "냉온 빌트인 블리스"
+        },
+        {
+          "key": "청호나이스|WP30C8460N",
+          "model": "WP30C8460N",
+          "originalModel": "WP-30C8460N",
+          "name": "냉정 셀프살균 일반형"
+        },
+        {
+          "key": "청호나이스|WP30C9460BN",
+          "model": "WP30C9460BN",
+          "originalModel": "WP-30C9460BN",
+          "name": "냉온 셀프살균 일반형"
+        },
+        {
+          "key": "청호나이스|WP30C9560BN",
+          "model": "WP30C9560BN",
+          "originalModel": "WP-30C9560BN",
+          "name": "냉온 셀프살균 고급형"
+        },
+        {
+          "key": "청호나이스|WP30S50010N",
+          "model": "WP30S50010N",
+          "originalModel": "WP-30S50010N",
+          "name": "냉온 애니"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "P-B30C",
+      "title": "[현대큐밍] 더퓨어 베이직 냉온정수기",
+      "category": "water",
+      "price": 16900,
+      "url": "https://rentalsegye.com/product.php?no=15221&cid=1377&gid=1424",
+      "normalizedModel": "PB30C",
+      "similarExact": [
+        {
+          "key": "현대큐밍|PB30CBCW",
+          "model": "PB30CBCW",
+          "originalModel": "P-B30CB/CW",
+          "name": "더퓨어 베이직 카운터"
+        },
+        {
+          "key": "현대큐밍|PB30SBSW",
+          "model": "PB30SBSW",
+          "originalModel": "P-B30SB/SW",
+          "name": "더퓨어 베이직 스탠드"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "현대큐밍|PB30CBCW",
+          "model": "PB30CBCW",
+          "originalModel": "P-B30CB/CW",
+          "name": "더퓨어 베이직 카운터"
+        }
+      ]
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-DN2001S",
+      "title": "[쿠쿠] 업소용 대용량 냉온정수기 L",
+      "category": "water",
+      "price": 25900,
+      "url": "https://rentalsegye.com/product.php?no=19829&cid=1377&gid=1424",
+      "normalizedModel": "CPDN2001S",
+      "similarExact": [
+        {
+          "key": "쿠쿠|CPDN1201S",
+          "model": "CPDN1201S",
+          "originalModel": "CP-DN1201S",
+          "name": "나노포지티브필터 스탠드(DN1201)"
+        },
+        {
+          "key": "쿠쿠|CPDN2001",
+          "model": "CPDN2001",
+          "originalModel": "CP-DN2001",
+          "name": "인스퓨어 스탠드(DN2001)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "쿠쿠|CPDN2001",
+          "model": "CPDN2001",
+          "originalModel": "CP-DN2001",
+          "name": "인스퓨어 스탠드(DN2001)"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-JAC104S(WW)",
+      "title": "[SK매직] 초소형 직수 정수기 위글위글",
+      "category": "water",
+      "price": 26000,
+      "url": "https://rentalsegye.com/product.php?no=42270&cid=1377&gid=1424",
+      "normalizedModel": "WPUJAC104SWW",
+      "similarExact": [
+        {
+          "key": "SK매직|WPUJAC104",
+          "model": "WPUJAC104",
+          "originalModel": "WPUJAC104",
+          "name": "냉온 초소형 직수"
+        },
+        {
+          "key": "SK매직|WPUJAC115",
+          "model": "WPUJAC115",
+          "originalModel": "WPUJAC115",
+          "name": "초소형 플러스 직수"
+        },
+        {
+          "key": "SK매직|WPUJAC125",
+          "model": "WPUJAC125",
+          "originalModel": "WPUJAC125",
+          "name": "초소형 라이트 직수"
+        },
+        {
+          "key": "SK매직|WPUJCC104",
+          "model": "WPUJCC104",
+          "originalModel": "WPUJCC104",
+          "name": "냉정 초소형 직수"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|WPUJAC104",
+          "model": "WPUJAC104",
+          "originalModel": "WPUJAC104",
+          "name": "냉온 초소형 직수"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-JAC104S",
+      "title": "[SK매직] 초소형 직수 정수기",
+      "category": "water",
+      "price": 26000,
+      "url": "https://rentalsegye.com/product.php?no=42274&cid=1377&gid=1424",
+      "normalizedModel": "WPUJAC104S",
+      "similarExact": [
+        {
+          "key": "SK매직|WPUJAC104",
+          "model": "WPUJAC104",
+          "originalModel": "WPUJAC104",
+          "name": "냉온 초소형 직수"
+        },
+        {
+          "key": "SK매직|WPUJAC115",
+          "model": "WPUJAC115",
+          "originalModel": "WPUJAC115",
+          "name": "초소형 플러스 직수"
+        },
+        {
+          "key": "SK매직|WPUJAC125",
+          "model": "WPUJAC125",
+          "originalModel": "WPUJAC125",
+          "name": "초소형 라이트 직수"
+        },
+        {
+          "key": "SK매직|WPUJCC104",
+          "model": "WPUJCC104",
+          "originalModel": "WPUJCC104",
+          "name": "냉정 초소형 직수"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|WPUJAC104",
+          "model": "WPUJAC104",
+          "originalModel": "WPUJAC104",
+          "name": "냉온 초소형 직수"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "WM071RWA",
+      "title": "[웰스] 정수기 RO",
+      "category": "water",
+      "price": 35900,
+      "url": "https://rentalsegye.com/product.php?no=19901&cid=1377&gid=1424",
+      "normalizedModel": "WM071RWA",
+      "similarExact": [
+        {
+          "key": "웰스|WM071",
+          "model": "WM071",
+          "originalModel": "WM071",
+          "name": "냉온 RO 데스크탑"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|WM071",
+          "model": "WM071",
+          "originalModel": "WM071",
+          "name": "냉온 RO 데스크탑"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "WQ271UWA",
+      "title": "[웰스]  정수기 미네랄 소형 스탠드",
+      "category": "water",
+      "price": 21900,
+      "url": "https://rentalsegye.com/product.php?no=31351&cid=1377&gid=1424",
+      "normalizedModel": "WQ271UWA",
+      "similarExact": [
+        {
+          "key": "웰스|WQ271",
+          "model": "WQ271",
+          "originalModel": "WQ271",
+          "name": "냉온 미네랄 소형 스탠드"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|WQ271",
+          "model": "WQ271",
+          "originalModel": "WQ271",
+          "name": "냉온 미네랄 소형 스탠드"
+        }
+      ]
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQP-M50SW",
+      "title": "[현대큐밍] 더퓨어 마크업 대용량 냉온정수기",
+      "category": "water",
+      "price": 29900,
+      "url": "https://rentalsegye.com/product.php?no=29669&cid=1377&gid=1424",
+      "normalizedModel": "HQPM50SW",
+      "similarExact": [
+        {
+          "key": "현대큐밍|HQPM11CW1DE0C",
+          "model": "HQPM11CW1DE0C",
+          "originalModel": "HQPM11CW1D/E0C",
+          "name": "냉온 더슬림 마이핏"
+        },
+        {
+          "key": "현대큐밍|HQPM15C",
+          "model": "HQPM15C",
+          "originalModel": "HQPM15C",
+          "name": "딜라이트 아이"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "현대큐밍|PM50SW",
+          "model": "PM50SW",
+          "originalModel": "PM50SW",
+          "name": "더퓨어 마크업 중용량 스탠드"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "WP610NWA",
+      "title": "[웰스] 미미 정수기",
+      "category": "water",
+      "price": 9900,
+      "url": "https://rentalsegye.com/product.php?no=26417&cid=1377&gid=1424",
+      "normalizedModel": "WP610NWA",
+      "similarExact": [
+        {
+          "key": "웰스|WP610",
+          "model": "WP610",
+          "originalModel": "WP610",
+          "name": "미미직수정수기"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|WP610",
+          "model": "WP610",
+          "originalModel": "WP610",
+          "name": "미미직수정수기"
+        }
+      ]
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AHSC100HEB/EW",
+      "title": "[쿠쿠] 제로 100 슬림 바리스타 정수",
+      "category": "water",
+      "price": 37710,
+      "url": "https://rentalsegye.com/product.php?no=40255&cid=1377&gid=1424",
+      "normalizedModel": "CPAHSC100HEBEW",
+      "similarExact": [
+        {
+          "key": "쿠쿠|CPAHS100HE",
+          "model": "CPAHS100HE",
+          "originalModel": "CP-AHS100HE",
+          "name": "제로 100 슬림 얼음(AHS100)"
+        },
+        {
+          "key": "쿠쿠|CPAHS101HE",
+          "model": "CPAHS101HE",
+          "originalModel": "CP-AHS101HE",
+          "name": "제로 100 슬림 플러스 얼음(AHS101)"
+        },
+        {
+          "key": "쿠쿠|CPAHSC100HE",
+          "model": "CPAHSC100HE",
+          "originalModel": "CP-AHSC100HE",
+          "name": "제로 100 슬림 바리스타(AHSC100)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "쿠쿠|CPAHSC100HE",
+          "model": "CPAHSC100HE",
+          "originalModel": "CP-AHSC100HE",
+          "name": "제로 100 슬림 바리스타(AHSC100)"
+        }
+      ]
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQP-M40SW",
+      "title": "[현대큐밍] 더퓨어 마크업 RO 냉온정수기",
+      "category": "water",
+      "price": 32900,
+      "url": "https://rentalsegye.com/product.php?no=29169&cid=1377&gid=1424",
+      "normalizedModel": "HQPM40SW",
+      "similarExact": [
+        {
+          "key": "현대큐밍|HQPM11CW1DE0C",
+          "model": "HQPM11CW1DE0C",
+          "originalModel": "HQPM11CW1D/E0C",
+          "name": "냉온 더슬림 마이핏"
+        },
+        {
+          "key": "현대큐밍|HQPM15C",
+          "model": "HQPM15C",
+          "originalModel": "HQPM15C",
+          "name": "딜라이트 아이"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "현대큐밍|PM40SW",
+          "model": "PM40SW",
+          "originalModel": "PM40SW",
+          "name": "더퓨어 마크업RO 스탠드"
+        }
+      ]
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQP-M50SW",
+      "title": "[현대큐밍] 더퓨어 마크업 중용량 냉온정수기",
+      "category": "water",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=29170&cid=1377&gid=1424",
+      "normalizedModel": "HQPM50SW",
+      "similarExact": [
+        {
+          "key": "현대큐밍|HQPM11CW1DE0C",
+          "model": "HQPM11CW1DE0C",
+          "originalModel": "HQPM11CW1D/E0C",
+          "name": "냉온 더슬림 마이핏"
+        },
+        {
+          "key": "현대큐밍|HQPM15C",
+          "model": "HQPM15C",
+          "originalModel": "HQPM15C",
+          "name": "딜라이트 아이"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "현대큐밍|PM50SW",
+          "model": "PM50SW",
+          "originalModel": "PM50SW",
+          "name": "더퓨어 마크업 중용량 스탠드"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "WQ171UWA",
+      "title": "[웰스] 냉온정수기 미네랄",
+      "category": "water",
+      "price": 20900,
+      "url": "https://rentalsegye.com/product.php?no=31350&cid=1377&gid=1424",
+      "normalizedModel": "WQ171UWA",
+      "similarExact": [
+        {
+          "key": "웰스|WQ171",
+          "model": "WQ171",
+          "originalModel": "WQ171",
+          "name": "냉온 미네랄"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|WQ171",
+          "model": "WQ171",
+          "originalModel": "WQ171",
+          "name": "냉온 미네랄"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "WQ652NWR",
+      "title": "[웰스] 슈퍼쿨링 냉정수기",
+      "category": "water",
+      "price": 15900,
+      "url": "https://rentalsegye.com/product.php?no=30055&cid=1377&gid=1424",
+      "normalizedModel": "WQ652NWR",
+      "similarExact": [
+        {
+          "key": "웰스|WQ652",
+          "model": "WQ652",
+          "originalModel": "WQ652",
+          "name": "슈퍼쿨링 냉정수기"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|WQ652",
+          "model": "WQ652",
+          "originalModel": "WQ652",
+          "name": "슈퍼쿨링 냉정수기"
+        }
+      ]
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-SS100WSV/HGM/HGP/HGB",
+      "title": "[쿠쿠] ZERO 100S UV살균 끓인 물 · 얼음 냉온정수기",
+      "category": "water",
+      "price": 39900,
+      "url": "https://rentalsegye.com/product.php?no=31348&cid=1377&gid=1424",
+      "normalizedModel": "CPSS100WSVHGMHGPHGB",
+      "similarExact": [
+        {
+          "key": "쿠쿠|CPSS100H",
+          "model": "CPSS100H",
+          "originalModel": "CP-SS100H",
+          "name": "ZERO 100S 끓인물 얼음(SS100)"
+        },
+        {
+          "key": "쿠쿠|CPSS101HW",
+          "model": "CPSS101HW",
+          "originalModel": "CP-SS101HW",
+          "name": "인앤아웃 아이스 10'S(SS101)"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "웰스",
+      "model": "WR872MWA",
+      "title": "[웰스] 아이스원 얼음정수기",
+      "category": "water",
+      "price": 39900,
+      "url": "https://rentalsegye.com/product.php?no=36099&cid=1377&gid=1424",
+      "normalizedModel": "WR872MWA",
+      "similarExact": [
+        {
+          "key": "웰스|WR872",
+          "model": "WR872",
+          "originalModel": "WR872",
+          "name": "아이스원 얼음정수기"
+        },
+        {
+          "key": "웰스|WR872BT150",
+          "model": "WR872BT150",
+          "originalModel": "WR872+BT150",
+          "name": "아이스원 얼음 패키지(WR872+BT150)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|WR872",
+          "model": "WR872",
+          "originalModel": "WR872",
+          "name": "아이스원 얼음정수기"
+        }
+      ]
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AAS100ULDS/ULW",
+      "title": "[쿠쿠] 인스퓨어 끓인 물 STEAM 100 빌트인 정수기",
+      "category": "water",
+      "price": 40900,
+      "url": "https://rentalsegye.com/product.php?no=32839&cid=1377&gid=1424",
+      "normalizedModel": "CPAAS100ULDSULW",
+      "similarExact": [
+        {
+          "key": "쿠쿠|CPAAS100ULWULDS",
+          "model": "CPAAS100ULWULDS",
+          "originalModel": "CP-AAS100ULW/ULDS",
+          "name": "스팀100 빌트인(AAS100)"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPM14C",
+      "title": "[현대큐밍] 더슬림 마이핏 냉정수기",
+      "category": "water",
+      "price": 19900,
+      "url": "https://rentalsegye.com/product.php?no=32999&cid=1377&gid=1424",
+      "normalizedModel": "HQPM14C",
+      "similarExact": [
+        {
+          "key": "현대큐밍|HQPM11CW1DE0C",
+          "model": "HQPM11CW1DE0C",
+          "originalModel": "HQPM11CW1D/E0C",
+          "name": "냉온 더슬림 마이핏"
+        },
+        {
+          "key": "현대큐밍|HQPM15C",
+          "model": "HQPM15C",
+          "originalModel": "HQPM15C",
+          "name": "딜라이트 아이"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-ABSC100GWH/PK",
+      "title": "[쿠쿠] 인스퓨어 100 Barista",
+      "category": "water",
+      "price": 25110,
+      "url": "https://rentalsegye.com/product.php?no=34424&cid=1377&gid=1424",
+      "normalizedModel": "CPABSC100GWHPK",
+      "similarExact": [
+        {
+          "key": "쿠쿠|CPABS100GWHGP",
+          "model": "CPABS100GWHGP",
+          "originalModel": "CP-ABS100GWH/GP",
+          "name": "스팀100(ABS100)"
+        },
+        {
+          "key": "쿠쿠|CPABSC100GWHGP",
+          "model": "CPABSC100GWHGP",
+          "originalModel": "CP-ABSC100GWH/GP",
+          "name": "스팀100 바리스타(ABSC100)"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-9100",
+      "title": "[SK매직] 언더싱크 정수기",
+      "category": "water",
+      "price": 18900,
+      "url": "https://rentalsegye.com/product.php?no=42299&cid=1377&gid=1424",
+      "normalizedModel": "WPU9100",
+      "similarExact": [
+        {
+          "key": "SK매직|WPU9100C",
+          "model": "WPU9100C",
+          "originalModel": "WPU-9100C",
+          "name": "언더싱크 정수기"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|WPU9100C",
+          "model": "WPU9100C",
+          "originalModel": "WPU-9100C",
+          "name": "언더싱크 정수기"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-GBC102S",
+      "title": "[SK매직] 무전원 에코 미니 정수기 Green 41",
+      "category": "water",
+      "price": 13900,
+      "url": "https://rentalsegye.com/product.php?no=42297&cid=1377&gid=1424",
+      "normalizedModel": "WPUGBC102S",
+      "similarExact": [
+        {
+          "key": "SK매직|WPUGBC102",
+          "model": "WPUGBC102",
+          "originalModel": "WPU-GBC102",
+          "name": "에코미니 Green41"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|WPUGBC102",
+          "model": "WPUGBC102",
+          "originalModel": "WPU-GBC102",
+          "name": "에코미니 Green41"
+        }
+      ]
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPS1CYOE",
+      "title": "[현대큐밍] 딜라이트 직수형 냉온정수기",
+      "category": "water",
+      "price": 27900,
+      "url": "https://rentalsegye.com/product.php?no=36487&cid=1377&gid=1424",
+      "normalizedModel": "HQPS1CYOE",
+      "similarExact": [
+        {
+          "key": "현대큐밍|HQPS11C",
+          "model": "HQPS11C",
+          "originalModel": "HQPS11C",
+          "name": "딜라이트"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "청호나이스",
+      "model": "WI-60C90521M",
+      "title": "[청호나이스] 아이스트리 플리 얼음냉온정수기",
+      "category": "water",
+      "price": 38900,
+      "url": "https://rentalsegye.com/product.php?no=37346&cid=1377&gid=1424",
+      "normalizedModel": "WI60C90521M",
+      "similarExact": [
+        {
+          "key": "청호나이스|WI60C80511M",
+          "model": "WI60C80511M",
+          "originalModel": "WI-60C80511M",
+          "name": "얼음냉정 아이스트리 플리"
+        },
+        {
+          "key": "청호나이스|WI60C90511M",
+          "model": "WI60C90511M",
+          "originalModel": "WI-60C90511M",
+          "name": "얼음냉온 아이스트리 플리"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "현대큐밍",
+      "model": "HQPI73CG0E",
+      "title": "[현대큐밍] 딜라이트 아이스 얼음냉온정수기",
+      "category": "water",
+      "price": 44900,
+      "url": "https://rentalsegye.com/product.php?no=37177&cid=1377&gid=1424",
+      "normalizedModel": "HQPI73CG0E",
+      "similarExact": [
+        {
+          "key": "현대큐밍|HQPI73C",
+          "model": "HQPI73C",
+          "originalModel": "HQPI73C",
+          "name": "딜라이트 아이스"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "현대큐밍|HQPI73C",
+          "model": "HQPI73C",
+          "originalModel": "HQPI73C",
+          "name": "딜라이트 아이스"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-1111N",
+      "title": "[코웨이] 엘리트 빌트인 정수기",
+      "category": "water",
+      "price": 27810,
+      "url": "https://rentalsegye.com/product.php?no=41303&cid=1377&gid=1424",
+      "normalizedModel": "CHP1111N",
+      "similarExact": [
+        {
+          "key": "코웨이|CHP1111NCHP1112N",
+          "model": "CHP1111NCHP1112N",
+          "originalModel": "CHP-1111N/CHP-1112N",
+          "name": "냉온 엘리트 빌트인"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CHP1111NCHP1112N",
+          "model": "CHP1111NCHP1112N",
+          "originalModel": "CHP-1111N/CHP-1112N",
+          "name": "냉온 엘리트 빌트인"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-JAC115P",
+      "title": "[SK매직] PSG 초소형 플러스 직수 정수기",
+      "category": "water",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=42266&cid=1377&gid=1424",
+      "normalizedModel": "WPUJAC115P",
+      "similarExact": [
+        {
+          "key": "SK매직|WPUJAC104",
+          "model": "WPUJAC104",
+          "originalModel": "WPUJAC104",
+          "name": "냉온 초소형 직수"
+        },
+        {
+          "key": "SK매직|WPUJAC115",
+          "model": "WPUJAC115",
+          "originalModel": "WPUJAC115",
+          "name": "초소형 플러스 직수"
+        },
+        {
+          "key": "SK매직|WPUJAC125",
+          "model": "WPUJAC125",
+          "originalModel": "WPUJAC125",
+          "name": "초소형 라이트 직수"
+        },
+        {
+          "key": "SK매직|WPUJCC104",
+          "model": "WPUJCC104",
+          "originalModel": "WPUJCC104",
+          "name": "냉정 초소형 직수"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|WPUJAC115",
+          "model": "WPUJAC115",
+          "originalModel": "WPUJAC115",
+          "name": "초소형 플러스 직수"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IAC425P",
+      "title": "[SK매직] PSG 원코크 플러스 얼음물 정수기",
+      "category": "water",
+      "price": 39000,
+      "url": "https://rentalsegye.com/product.php?no=42267&cid=1377&gid=1424",
+      "normalizedModel": "WPUIAC425P",
+      "similarExact": [
+        {
+          "key": "SK매직|WPUIAC414S",
+          "model": "WPUIAC414S",
+          "originalModel": "WPU-IAC414S",
+          "name": "원코크 얼음물"
+        },
+        {
+          "key": "SK매직|WPUIAC425",
+          "model": "WPUIAC425",
+          "originalModel": "WPU-IAC425",
+          "name": "원코크 플러스 얼음물"
+        },
+        {
+          "key": "SK매직|WPUIAC506S",
+          "model": "WPUIAC506S",
+          "originalModel": "WPU-IAC506S",
+          "name": "MEGA ICE 얼음"
+        },
+        {
+          "key": "SK매직|WPUIAC606S",
+          "model": "WPUIAC606S",
+          "originalModel": "WPU-IAC606S",
+          "name": "MEGA ICE 얼음 mini"
+        },
+        {
+          "key": "SK매직|WPUIC110F",
+          "model": "WPUIC110F",
+          "originalModel": "WPU-IC110F",
+          "name": "스탠드형 직수 얼음냉온"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|WPUIAC425",
+          "model": "WPUIAC425",
+          "originalModel": "WPU-IAC425",
+          "name": "원코크 플러스 얼음물"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-B700F",
+      "title": "[SK매직] 뉴그랜드 정수기",
+      "category": "water",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=42311&cid=1377&gid=1424",
+      "normalizedModel": "WPUB700F",
+      "similarExact": [
+        {
+          "key": "SK매직|WPUB600F",
+          "model": "WPUB600F",
+          "originalModel": "WPU-B600F",
+          "name": "그랜드 정수기"
+        },
+        {
+          "key": "SK매직|WPUB610F",
+          "model": "WPUB610F",
+          "originalModel": "WPU-B610F",
+          "name": "그랜드 정수기(지하수)"
+        },
+        {
+          "key": "SK매직|WPUB700",
+          "model": "WPUB700",
+          "originalModel": "WPU-B700",
+          "name": "뉴 그랜드 정수기"
+        },
+        {
+          "key": "SK매직|WPUB710",
+          "model": "WPUB710",
+          "originalModel": "WPU-B710",
+          "name": "뉴 그랜드 정수기(지하수)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|WPUB700",
+          "model": "WPUB700",
+          "originalModel": "WPU-B700",
+          "name": "뉴 그랜드 정수기"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-B710F",
+      "title": "[SK매직] 뉴그랜드 정수기",
+      "category": "water",
+      "price": 29900,
+      "url": "https://rentalsegye.com/product.php?no=42312&cid=1377&gid=1424",
+      "normalizedModel": "WPUB710F",
+      "similarExact": [
+        {
+          "key": "SK매직|WPUB600F",
+          "model": "WPUB600F",
+          "originalModel": "WPU-B600F",
+          "name": "그랜드 정수기"
+        },
+        {
+          "key": "SK매직|WPUB610F",
+          "model": "WPUB610F",
+          "originalModel": "WPU-B610F",
+          "name": "그랜드 정수기(지하수)"
+        },
+        {
+          "key": "SK매직|WPUB700",
+          "model": "WPUB700",
+          "originalModel": "WPU-B700",
+          "name": "뉴 그랜드 정수기"
+        },
+        {
+          "key": "SK매직|WPUB710",
+          "model": "WPUB710",
+          "originalModel": "WPU-B710",
+          "name": "뉴 그랜드 정수기(지하수)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|WPUB710",
+          "model": "WPUB710",
+          "originalModel": "WPU-B710",
+          "name": "뉴 그랜드 정수기(지하수)"
+        }
+      ]
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AMS100EBE/WH/BR/PK/BK",
+      "title": "[쿠쿠] 인스퓨어 미니100 초소형 냉온정수기",
+      "category": "water",
+      "price": 26010,
+      "url": "https://rentalsegye.com/product.php?no=43680&cid=1377&gid=1424",
+      "normalizedModel": "CPAMS100EBEWHBRPKBK",
+      "similarExact": [
+        {
+          "key": "쿠쿠|CPAMS100",
+          "model": "CPAMS100",
+          "originalModel": "CP-AMS100",
+          "name": "미니100 초고온 직수"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "쿠쿠|CPAMS100",
+          "model": "CPAMS100",
+          "originalModel": "CP-AMS100",
+          "name": "미니100 초고온 직수"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-JAC125S",
+      "title": "[SK매직] 초소형 라이트 직수 냉온정수기",
+      "category": "water",
+      "price": 24000,
+      "url": "https://rentalsegye.com/product.php?no=44619&cid=1377&gid=1424",
+      "normalizedModel": "WPUJAC125S",
+      "similarExact": [
+        {
+          "key": "SK매직|WPUJAC104",
+          "model": "WPUJAC104",
+          "originalModel": "WPUJAC104",
+          "name": "냉온 초소형 직수"
+        },
+        {
+          "key": "SK매직|WPUJAC115",
+          "model": "WPUJAC115",
+          "originalModel": "WPUJAC115",
+          "name": "초소형 플러스 직수"
+        },
+        {
+          "key": "SK매직|WPUJAC125",
+          "model": "WPUJAC125",
+          "originalModel": "WPUJAC125",
+          "name": "초소형 라이트 직수"
+        },
+        {
+          "key": "SK매직|WPUJCC104",
+          "model": "WPUJCC104",
+          "originalModel": "WPUJCC104",
+          "name": "냉정 초소형 직수"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|WPUJAC125",
+          "model": "WPUJAC125",
+          "originalModel": "WPUJAC125",
+          "name": "초소형 라이트 직수"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "WT652NWA",
+      "title": "[웰스] 슈퍼쿨링2 냉정수기",
+      "category": "water",
+      "price": 17900,
+      "url": "https://rentalsegye.com/product.php?no=47211&cid=1377&gid=1424",
+      "normalizedModel": "WT652NWA",
+      "similarExact": [
+        {
+          "key": "웰스|WT652",
+          "model": "WT652",
+          "originalModel": "WT652",
+          "name": "슈퍼쿨링2 냉정수기"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|WT652",
+          "model": "WT652",
+          "originalModel": "WT652",
+          "name": "슈퍼쿨링2 냉정수기"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "WT672NWA",
+      "title": "[웰스] 슈퍼쿨링2 냉온정수기",
+      "category": "water",
+      "price": 19900,
+      "url": "https://rentalsegye.com/product.php?no=47212&cid=1377&gid=1424",
+      "normalizedModel": "WT672NWA",
+      "similarExact": [
+        {
+          "key": "웰스|WT672",
+          "model": "WT672",
+          "originalModel": "WT672",
+          "name": "슈퍼쿨링2 냉온정수기"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|WT672",
+          "model": "WT672",
+          "originalModel": "WT672",
+          "name": "슈퍼쿨링2 냉온정수기"
+        }
+      ]
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-AHS101HEW",
+      "title": "[쿠쿠] 제로 100 슬림 플러스 얼음 냉온정수기",
+      "category": "water",
+      "price": 36810,
+      "url": "https://rentalsegye.com/product.php?no=47913&cid=1377&gid=1424",
+      "normalizedModel": "CPAHS101HEW",
+      "similarExact": [
+        {
+          "key": "쿠쿠|CPAHS100HE",
+          "model": "CPAHS100HE",
+          "originalModel": "CP-AHS100HE",
+          "name": "제로 100 슬림 얼음(AHS100)"
+        },
+        {
+          "key": "쿠쿠|CPAHS101HE",
+          "model": "CPAHS101HE",
+          "originalModel": "CP-AHS101HE",
+          "name": "제로 100 슬림 플러스 얼음(AHS101)"
+        },
+        {
+          "key": "쿠쿠|CPAHSC100HE",
+          "model": "CPAHSC100HE",
+          "originalModel": "CP-AHSC100HE",
+          "name": "제로 100 슬림 바리스타(AHSC100)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "쿠쿠|CPAHS101HE",
+          "model": "CPAHS101HE",
+          "originalModel": "CP-AHS101HE",
+          "name": "제로 100 슬림 플러스 얼음(AHS101)"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IAC606",
+      "title": "[SK매직] MEGA ICE 얼음정수기 mini",
+      "category": "water",
+      "price": 35900,
+      "url": "https://rentalsegye.com/product.php?no=49288&cid=1377&gid=1424",
+      "normalizedModel": "WPUIAC606",
+      "similarExact": [
+        {
+          "key": "SK매직|WPUIAC414S",
+          "model": "WPUIAC414S",
+          "originalModel": "WPU-IAC414S",
+          "name": "원코크 얼음물"
+        },
+        {
+          "key": "SK매직|WPUIAC425",
+          "model": "WPUIAC425",
+          "originalModel": "WPU-IAC425",
+          "name": "원코크 플러스 얼음물"
+        },
+        {
+          "key": "SK매직|WPUIAC506S",
+          "model": "WPUIAC506S",
+          "originalModel": "WPU-IAC506S",
+          "name": "MEGA ICE 얼음"
+        },
+        {
+          "key": "SK매직|WPUIAC606S",
+          "model": "WPUIAC606S",
+          "originalModel": "WPU-IAC606S",
+          "name": "MEGA ICE 얼음 mini"
+        },
+        {
+          "key": "SK매직|WPUIC110F",
+          "model": "WPUIC110F",
+          "originalModel": "WPU-IC110F",
+          "name": "스탠드형 직수 얼음냉온"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|WPUIAC606S",
+          "model": "WPUIAC606S",
+          "originalModel": "WPU-IAC606S",
+          "name": "MEGA ICE 얼음 mini"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-MAC306SWH",
+      "title": "[SK매직] 투워터 직수 냉온정수기",
+      "category": "water",
+      "price": 32900,
+      "url": "https://rentalsegye.com/product.php?no=48070&cid=1377&gid=1424",
+      "normalizedModel": "WPUMAC306SWH",
+      "similarExact": [
+        {
+          "key": "SK매직|WPUMAC306",
+          "model": "WPUMAC306",
+          "originalModel": "WPUMAC306",
+          "name": "냉온 투워터 정수기"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|WPUMAC306",
+          "model": "WPUMAC306",
+          "originalModel": "WPUMAC306",
+          "name": "냉온 투워터 정수기"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "WPU-IAC506",
+      "title": "[SK매직] MEGA ICE 얼음냉온정수기",
+      "category": "water",
+      "price": 41500,
+      "url": "https://rentalsegye.com/product.php?no=48596&cid=1377&gid=1424",
+      "normalizedModel": "WPUIAC506",
+      "similarExact": [
+        {
+          "key": "SK매직|WPUIAC414S",
+          "model": "WPUIAC414S",
+          "originalModel": "WPU-IAC414S",
+          "name": "원코크 얼음물"
+        },
+        {
+          "key": "SK매직|WPUIAC425",
+          "model": "WPUIAC425",
+          "originalModel": "WPU-IAC425",
+          "name": "원코크 플러스 얼음물"
+        },
+        {
+          "key": "SK매직|WPUIAC506S",
+          "model": "WPUIAC506S",
+          "originalModel": "WPU-IAC506S",
+          "name": "MEGA ICE 얼음"
+        },
+        {
+          "key": "SK매직|WPUIAC606S",
+          "model": "WPUIAC606S",
+          "originalModel": "WPU-IAC606S",
+          "name": "MEGA ICE 얼음 mini"
+        },
+        {
+          "key": "SK매직|WPUIC110F",
+          "model": "WPUIC110F",
+          "originalModel": "WPU-IC110F",
+          "name": "스탠드형 직수 얼음냉온"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|WPUIAC506S",
+          "model": "WPUIAC506S",
+          "originalModel": "WPU-IAC506S",
+          "name": "MEGA ICE 얼음"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CHP-7211N_V2",
+      "title": "[코웨이] 아이콘 정수기2 V2",
+      "category": "water",
+      "price": 25110,
+      "url": "https://rentalsegye.com/product.php?no=48835&cid=1377&gid=1424",
+      "normalizedModel": "CHP7211NV2",
+      "similarExact": [
+        {
+          "key": "코웨이|CHP700L",
+          "model": "CHP700L",
+          "originalModel": "CHP-700L",
+          "name": "냉온 스탠드 (CHP-700L)"
+        },
+        {
+          "key": "코웨이|CHP7211N",
+          "model": "CHP7211N",
+          "originalModel": "CHP-7211N",
+          "name": "냉온 아이콘2"
+        },
+        {
+          "key": "코웨이|CHP7212N",
+          "model": "CHP7212N",
+          "originalModel": "CHP-7212N",
+          "name": "냉온 아이콘 프로"
+        },
+        {
+          "key": "코웨이|CHP7220N",
+          "model": "CHP7220N",
+          "originalModel": "CHP-7220N",
+          "name": "냉온 아이콘3"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CHP7211N",
+          "model": "CHP7211N",
+          "originalModel": "CHP-7211N",
+          "name": "냉온 아이콘2"
+        }
+      ]
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "CP-SS101WSV",
+      "title": "[쿠쿠] 제로 100S 끓인물 얼음 냉온정수기 화이트",
+      "category": "water",
+      "price": 37900,
+      "url": "https://rentalsegye.com/product.php?no=49323&cid=1377&gid=1424",
+      "normalizedModel": "CPSS101WSV",
+      "similarExact": [
+        {
+          "key": "쿠쿠|CPSS100H",
+          "model": "CPSS100H",
+          "originalModel": "CP-SS100H",
+          "name": "ZERO 100S 끓인물 얼음(SS100)"
+        },
+        {
+          "key": "쿠쿠|CPSS101HW",
+          "model": "CPSS101HW",
+          "originalModel": "CP-SS101HW",
+          "name": "인앤아웃 아이스 10'S(SS101)"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "코웨이",
+      "model": "CP-7211N_V2",
+      "title": "[코웨이] 아이콘 정수기2 V2",
+      "category": "water",
+      "price": 23310,
+      "url": "https://rentalsegye.com/product.php?no=49384&cid=1377&gid=1424",
+      "normalizedModel": "CP7211NV2",
+      "similarExact": [
+        {
+          "key": "코웨이|CP7211N",
+          "model": "CP7211N",
+          "originalModel": "CP-7211N",
+          "name": "냉정 아이콘2"
+        },
+        {
+          "key": "코웨이|CP7220N",
+          "model": "CP7220N",
+          "originalModel": "CP-7220N",
+          "name": "냉정 아이콘3"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CP7211N",
+          "model": "CP7211N",
+          "originalModel": "CP-7211N",
+          "name": "냉정 아이콘2"
+        }
+      ]
+    },
+    {
+      "brand": "세스코",
+      "model": "EADS721",
+      "title": "[세스코] 트루에어 공기청정기 판테온 25평형 포레스트그린",
+      "category": "air",
+      "price": 21900,
+      "url": "https://rentalsegye.com/product.php?no=39801&cid=1379&gid=1407",
+      "normalizedModel": "EADS721",
+      "similarExact": [
+        {
+          "key": "세스코|EADS511",
+          "model": "EADS511",
+          "originalModel": "EADS511",
+          "name": "트루에어 공기청정기 판테온(20평형)"
+        },
+        {
+          "key": "세스코|EADS531",
+          "model": "EADS531",
+          "originalModel": "EADS531",
+          "name": "트루살균 공기청정기 판테온(20평형)"
+        },
+        {
+          "key": "세스코|EADS711",
+          "model": "EADS711",
+          "originalModel": "EADS711",
+          "name": "트루에어 공기청정기 판테온(25평형)"
+        },
+        {
+          "key": "세스코|EADS731",
+          "model": "EADS731",
+          "originalModel": "EADS731",
+          "name": "트루살균 공기청정기 판테온(25평형)"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "웰스",
+      "model": "AQ107",
+      "title": "[웰스] 공기청정기 미니맥스 7평형 허브그린",
+      "category": "air",
+      "price": 12900,
+      "url": "https://rentalsegye.com/product.php?no=24547&cid=1379&gid=1407",
+      "normalizedModel": "AQ107",
+      "similarExact": [],
+      "similarContains": [
+        {
+          "key": "웰스|AP107AQ107AR107",
+          "model": "AP107AQ107AR107",
+          "originalModel": "AP107/AQ107/AR107",
+          "name": "미니 맥스 7평"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "AP107",
+      "title": "[웰스] 공기청정기 미니맥스 7평형 스톤그레이",
+      "category": "air",
+      "price": 12900,
+      "url": "https://rentalsegye.com/product.php?no=30298&cid=1379&gid=1407",
+      "normalizedModel": "AP107",
+      "similarExact": [
+        {
+          "key": "웰스|AP107AQ107AR107",
+          "model": "AP107AQ107AR107",
+          "originalModel": "AP107/AQ107/AR107",
+          "name": "미니 맥스 7평"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|AP107AQ107AR107",
+          "model": "AP107AQ107AR107",
+          "originalModel": "AP107/AQ107/AR107",
+          "name": "미니 맥스 7평"
+        },
+        {
+          "key": "웰스|WQ672BT150AP107",
+          "model": "WQ672BT150AP107",
+          "originalModel": "WQ672+BT150+AP107",
+          "name": "슈퍼쿨링 3대 패키지(WQ672+AP107+BT150)"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "AP-3522F",
+      "title": "[코웨이] 파워업 공기청정기 35평형",
+      "category": "air",
+      "price": 45900,
+      "url": "https://rentalsegye.com/product.php?no=36867&cid=1379&gid=1407",
+      "normalizedModel": "AP3522F",
+      "similarExact": [
+        {
+          "key": "코웨이|AP3519A",
+          "model": "AP3519A",
+          "originalModel": "AP-3519A",
+          "name": "벽걸이 공기청정기(AP-3519A)"
+        },
+        {
+          "key": "코웨이|AP3525I",
+          "model": "AP3525I",
+          "originalModel": "AP-3525I",
+          "name": "파워업 공기청정기 2"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "웰스",
+      "model": "AR107",
+      "title": "[웰스] 공기청정기 미니맥스 7평형 우드베이지",
+      "category": "air",
+      "price": 12900,
+      "url": "https://rentalsegye.com/product.php?no=37089&cid=1379&gid=1407",
+      "normalizedModel": "AR107",
+      "similarExact": [],
+      "similarContains": [
+        {
+          "key": "웰스|AP107AQ107AR107",
+          "model": "AP107AQ107AR107",
+          "originalModel": "AP107/AQ107/AR107",
+          "name": "미니 맥스 7평"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "AP520VWA",
+      "title": "[웰스] 토네이도 안티바이러스 공기청정기 22평형",
+      "category": "air",
+      "price": 25900,
+      "url": "https://rentalsegye.com/product.php?no=39232&cid=1379&gid=1407",
+      "normalizedModel": "AP520VWA",
+      "similarExact": [
+        {
+          "key": "웰스|AP520",
+          "model": "AP520",
+          "originalModel": "AP520",
+          "name": "안티바이러스 토네이도 20평"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|AP520",
+          "model": "AP520",
+          "originalModel": "AP520",
+          "name": "안티바이러스 토네이도 20평"
+        }
+      ]
+    },
+    {
+      "brand": "세스코",
+      "model": "EADS741",
+      "title": "[세스코] 트루살균 공기청정기 판테온 25평형 포레스트그린",
+      "category": "air",
+      "price": 33900,
+      "url": "https://rentalsegye.com/product.php?no=39799&cid=1379&gid=1407",
+      "normalizedModel": "EADS741",
+      "similarExact": [
+        {
+          "key": "세스코|EADS511",
+          "model": "EADS511",
+          "originalModel": "EADS511",
+          "name": "트루에어 공기청정기 판테온(20평형)"
+        },
+        {
+          "key": "세스코|EADS531",
+          "model": "EADS531",
+          "originalModel": "EADS531",
+          "name": "트루살균 공기청정기 판테온(20평형)"
+        },
+        {
+          "key": "세스코|EADS711",
+          "model": "EADS711",
+          "originalModel": "EADS711",
+          "name": "트루에어 공기청정기 판테온(25평형)"
+        },
+        {
+          "key": "세스코|EADS731",
+          "model": "EADS731",
+          "originalModel": "EADS731",
+          "name": "트루살균 공기청정기 판테온(25평형)"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "세스코",
+      "model": "EADS541",
+      "title": "[세스코] 트루살균 공기청정기 판테온 20평형 포레스트그린",
+      "category": "air",
+      "price": 30900,
+      "url": "https://rentalsegye.com/product.php?no=40192&cid=1379&gid=1407",
+      "normalizedModel": "EADS541",
+      "similarExact": [
+        {
+          "key": "세스코|EADS511",
+          "model": "EADS511",
+          "originalModel": "EADS511",
+          "name": "트루에어 공기청정기 판테온(20평형)"
+        },
+        {
+          "key": "세스코|EADS531",
+          "model": "EADS531",
+          "originalModel": "EADS531",
+          "name": "트루살균 공기청정기 판테온(20평형)"
+        },
+        {
+          "key": "세스코|EADS711",
+          "model": "EADS711",
+          "originalModel": "EADS711",
+          "name": "트루에어 공기청정기 판테온(25평형)"
+        },
+        {
+          "key": "세스코|EADS731",
+          "model": "EADS731",
+          "originalModel": "EADS731",
+          "name": "트루살균 공기청정기 판테온(25평형)"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "세스코",
+      "model": "EADS521",
+      "title": "[세스코] 트루에어 공기청정기 판테온 20평형 포레스트그린",
+      "category": "air",
+      "price": 18900,
+      "url": "https://rentalsegye.com/product.php?no=40194&cid=1379&gid=1407",
+      "normalizedModel": "EADS521",
+      "similarExact": [
+        {
+          "key": "세스코|EADS511",
+          "model": "EADS511",
+          "originalModel": "EADS511",
+          "name": "트루에어 공기청정기 판테온(20평형)"
+        },
+        {
+          "key": "세스코|EADS531",
+          "model": "EADS531",
+          "originalModel": "EADS531",
+          "name": "트루살균 공기청정기 판테온(20평형)"
+        },
+        {
+          "key": "세스코|EADS711",
+          "model": "EADS711",
+          "originalModel": "EADS711",
+          "name": "트루에어 공기청정기 판테온(25평형)"
+        },
+        {
+          "key": "세스코|EADS731",
+          "model": "EADS731",
+          "originalModel": "EADS731",
+          "name": "트루살균 공기청정기 판테온(25평형)"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "웰스",
+      "model": "AS524CWA",
+      "title": "[웰스] 에어가든 Lite 공기청정기 24평형",
+      "category": "air",
+      "price": 20900,
+      "url": "https://rentalsegye.com/product.php?no=40611&cid=1379&gid=1407",
+      "normalizedModel": "AS524CWA",
+      "similarExact": [
+        {
+          "key": "웰스|AS524",
+          "model": "AS524",
+          "originalModel": "AS524",
+          "name": "에어가든 Lite 24평형"
+        },
+        {
+          "key": "웰스|AS526",
+          "model": "AS526",
+          "originalModel": "AS526",
+          "name": "에어가든 Lite 26평형"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|AS524",
+          "model": "AS524",
+          "originalModel": "AS524",
+          "name": "에어가든 Lite 24평형"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "AS526CWA",
+      "title": "[웰스] 에어가든 Lite 공기청정기 26평형",
+      "category": "air",
+      "price": 23900,
+      "url": "https://rentalsegye.com/product.php?no=40613&cid=1379&gid=1407",
+      "normalizedModel": "AS526CWA",
+      "similarExact": [
+        {
+          "key": "웰스|AS524",
+          "model": "AS524",
+          "originalModel": "AS524",
+          "name": "에어가든 Lite 24평형"
+        },
+        {
+          "key": "웰스|AS526",
+          "model": "AS526",
+          "originalModel": "AS526",
+          "name": "에어가든 Lite 26평형"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|AS526",
+          "model": "AS526",
+          "originalModel": "AS526",
+          "name": "에어가든 Lite 26평형"
+        }
+      ]
+    },
+    {
+      "brand": "SK매직",
+      "model": "ACL-300",
+      "title": "[SK매직] 슈퍼 공기청정기 30평형",
+      "category": "air",
+      "price": 49900,
+      "url": "https://rentalsegye.com/product.php?no=42315&cid=1379&gid=1407",
+      "normalizedModel": "ACL300",
+      "similarExact": [
+        {
+          "key": "SK매직|ACL300VA",
+          "model": "ACL300VA",
+          "originalModel": "ACL-300VA",
+          "name": "AI 공기청정기 30평형"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "SK매직|ACL300VA",
+          "model": "ACL300VA",
+          "originalModel": "ACL-300VA",
+          "name": "AI 공기청정기 30평형"
+        }
+      ]
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-30AH30FEDR",
+      "title": "[쿠쿠] 인스퓨어 헤리티지 공기청정기 30평형 어스다크그레이",
+      "category": "air",
+      "price": 22900,
+      "url": "https://rentalsegye.com/product.php?no=47181&cid=1379&gid=1407",
+      "normalizedModel": "AC30AH30FEDR",
+      "similarExact": [
+        {
+          "key": "쿠쿠|AC30AH30FE",
+          "model": "AC30AH30FE",
+          "originalModel": "AC-30AH30FE",
+          "name": "인스퓨어 헤리티지 공기청정기 30평형"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "쿠쿠|AC30AH30FE",
+          "model": "AC30AH30FE",
+          "originalModel": "AC-30AH30FE",
+          "name": "인스퓨어 헤리티지 공기청정기 30평형"
+        }
+      ]
+    },
+    {
+      "brand": "쿠쿠",
+      "model": "AC-30AH30FEDG",
+      "title": "[쿠쿠] 인스퓨어 헤리티지 공기청정기 30평형 어스다크브라운",
+      "category": "air",
+      "price": 22900,
+      "url": "https://rentalsegye.com/product.php?no=47180&cid=1379&gid=1407",
+      "normalizedModel": "AC30AH30FEDG",
+      "similarExact": [
+        {
+          "key": "쿠쿠|AC30AH30FE",
+          "model": "AC30AH30FE",
+          "originalModel": "AC-30AH30FE",
+          "name": "인스퓨어 헤리티지 공기청정기 30평형"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "쿠쿠|AC30AH30FE",
+          "model": "AC30AH30FE",
+          "originalModel": "AC-30AH30FE",
+          "name": "인스퓨어 헤리티지 공기청정기 30평형"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-PR03,CMQ-PR03,CMK-PR03",
+      "title": "[코웨이] 탑퍼교체 하이브리드3 매트리스 (슈퍼싱글,퀸,킹)",
+      "category": "mattress",
+      "price": 19900,
+      "url": "https://rentalsegye.com/product.php?no=11552&cid=1486&gid=1580",
+      "normalizedModel": "CMSSPR03CMQPR03CMKPR03",
+      "similarExact": [
+        {
+          "key": "코웨이|CMSSAS04",
+          "model": "CMSSAS04",
+          "originalModel": "CMSS-AS04",
+          "name": "스마트 매트리스 S6+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSAS05",
+          "model": "CMSSAS05",
+          "originalModel": "CMSS-AS05",
+          "name": "스마트 매트리스 S8+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSM01",
+          "model": "CMSSM01",
+          "originalModel": "CMSS-M01",
+          "name": "컴팩트 메모리폼 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSOB03",
+          "model": "CMSSOB03",
+          "originalModel": "CMSS-OB03",
+          "name": "원바디 2 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSPR03",
+          "model": "CMSSPR03",
+          "originalModel": "CMSS-PR03",
+          "name": "하이브리드3 매트리스(SS)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CMKPR03",
+          "model": "CMKPR03",
+          "originalModel": "CMK-PR03",
+          "name": "하이브리드3 매트리스(K)"
+        },
+        {
+          "key": "코웨이|CMQPR03",
+          "model": "CMQPR03",
+          "originalModel": "CMQ-PR03",
+          "name": "하이브리드3 매트리스(Q)"
+        },
+        {
+          "key": "코웨이|CMSSPR03",
+          "model": "CMSSPR03",
+          "originalModel": "CMSS-PR03",
+          "name": "하이브리드3 매트리스(SS)"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-PR04,CMQ-PR04,CMK-PR04,CMLK-PR04",
+      "title": "[코웨이] 탑퍼교체 하이브리드4 매트리스 (슈퍼싱글,퀸,킹,라지킹)",
+      "category": "mattress",
+      "price": 19900,
+      "url": "https://rentalsegye.com/product.php?no=11554&cid=1486&gid=1580",
+      "normalizedModel": "CMSSPR04CMQPR04CMKPR04CMLKPR04",
+      "similarExact": [
+        {
+          "key": "코웨이|CMSSAS04",
+          "model": "CMSSAS04",
+          "originalModel": "CMSS-AS04",
+          "name": "스마트 매트리스 S6+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSAS05",
+          "model": "CMSSAS05",
+          "originalModel": "CMSS-AS05",
+          "name": "스마트 매트리스 S8+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSM01",
+          "model": "CMSSM01",
+          "originalModel": "CMSS-M01",
+          "name": "컴팩트 메모리폼 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSOB03",
+          "model": "CMSSOB03",
+          "originalModel": "CMSS-OB03",
+          "name": "원바디 2 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSPR03",
+          "model": "CMSSPR03",
+          "originalModel": "CMSS-PR03",
+          "name": "하이브리드3 매트리스(SS)"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SL01,CMQ-SL01,CMK-SL01",
+      "title": "[코웨이] 탑퍼교체 더블체인지 매트리스 (슈퍼싱글,퀸,킹)",
+      "category": "mattress",
+      "price": 12900,
+      "url": "https://rentalsegye.com/product.php?no=11561&cid=1486&gid=1580",
+      "normalizedModel": "CMSSSL01CMQSL01CMKSL01",
+      "similarExact": [
+        {
+          "key": "코웨이|CMSSAS04",
+          "model": "CMSSAS04",
+          "originalModel": "CMSS-AS04",
+          "name": "스마트 매트리스 S6+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSAS05",
+          "model": "CMSSAS05",
+          "originalModel": "CMSS-AS05",
+          "name": "스마트 매트리스 S8+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSM01",
+          "model": "CMSSM01",
+          "originalModel": "CMSS-M01",
+          "name": "컴팩트 메모리폼 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSOB03",
+          "model": "CMSSOB03",
+          "originalModel": "CMSS-OB03",
+          "name": "원바디 2 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSPR03",
+          "model": "CMSSPR03",
+          "originalModel": "CMSS-PR03",
+          "name": "하이브리드3 매트리스(SS)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CMKSL01",
+          "model": "CMKSL01",
+          "originalModel": "CMK-SL01",
+          "name": "더블체인지 매트리스(K)"
+        },
+        {
+          "key": "코웨이|CMQSL01",
+          "model": "CMQSL01",
+          "originalModel": "CMQ-SL01",
+          "name": "더블체인지 매트리스(Q)"
+        },
+        {
+          "key": "코웨이|CMSSSL01",
+          "model": "CMSSSL01",
+          "originalModel": "CMSS-SL01",
+          "name": "더블체인지 매트리스(SS)"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-M01,CMQ-M01",
+      "title": "[코웨이] 컴팩트 메모리폼 매트리스 (슈퍼싱글,퀸)",
+      "category": "mattress",
+      "price": 14900,
+      "url": "https://rentalsegye.com/product.php?no=11562&cid=1486&gid=1580",
+      "normalizedModel": "CMSSM01CMQM01",
+      "similarExact": [
+        {
+          "key": "코웨이|CMSSAS04",
+          "model": "CMSSAS04",
+          "originalModel": "CMSS-AS04",
+          "name": "스마트 매트리스 S6+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSAS05",
+          "model": "CMSSAS05",
+          "originalModel": "CMSS-AS05",
+          "name": "스마트 매트리스 S8+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSM01",
+          "model": "CMSSM01",
+          "originalModel": "CMSS-M01",
+          "name": "컴팩트 메모리폼 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSOB03",
+          "model": "CMSSOB03",
+          "originalModel": "CMSS-OB03",
+          "name": "원바디 2 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSPR03",
+          "model": "CMSSPR03",
+          "originalModel": "CMSS-PR03",
+          "name": "하이브리드3 매트리스(SS)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CMQM01",
+          "model": "CMQM01",
+          "originalModel": "CMQ-M01",
+          "name": "컴팩트 메모리폼 매트리스(Q)"
+        },
+        {
+          "key": "코웨이|CMSSM01",
+          "model": "CMSSM01",
+          "originalModel": "CMSS-M01",
+          "name": "컴팩트 메모리폼 매트리스(SS)"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-OB03,CMQ-OB03",
+      "title": "[코웨이] 커버교체 원바디2 매트리스 (슈퍼싱글,퀸)",
+      "category": "mattress",
+      "price": 14900,
+      "url": "https://rentalsegye.com/product.php?no=28015&cid=1486&gid=1580",
+      "normalizedModel": "CMSSOB03CMQOB03",
+      "similarExact": [
+        {
+          "key": "코웨이|CMSSAS04",
+          "model": "CMSSAS04",
+          "originalModel": "CMSS-AS04",
+          "name": "스마트 매트리스 S6+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSAS05",
+          "model": "CMSSAS05",
+          "originalModel": "CMSS-AS05",
+          "name": "스마트 매트리스 S8+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSM01",
+          "model": "CMSSM01",
+          "originalModel": "CMSS-M01",
+          "name": "컴팩트 메모리폼 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSOB03",
+          "model": "CMSSOB03",
+          "originalModel": "CMSS-OB03",
+          "name": "원바디 2 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSPR03",
+          "model": "CMSSPR03",
+          "originalModel": "CMSS-PR03",
+          "name": "하이브리드3 매트리스(SS)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CMQOB03",
+          "model": "CMQOB03",
+          "originalModel": "CMQ-OB03",
+          "name": "원바디 2 매트리스(Q)"
+        },
+        {
+          "key": "코웨이|CMSSOB03",
+          "model": "CMSSOB03",
+          "originalModel": "CMSS-OB03",
+          "name": "원바디 2 매트리스(SS)"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMS-ST01EH,CMSS-ST01EH,CMQ-ST01EH",
+      "title": "[코웨이] 엘리트 매트리스 (싱글,슈퍼싱글,퀸)",
+      "category": "mattress",
+      "price": 10900,
+      "url": "https://rentalsegye.com/product.php?no=34136&cid=1486&gid=1580",
+      "normalizedModel": "CMSST01EHCMSSST01EHCMQST01EH",
+      "similarExact": [
+        {
+          "key": "코웨이|CMSSAS04",
+          "model": "CMSSAS04",
+          "originalModel": "CMSS-AS04",
+          "name": "스마트 매트리스 S6+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSAS05",
+          "model": "CMSSAS05",
+          "originalModel": "CMSS-AS05",
+          "name": "스마트 매트리스 S8+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSM01",
+          "model": "CMSSM01",
+          "originalModel": "CMSS-M01",
+          "name": "컴팩트 메모리폼 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSOB03",
+          "model": "CMSSOB03",
+          "originalModel": "CMSS-OB03",
+          "name": "원바디 2 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSPR03",
+          "model": "CMSSPR03",
+          "originalModel": "CMSS-PR03",
+          "name": "하이브리드3 매트리스(SS)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CMQST01EH",
+          "model": "CMQST01EH",
+          "originalModel": "CMQ-ST01EH",
+          "name": "엘리트 매트리스(Q)"
+        },
+        {
+          "key": "코웨이|CMSSST01EH",
+          "model": "CMSSST01EH",
+          "originalModel": "CMSS-ST01EH",
+          "name": "엘리트 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSST01EH",
+          "model": "CMSST01EH",
+          "originalModel": "CMS-ST01EH",
+          "name": "엘리트 매트리스(S)"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SP01SC,CMQ-SP01SC,CMK-SP01SC,CMLK-SP01SC,CMGK-SP01SC",
+      "title": "[코웨이] 비렉스 시그니처 매트리스 컴포트 (슈퍼싱글,퀸,킹,라지킹,그레이트킹)",
+      "category": "mattress",
+      "price": 38900,
+      "url": "https://rentalsegye.com/product.php?no=34492&cid=1486&gid=1580",
+      "normalizedModel": "CMSSSP01SCCMQSP01SCCMKSP01SCCMLKSP01SCCMGKSP01SC",
+      "similarExact": [
+        {
+          "key": "코웨이|CMSSAS04",
+          "model": "CMSSAS04",
+          "originalModel": "CMSS-AS04",
+          "name": "스마트 매트리스 S6+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSAS05",
+          "model": "CMSSAS05",
+          "originalModel": "CMSS-AS05",
+          "name": "스마트 매트리스 S8+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSM01",
+          "model": "CMSSM01",
+          "originalModel": "CMSS-M01",
+          "name": "컴팩트 메모리폼 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSOB03",
+          "model": "CMSSOB03",
+          "originalModel": "CMSS-OB03",
+          "name": "원바디 2 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSPR03",
+          "model": "CMSSPR03",
+          "originalModel": "CMSS-PR03",
+          "name": "하이브리드3 매트리스(SS)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CMGKSP01S",
+          "model": "CMGKSP01S",
+          "originalModel": "CMGK-SP01S",
+          "name": "시그니처 매트리스 기본형(GK)"
+        },
+        {
+          "key": "코웨이|CMGKSP01SC",
+          "model": "CMGKSP01SC",
+          "originalModel": "CMGK-SP01SC",
+          "name": "시그니처 매트리스 탑퍼형(GK)"
+        },
+        {
+          "key": "코웨이|CMKSP01S",
+          "model": "CMKSP01S",
+          "originalModel": "CMK-SP01S",
+          "name": "시그니처 매트리스 기본형(K)"
+        },
+        {
+          "key": "코웨이|CMKSP01SC",
+          "model": "CMKSP01SC",
+          "originalModel": "CMK-SP01SC",
+          "name": "시그니처 매트리스 탑퍼형(K)"
+        },
+        {
+          "key": "코웨이|CMLKSP01S",
+          "model": "CMLKSP01S",
+          "originalModel": "CMLK-SP01S",
+          "name": "시그니처 매트리스 기본형(LK)"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SP01S,CMQ-SP01S,CMK-SP01S,CMLK-SP01S,CMGK-SP01S",
+      "title": "[코웨이] 비렉스 시그니처 매트리스 (슈퍼싱글,퀸,킹,라지킹,그레이트킹)",
+      "category": "mattress",
+      "price": 34900,
+      "url": "https://rentalsegye.com/product.php?no=34493&cid=1486&gid=1580",
+      "normalizedModel": "CMSSSP01SCMQSP01SCMKSP01SCMLKSP01SCMGKSP01S",
+      "similarExact": [
+        {
+          "key": "코웨이|CMSSAS04",
+          "model": "CMSSAS04",
+          "originalModel": "CMSS-AS04",
+          "name": "스마트 매트리스 S6+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSAS05",
+          "model": "CMSSAS05",
+          "originalModel": "CMSS-AS05",
+          "name": "스마트 매트리스 S8+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSM01",
+          "model": "CMSSM01",
+          "originalModel": "CMSS-M01",
+          "name": "컴팩트 메모리폼 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSOB03",
+          "model": "CMSSOB03",
+          "originalModel": "CMSS-OB03",
+          "name": "원바디 2 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSPR03",
+          "model": "CMSSPR03",
+          "originalModel": "CMSS-PR03",
+          "name": "하이브리드3 매트리스(SS)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CMGKSP01S",
+          "model": "CMGKSP01S",
+          "originalModel": "CMGK-SP01S",
+          "name": "시그니처 매트리스 기본형(GK)"
+        },
+        {
+          "key": "코웨이|CMKSP01S",
+          "model": "CMKSP01S",
+          "originalModel": "CMK-SP01S",
+          "name": "시그니처 매트리스 기본형(K)"
+        },
+        {
+          "key": "코웨이|CMKSP01SC",
+          "model": "CMKSP01SC",
+          "originalModel": "CMK-SP01SC",
+          "name": "시그니처 매트리스 탑퍼형(K)"
+        },
+        {
+          "key": "코웨이|CMLKSP01S",
+          "model": "CMLKSP01S",
+          "originalModel": "CMLK-SP01S",
+          "name": "시그니처 매트리스 기본형(LK)"
+        },
+        {
+          "key": "코웨이|CMLKSP01SC",
+          "model": "CMLKSP01SC",
+          "originalModel": "CMLK-SP01SC",
+          "name": "시그니처 매트리스 탑퍼형(LK)"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SE01,CMQ-SE01,CMK-SE01",
+      "title": "[코웨이] 비렉스 더블사이드 매트리스 (슈퍼싱글,퀸,킹)",
+      "category": "mattress",
+      "price": 15900,
+      "url": "https://rentalsegye.com/product.php?no=34697&cid=1486&gid=1580",
+      "normalizedModel": "CMSSSE01CMQSE01CMKSE01",
+      "similarExact": [
+        {
+          "key": "코웨이|CMSSAS04",
+          "model": "CMSSAS04",
+          "originalModel": "CMSS-AS04",
+          "name": "스마트 매트리스 S6+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSAS05",
+          "model": "CMSSAS05",
+          "originalModel": "CMSS-AS05",
+          "name": "스마트 매트리스 S8+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSM01",
+          "model": "CMSSM01",
+          "originalModel": "CMSS-M01",
+          "name": "컴팩트 메모리폼 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSOB03",
+          "model": "CMSSOB03",
+          "originalModel": "CMSS-OB03",
+          "name": "원바디 2 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSPR03",
+          "model": "CMSSPR03",
+          "originalModel": "CMSS-PR03",
+          "name": "하이브리드3 매트리스(SS)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CMKSE01",
+          "model": "CMKSE01",
+          "originalModel": "CMK-SE01",
+          "name": "더블 사이드 매트리스(K)"
+        },
+        {
+          "key": "코웨이|CMQSE01",
+          "model": "CMQSE01",
+          "originalModel": "CMQ-SE01",
+          "name": "더블 사이드 매트리스(Q)"
+        },
+        {
+          "key": "코웨이|CMSSSE01",
+          "model": "CMSSSE01",
+          "originalModel": "CMSS-SE01",
+          "name": "더블 사이드 매트리스(SS)"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-AS05,CMQ-AS05,CMK-AS05,CMLK-AS05",
+      "title": "[코웨이] 비렉스 스마트 매트리스 S8+ (슈퍼싱글,퀸,킹,라지킹)",
+      "category": "mattress",
+      "price": 66900,
+      "url": "https://rentalsegye.com/product.php?no=39202&cid=1486&gid=1580",
+      "normalizedModel": "CMSSAS05CMQAS05CMKAS05CMLKAS05",
+      "similarExact": [
+        {
+          "key": "코웨이|CMSSAS04",
+          "model": "CMSSAS04",
+          "originalModel": "CMSS-AS04",
+          "name": "스마트 매트리스 S6+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSAS05",
+          "model": "CMSSAS05",
+          "originalModel": "CMSS-AS05",
+          "name": "스마트 매트리스 S8+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSM01",
+          "model": "CMSSM01",
+          "originalModel": "CMSS-M01",
+          "name": "컴팩트 메모리폼 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSOB03",
+          "model": "CMSSOB03",
+          "originalModel": "CMSS-OB03",
+          "name": "원바디 2 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSPR03",
+          "model": "CMSSPR03",
+          "originalModel": "CMSS-PR03",
+          "name": "하이브리드3 매트리스(SS)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CMKAS05",
+          "model": "CMKAS05",
+          "originalModel": "CMK-AS05",
+          "name": "스마트 매트리스 S8+(K)"
+        },
+        {
+          "key": "코웨이|CMLKAS05",
+          "model": "CMLKAS05",
+          "originalModel": "CMLK-AS05",
+          "name": "스마트 매트리스 S8+(LK)"
+        },
+        {
+          "key": "코웨이|CMQAS05",
+          "model": "CMQAS05",
+          "originalModel": "CMQ-AS05",
+          "name": "스마트 매트리스 S8+(Q)"
+        },
+        {
+          "key": "코웨이|CMSSAS05",
+          "model": "CMSSAS05",
+          "originalModel": "CMSS-AS05",
+          "name": "스마트 매트리스 S8+(SS)"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-AS04,CMQ-AS04,CMK-AS04,CMLK-AS04",
+      "title": "[코웨이] 비렉스 스마트 매트리스 S6+ (슈퍼싱글,퀸,킹,라지킹)",
+      "category": "mattress",
+      "price": 52900,
+      "url": "https://rentalsegye.com/product.php?no=39203&cid=1486&gid=1580",
+      "normalizedModel": "CMSSAS04CMQAS04CMKAS04CMLKAS04",
+      "similarExact": [
+        {
+          "key": "코웨이|CMSSAS04",
+          "model": "CMSSAS04",
+          "originalModel": "CMSS-AS04",
+          "name": "스마트 매트리스 S6+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSAS05",
+          "model": "CMSSAS05",
+          "originalModel": "CMSS-AS05",
+          "name": "스마트 매트리스 S8+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSM01",
+          "model": "CMSSM01",
+          "originalModel": "CMSS-M01",
+          "name": "컴팩트 메모리폼 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSOB03",
+          "model": "CMSSOB03",
+          "originalModel": "CMSS-OB03",
+          "name": "원바디 2 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSPR03",
+          "model": "CMSSPR03",
+          "originalModel": "CMSS-PR03",
+          "name": "하이브리드3 매트리스(SS)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CMKAS04",
+          "model": "CMKAS04",
+          "originalModel": "CMK-AS04",
+          "name": "스마트 매트리스 S6+(K)"
+        },
+        {
+          "key": "코웨이|CMLKAS04",
+          "model": "CMLKAS04",
+          "originalModel": "CMLK-AS04",
+          "name": "스마트 매트리스 S6+(LK)"
+        },
+        {
+          "key": "코웨이|CMQAS04",
+          "model": "CMQAS04",
+          "originalModel": "CMQ-AS04",
+          "name": "스마트 매트리스 S6+(Q)"
+        },
+        {
+          "key": "코웨이|CMSSAS04",
+          "model": "CMSSAS04",
+          "originalModel": "CMSS-AS04",
+          "name": "스마트 매트리스 S6+(SS)"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SE02,CMQ-SE02,CMK-SE02,CMLK-SE02",
+      "title": "[코웨이] 비렉스 모디 매트리스 (슈퍼싱글,퀸,킹,라지킹)",
+      "category": "mattress",
+      "price": 12900,
+      "url": "https://rentalsegye.com/product.php?no=44945&cid=1486&gid=1580",
+      "normalizedModel": "CMSSSE02CMQSE02CMKSE02CMLKSE02",
+      "similarExact": [
+        {
+          "key": "코웨이|CMSSAS04",
+          "model": "CMSSAS04",
+          "originalModel": "CMSS-AS04",
+          "name": "스마트 매트리스 S6+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSAS05",
+          "model": "CMSSAS05",
+          "originalModel": "CMSS-AS05",
+          "name": "스마트 매트리스 S8+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSM01",
+          "model": "CMSSM01",
+          "originalModel": "CMSS-M01",
+          "name": "컴팩트 메모리폼 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSOB03",
+          "model": "CMSSOB03",
+          "originalModel": "CMSS-OB03",
+          "name": "원바디 2 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSPR03",
+          "model": "CMSSPR03",
+          "originalModel": "CMSS-PR03",
+          "name": "하이브리드3 매트리스(SS)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CMKSE02",
+          "model": "CMKSE02",
+          "originalModel": "CMK-SE02",
+          "name": "모디 매트리스(K)"
+        },
+        {
+          "key": "코웨이|CMLKSE02",
+          "model": "CMLKSE02",
+          "originalModel": "CMLK-SE02",
+          "name": "모디 매트리스(LK)"
+        },
+        {
+          "key": "코웨이|CMQSE02",
+          "model": "CMQSE02",
+          "originalModel": "CMQ-SE02",
+          "name": "모디 매트리스(Q)"
+        },
+        {
+          "key": "코웨이|CMSSSE02",
+          "model": "CMSSSE02",
+          "originalModel": "CMSS-SE02",
+          "name": "모디 매트리스(SS)"
+        }
+      ]
+    },
+    {
+      "brand": "청호나이스",
+      "model": "온리 드림",
+      "title": "[청호나이스] 매트리스 온리 드림 화이트베이지 S/SS/Q",
+      "category": "mattress",
+      "price": 13900,
+      "url": "https://rentalsegye.com/product.php?no=45187&cid=1486&gid=1580",
+      "normalizedModel": "온리드림",
+      "similarExact": [
+        {
+          "key": "청호나이스|온리드림매트리스Q",
+          "model": "온리드림매트리스Q",
+          "originalModel": "온리 드림 매트리스 Q",
+          "name": "온리 드림 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|온리드림매트리스S",
+          "model": "온리드림매트리스S",
+          "originalModel": "온리 드림 매트리스 S",
+          "name": "온리 드림 매트리스 S"
+        },
+        {
+          "key": "청호나이스|온리드림매트리스SS",
+          "model": "온리드림매트리스SS",
+          "originalModel": "온리 드림 매트리스 SS",
+          "name": "온리 드림 매트리스 SS"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "청호나이스|온리드림매트리스Q",
+          "model": "온리드림매트리스Q",
+          "originalModel": "온리 드림 매트리스 Q",
+          "name": "온리 드림 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|온리드림매트리스S",
+          "model": "온리드림매트리스S",
+          "originalModel": "온리 드림 매트리스 S",
+          "name": "온리 드림 매트리스 S"
+        },
+        {
+          "key": "청호나이스|온리드림매트리스SS",
+          "model": "온리드림매트리스SS",
+          "originalModel": "온리 드림 매트리스 SS",
+          "name": "온리 드림 매트리스 SS"
+        }
+      ]
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 드림",
+      "title": "[청호나이스] 매트리스 듀얼 드림 화이트베이지 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 15900,
+      "url": "https://rentalsegye.com/product.php?no=45189&cid=1486&gid=1580",
+      "normalizedModel": "듀얼드림",
+      "similarExact": [
+        {
+          "key": "청호나이스|듀얼드림매트리스K",
+          "model": "듀얼드림매트리스K",
+          "originalModel": "듀얼 드림 매트리스 K",
+          "name": "듀얼 드림 매트리스 K"
+        },
+        {
+          "key": "청호나이스|듀얼드림매트리스LK",
+          "model": "듀얼드림매트리스LK",
+          "originalModel": "듀얼 드림 매트리스 LK",
+          "name": "듀얼 드림 매트리스 LK"
+        },
+        {
+          "key": "청호나이스|듀얼드림매트리스Q",
+          "model": "듀얼드림매트리스Q",
+          "originalModel": "듀얼 드림 매트리스 Q",
+          "name": "듀얼 드림 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|듀얼드림매트리스SS",
+          "model": "듀얼드림매트리스SS",
+          "originalModel": "듀얼 드림 매트리스 SS",
+          "name": "듀얼 드림 매트리스 SS"
+        },
+        {
+          "key": "청호나이스|듀얼드림온열매트리스K",
+          "model": "듀얼드림온열매트리스K",
+          "originalModel": "듀얼 드림 온열 매트리스 K",
+          "name": "듀얼 드림 온열 매트리스 K"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "청호나이스|듀얼드림매트리스K",
+          "model": "듀얼드림매트리스K",
+          "originalModel": "듀얼 드림 매트리스 K",
+          "name": "듀얼 드림 매트리스 K"
+        },
+        {
+          "key": "청호나이스|듀얼드림매트리스LK",
+          "model": "듀얼드림매트리스LK",
+          "originalModel": "듀얼 드림 매트리스 LK",
+          "name": "듀얼 드림 매트리스 LK"
+        },
+        {
+          "key": "청호나이스|듀얼드림매트리스Q",
+          "model": "듀얼드림매트리스Q",
+          "originalModel": "듀얼 드림 매트리스 Q",
+          "name": "듀얼 드림 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|듀얼드림매트리스SS",
+          "model": "듀얼드림매트리스SS",
+          "originalModel": "듀얼 드림 매트리스 SS",
+          "name": "듀얼 드림 매트리스 SS"
+        },
+        {
+          "key": "청호나이스|듀얼드림온열매트리스K",
+          "model": "듀얼드림온열매트리스K",
+          "originalModel": "듀얼 드림 온열 매트리스 K",
+          "name": "듀얼 드림 온열 매트리스 K"
+        }
+      ]
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 코지",
+      "title": "[청호나이스] 매트리스 듀얼 코지 화이트베이지 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 15900,
+      "url": "https://rentalsegye.com/product.php?no=45190&cid=1486&gid=1580",
+      "normalizedModel": "듀얼코지",
+      "similarExact": [
+        {
+          "key": "청호나이스|듀얼코지매트리스K",
+          "model": "듀얼코지매트리스K",
+          "originalModel": "듀얼 코지 매트리스 K",
+          "name": "듀얼 코지 매트리스 K"
+        },
+        {
+          "key": "청호나이스|듀얼코지매트리스LK",
+          "model": "듀얼코지매트리스LK",
+          "originalModel": "듀얼 코지 매트리스 LK",
+          "name": "듀얼 코지 매트리스 LK"
+        },
+        {
+          "key": "청호나이스|듀얼코지매트리스Q",
+          "model": "듀얼코지매트리스Q",
+          "originalModel": "듀얼 코지 매트리스 Q",
+          "name": "듀얼 코지 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|듀얼코지매트리스SS",
+          "model": "듀얼코지매트리스SS",
+          "originalModel": "듀얼 코지 매트리스 SS",
+          "name": "듀얼 코지 매트리스 SS"
+        },
+        {
+          "key": "청호나이스|듀얼코지온열매트리스K",
+          "model": "듀얼코지온열매트리스K",
+          "originalModel": "듀얼 코지 온열 매트리스 K",
+          "name": "듀얼 코지 온열 매트리스 K"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "청호나이스|듀얼코지매트리스K",
+          "model": "듀얼코지매트리스K",
+          "originalModel": "듀얼 코지 매트리스 K",
+          "name": "듀얼 코지 매트리스 K"
+        },
+        {
+          "key": "청호나이스|듀얼코지매트리스LK",
+          "model": "듀얼코지매트리스LK",
+          "originalModel": "듀얼 코지 매트리스 LK",
+          "name": "듀얼 코지 매트리스 LK"
+        },
+        {
+          "key": "청호나이스|듀얼코지매트리스Q",
+          "model": "듀얼코지매트리스Q",
+          "originalModel": "듀얼 코지 매트리스 Q",
+          "name": "듀얼 코지 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|듀얼코지매트리스SS",
+          "model": "듀얼코지매트리스SS",
+          "originalModel": "듀얼 코지 매트리스 SS",
+          "name": "듀얼 코지 매트리스 SS"
+        },
+        {
+          "key": "청호나이스|듀얼코지온열매트리스K",
+          "model": "듀얼코지온열매트리스K",
+          "originalModel": "듀얼 코지 온열 매트리스 K",
+          "name": "듀얼 코지 온열 매트리스 K"
+        }
+      ]
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FBT + 듀얼 드림",
+      "title": "[청호나이스] 패브릭 템바보드 프레임 FBT + 매트리스 듀얼 드림 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 33800,
+      "url": "https://rentalsegye.com/product.php?no=45240&cid=1486&gid=1580",
+      "normalizedModel": "프레임FBT듀얼드림",
+      "similarExact": [
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임K",
+          "model": "프레임FBT패브릭템바보드프레임K",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) K",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) K"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임LK",
+          "model": "프레임FBT패브릭템바보드프레임LK",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) LK",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) LK"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임Q",
+          "model": "프레임FBT패브릭템바보드프레임Q",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) Q",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) Q"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임S",
+          "model": "프레임FBT패브릭템바보드프레임S",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) S",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) S"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임SS",
+          "model": "프레임FBT패브릭템바보드프레임SS",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) SS",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) SS"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 WB + 매트리스 William J",
+      "title": "[청호나이스] 패브릭 원목 프레임 + 매트리스 William J SS/Q/K/LK",
+      "category": "mattress",
+      "price": 44800,
+      "url": "https://rentalsegye.com/product.php?no=45243&cid=1486&gid=1580",
+      "normalizedModel": "프레임WB매트리스WILLIAMJ",
+      "similarExact": [
+        {
+          "key": "청호나이스|프레임WB패브릭원목K",
+          "model": "프레임WB패브릭원목K",
+          "originalModel": "프레임 WB (패브릭 원목) K",
+          "name": "프레임 WB (패브릭 원목) K"
+        },
+        {
+          "key": "청호나이스|프레임WB패브릭원목LK",
+          "model": "프레임WB패브릭원목LK",
+          "originalModel": "프레임 WB (패브릭 원목) LK",
+          "name": "프레임 WB (패브릭 원목) LK"
+        },
+        {
+          "key": "청호나이스|프레임WB패브릭원목Q",
+          "model": "프레임WB패브릭원목Q",
+          "originalModel": "프레임 WB (패브릭 원목) Q",
+          "name": "프레임 WB (패브릭 원목) Q"
+        },
+        {
+          "key": "청호나이스|프레임WB패브릭원목S",
+          "model": "프레임WB패브릭원목S",
+          "originalModel": "프레임 WB (패브릭 원목) S",
+          "name": "프레임 WB (패브릭 원목) S"
+        },
+        {
+          "key": "청호나이스|프레임WB패브릭원목SS",
+          "model": "프레임WB패브릭원목SS",
+          "originalModel": "프레임 WB (패브릭 원목) SS",
+          "name": "프레임 WB (패브릭 원목) SS"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FC + 온리 드림",
+      "title": "[청호나이스] 쿠션형 헤드보드 프레임 FC + 매트리스 온리 드림 S/SS/Q",
+      "category": "mattress",
+      "price": 28800,
+      "url": "https://rentalsegye.com/product.php?no=45245&cid=1486&gid=1580",
+      "normalizedModel": "프레임FC온리드림",
+      "similarExact": [
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임K",
+          "model": "프레임FBT패브릭템바보드프레임K",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) K",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) K"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임LK",
+          "model": "프레임FBT패브릭템바보드프레임LK",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) LK",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) LK"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임Q",
+          "model": "프레임FBT패브릭템바보드프레임Q",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) Q",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) Q"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임S",
+          "model": "프레임FBT패브릭템바보드프레임S",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) S",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) S"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임SS",
+          "model": "프레임FBT패브릭템바보드프레임SS",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) SS",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) SS"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "청호나이스",
+      "model": "파운데이션 + 듀얼 코지",
+      "title": "[청호나이스] 파운데이션 + 매트리스 듀얼 코지 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 28800,
+      "url": "https://rentalsegye.com/product.php?no=45247&cid=1486&gid=1580",
+      "normalizedModel": "파운데이션듀얼코지",
+      "similarExact": [
+        {
+          "key": "청호나이스|파운데이션그레이웜베이지샌드베이지K",
+          "model": "파운데이션그레이웜베이지샌드베이지K",
+          "originalModel": "파운데이션(그레이,웜베이지,샌드베이지) K",
+          "name": "파운데이션(그레이,웜베이지,샌드베이지) K"
+        },
+        {
+          "key": "청호나이스|파운데이션그레이웜베이지샌드베이지LK",
+          "model": "파운데이션그레이웜베이지샌드베이지LK",
+          "originalModel": "파운데이션(그레이,웜베이지,샌드베이지) LK",
+          "name": "파운데이션(그레이,웜베이지,샌드베이지) LK"
+        },
+        {
+          "key": "청호나이스|파운데이션그레이웜베이지샌드베이지Q",
+          "model": "파운데이션그레이웜베이지샌드베이지Q",
+          "originalModel": "파운데이션(그레이,웜베이지,샌드베이지) Q",
+          "name": "파운데이션(그레이,웜베이지,샌드베이지) Q"
+        },
+        {
+          "key": "청호나이스|파운데이션그레이웜베이지샌드베이지S",
+          "model": "파운데이션그레이웜베이지샌드베이지S",
+          "originalModel": "파운데이션(그레이,웜베이지,샌드베이지) S",
+          "name": "파운데이션(그레이,웜베이지,샌드베이지) S"
+        },
+        {
+          "key": "청호나이스|파운데이션그레이웜베이지샌드베이지SS",
+          "model": "파운데이션그레이웜베이지샌드베이지SS",
+          "originalModel": "파운데이션(그레이,웜베이지,샌드베이지) SS",
+          "name": "파운데이션(그레이,웜베이지,샌드베이지) SS"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMSS-SE03,CMQ-SE03,CMK-SE03,CMLK-SE03",
+      "title": "[코웨이] 비렉스 루네어 매트리스 (슈퍼싱글,퀸,킹,라지킹)",
+      "category": "mattress",
+      "price": 14900,
+      "url": "https://rentalsegye.com/product.php?no=45381&cid=1486&gid=1580",
+      "normalizedModel": "CMSSSE03CMQSE03CMKSE03CMLKSE03",
+      "similarExact": [
+        {
+          "key": "코웨이|CMSSAS04",
+          "model": "CMSSAS04",
+          "originalModel": "CMSS-AS04",
+          "name": "스마트 매트리스 S6+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSAS05",
+          "model": "CMSSAS05",
+          "originalModel": "CMSS-AS05",
+          "name": "스마트 매트리스 S8+(SS)"
+        },
+        {
+          "key": "코웨이|CMSSM01",
+          "model": "CMSSM01",
+          "originalModel": "CMSS-M01",
+          "name": "컴팩트 메모리폼 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSOB03",
+          "model": "CMSSOB03",
+          "originalModel": "CMSS-OB03",
+          "name": "원바디 2 매트리스(SS)"
+        },
+        {
+          "key": "코웨이|CMSSPR03",
+          "model": "CMSSPR03",
+          "originalModel": "CMSS-PR03",
+          "name": "하이브리드3 매트리스(SS)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CMKSE03",
+          "model": "CMKSE03",
+          "originalModel": "CMK-SE03",
+          "name": "루네어 매트리스(K)"
+        },
+        {
+          "key": "코웨이|CMLKSE03",
+          "model": "CMLKSE03",
+          "originalModel": "CMLK-SE03",
+          "name": "루네어 매트리스(LK)"
+        },
+        {
+          "key": "코웨이|CMQSE03",
+          "model": "CMQSE03",
+          "originalModel": "CMQ-SE03",
+          "name": "루네어 매트리스(Q)"
+        },
+        {
+          "key": "코웨이|CMSSSE03",
+          "model": "CMSSSE03",
+          "originalModel": "CMSS-SE03",
+          "name": "루네어 매트리스(SS)"
+        }
+      ]
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS + 듀얼 코지",
+      "title": "[청호나이스] 미니멀 프레임 FS + 매트리스 듀얼 코지 SS/Q/K/LK 5년약정",
+      "category": "mattress",
+      "price": 42800,
+      "url": "https://rentalsegye.com/product.php?no=45387&cid=1486&gid=1580",
+      "normalizedModel": "프레임FS듀얼코지",
+      "similarExact": [
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임K",
+          "model": "프레임FBT패브릭템바보드프레임K",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) K",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) K"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임LK",
+          "model": "프레임FBT패브릭템바보드프레임LK",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) LK",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) LK"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임Q",
+          "model": "프레임FBT패브릭템바보드프레임Q",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) Q",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) Q"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임S",
+          "model": "프레임FBT패브릭템바보드프레임S",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) S",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) S"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임SS",
+          "model": "프레임FBT패브릭템바보드프레임SS",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) SS",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) SS"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FS + 듀얼 코지",
+      "title": "[청호나이스] 미니멀 프레임 FS + 매트리스 듀얼 코지 SS/Q/K/LK 6년약정",
+      "category": "mattress",
+      "price": 30800,
+      "url": "https://rentalsegye.com/product.php?no=45389&cid=1486&gid=1580",
+      "normalizedModel": "프레임FS듀얼코지",
+      "similarExact": [
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임K",
+          "model": "프레임FBT패브릭템바보드프레임K",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) K",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) K"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임LK",
+          "model": "프레임FBT패브릭템바보드프레임LK",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) LK",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) LK"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임Q",
+          "model": "프레임FBT패브릭템바보드프레임Q",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) Q",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) Q"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임S",
+          "model": "프레임FBT패브릭템바보드프레임S",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) S",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) S"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임SS",
+          "model": "프레임FBT패브릭템바보드프레임SS",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) SS",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) SS"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH + 듀얼 드림",
+      "title": "[청호나이스] 호텔식 패브릭 프레임 FH + 매트리스 듀얼 드림 SS/Q/K/LK 5년약정",
+      "category": "mattress",
+      "price": 49800,
+      "url": "https://rentalsegye.com/product.php?no=45397&cid=1486&gid=1580",
+      "normalizedModel": "프레임FH듀얼드림",
+      "similarExact": [
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임K",
+          "model": "프레임FBT패브릭템바보드프레임K",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) K",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) K"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임LK",
+          "model": "프레임FBT패브릭템바보드프레임LK",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) LK",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) LK"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임Q",
+          "model": "프레임FBT패브릭템바보드프레임Q",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) Q",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) Q"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임S",
+          "model": "프레임FBT패브릭템바보드프레임S",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) S",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) S"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임SS",
+          "model": "프레임FBT패브릭템바보드프레임SS",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) SS",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) SS"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FH + 듀얼 드림",
+      "title": "[청호나이스] 호텔식 패브릭 프레임 FH + 매트리스 듀얼 드림 SS/Q/K/LK 6년약정",
+      "category": "mattress",
+      "price": 35800,
+      "url": "https://rentalsegye.com/product.php?no=45402&cid=1486&gid=1580",
+      "normalizedModel": "프레임FH듀얼드림",
+      "similarExact": [
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임K",
+          "model": "프레임FBT패브릭템바보드프레임K",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) K",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) K"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임LK",
+          "model": "프레임FBT패브릭템바보드프레임LK",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) LK",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) LK"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임Q",
+          "model": "프레임FBT패브릭템바보드프레임Q",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) Q",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) Q"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임S",
+          "model": "프레임FBT패브릭템바보드프레임S",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) S",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) S"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임SS",
+          "model": "프레임FBT패브릭템바보드프레임SS",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) SS",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) SS"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FBT + 듀얼 코지",
+      "title": "[청호나이스] 패브릭 템바보드 프레임 FBT + 매트리스 듀얼 코지 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 33800,
+      "url": "https://rentalsegye.com/product.php?no=45424&cid=1486&gid=1580",
+      "normalizedModel": "프레임FBT듀얼코지",
+      "similarExact": [
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임K",
+          "model": "프레임FBT패브릭템바보드프레임K",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) K",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) K"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임LK",
+          "model": "프레임FBT패브릭템바보드프레임LK",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) LK",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) LK"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임Q",
+          "model": "프레임FBT패브릭템바보드프레임Q",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) Q",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) Q"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임S",
+          "model": "프레임FBT패브릭템바보드프레임S",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) S",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) S"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임SS",
+          "model": "프레임FBT패브릭템바보드프레임SS",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) SS",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) SS"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 WB + 듀얼 드림",
+      "title": "[청호나이스] 패브릭 원목 프레임 + 매트리스 듀얼 드림 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 34800,
+      "url": "https://rentalsegye.com/product.php?no=45426&cid=1486&gid=1580",
+      "normalizedModel": "프레임WB듀얼드림",
+      "similarExact": [
+        {
+          "key": "청호나이스|프레임WB패브릭원목K",
+          "model": "프레임WB패브릭원목K",
+          "originalModel": "프레임 WB (패브릭 원목) K",
+          "name": "프레임 WB (패브릭 원목) K"
+        },
+        {
+          "key": "청호나이스|프레임WB패브릭원목LK",
+          "model": "프레임WB패브릭원목LK",
+          "originalModel": "프레임 WB (패브릭 원목) LK",
+          "name": "프레임 WB (패브릭 원목) LK"
+        },
+        {
+          "key": "청호나이스|프레임WB패브릭원목Q",
+          "model": "프레임WB패브릭원목Q",
+          "originalModel": "프레임 WB (패브릭 원목) Q",
+          "name": "프레임 WB (패브릭 원목) Q"
+        },
+        {
+          "key": "청호나이스|프레임WB패브릭원목S",
+          "model": "프레임WB패브릭원목S",
+          "originalModel": "프레임 WB (패브릭 원목) S",
+          "name": "프레임 WB (패브릭 원목) S"
+        },
+        {
+          "key": "청호나이스|프레임WB패브릭원목SS",
+          "model": "프레임WB패브릭원목SS",
+          "originalModel": "프레임 WB (패브릭 원목) SS",
+          "name": "프레임 WB (패브릭 원목) SS"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "청호나이스",
+      "model": "프레임 FC + 매트리스 William J",
+      "title": "[청호나이스] 쿠션형 헤드보드 프레임 FC + 매트리스 William J SS/Q/K/LK",
+      "category": "mattress",
+      "price": 43800,
+      "url": "https://rentalsegye.com/product.php?no=45428&cid=1486&gid=1580",
+      "normalizedModel": "프레임FC매트리스WILLIAMJ",
+      "similarExact": [
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임K",
+          "model": "프레임FBT패브릭템바보드프레임K",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) K",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) K"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임LK",
+          "model": "프레임FBT패브릭템바보드프레임LK",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) LK",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) LK"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임Q",
+          "model": "프레임FBT패브릭템바보드프레임Q",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) Q",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) Q"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임S",
+          "model": "프레임FBT패브릭템바보드프레임S",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) S",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) S"
+        },
+        {
+          "key": "청호나이스|프레임FBT패브릭템바보드프레임SS",
+          "model": "프레임FBT패브릭템바보드프레임SS",
+          "originalModel": "프레임 FBT (패브릭 템바보드 프레임) SS",
+          "name": "프레임 FBT (패브릭 템바보드 프레임) SS"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "청호나이스",
+      "model": "파운데이션 + 온리 드림",
+      "title": "[청호나이스] 파운데이션 + 매트리스 온리 드림 S/SS/Q",
+      "category": "mattress",
+      "price": 24800,
+      "url": "https://rentalsegye.com/product.php?no=45431&cid=1486&gid=1580",
+      "normalizedModel": "파운데이션온리드림",
+      "similarExact": [
+        {
+          "key": "청호나이스|파운데이션그레이웜베이지샌드베이지K",
+          "model": "파운데이션그레이웜베이지샌드베이지K",
+          "originalModel": "파운데이션(그레이,웜베이지,샌드베이지) K",
+          "name": "파운데이션(그레이,웜베이지,샌드베이지) K"
+        },
+        {
+          "key": "청호나이스|파운데이션그레이웜베이지샌드베이지LK",
+          "model": "파운데이션그레이웜베이지샌드베이지LK",
+          "originalModel": "파운데이션(그레이,웜베이지,샌드베이지) LK",
+          "name": "파운데이션(그레이,웜베이지,샌드베이지) LK"
+        },
+        {
+          "key": "청호나이스|파운데이션그레이웜베이지샌드베이지Q",
+          "model": "파운데이션그레이웜베이지샌드베이지Q",
+          "originalModel": "파운데이션(그레이,웜베이지,샌드베이지) Q",
+          "name": "파운데이션(그레이,웜베이지,샌드베이지) Q"
+        },
+        {
+          "key": "청호나이스|파운데이션그레이웜베이지샌드베이지S",
+          "model": "파운데이션그레이웜베이지샌드베이지S",
+          "originalModel": "파운데이션(그레이,웜베이지,샌드베이지) S",
+          "name": "파운데이션(그레이,웜베이지,샌드베이지) S"
+        },
+        {
+          "key": "청호나이스|파운데이션그레이웜베이지샌드베이지SS",
+          "model": "파운데이션그레이웜베이지샌드베이지SS",
+          "originalModel": "파운데이션(그레이,웜베이지,샌드베이지) SS",
+          "name": "파운데이션(그레이,웜베이지,샌드베이지) SS"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "청호나이스",
+      "model": "네스티지 매트리스",
+      "title": "[청호나이스] 네스티지 매트리스 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 38900,
+      "url": "https://rentalsegye.com/product.php?no=47465&cid=1486&gid=1580",
+      "normalizedModel": "네스티지매트리스",
+      "similarExact": [
+        {
+          "key": "청호나이스|네스티지매트리스K",
+          "model": "네스티지매트리스K",
+          "originalModel": "네스티지 매트리스 K",
+          "name": "네스티지 매트리스 K"
+        },
+        {
+          "key": "청호나이스|네스티지매트리스LK",
+          "model": "네스티지매트리스LK",
+          "originalModel": "네스티지 매트리스 LK",
+          "name": "네스티지 매트리스 LK"
+        },
+        {
+          "key": "청호나이스|네스티지매트리스Q",
+          "model": "네스티지매트리스Q",
+          "originalModel": "네스티지 매트리스 Q",
+          "name": "네스티지 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|네스티지매트리스SS",
+          "model": "네스티지매트리스SS",
+          "originalModel": "네스티지 매트리스 SS",
+          "name": "네스티지 매트리스 SS"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "청호나이스|네스티지매트리스K",
+          "model": "네스티지매트리스K",
+          "originalModel": "네스티지 매트리스 K",
+          "name": "네스티지 매트리스 K"
+        },
+        {
+          "key": "청호나이스|네스티지매트리스LK",
+          "model": "네스티지매트리스LK",
+          "originalModel": "네스티지 매트리스 LK",
+          "name": "네스티지 매트리스 LK"
+        },
+        {
+          "key": "청호나이스|네스티지매트리스Q",
+          "model": "네스티지매트리스Q",
+          "originalModel": "네스티지 매트리스 Q",
+          "name": "네스티지 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|네스티지매트리스SS",
+          "model": "네스티지매트리스SS",
+          "originalModel": "네스티지 매트리스 SS",
+          "name": "네스티지 매트리스 SS"
+        }
+      ]
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 드림 온열 매트리스",
+      "title": "[청호나이스] 듀얼 드림 온열 매트리스 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 29900,
+      "url": "https://rentalsegye.com/product.php?no=47467&cid=1486&gid=1580",
+      "normalizedModel": "듀얼드림온열매트리스",
+      "similarExact": [
+        {
+          "key": "청호나이스|듀얼드림매트리스K",
+          "model": "듀얼드림매트리스K",
+          "originalModel": "듀얼 드림 매트리스 K",
+          "name": "듀얼 드림 매트리스 K"
+        },
+        {
+          "key": "청호나이스|듀얼드림매트리스LK",
+          "model": "듀얼드림매트리스LK",
+          "originalModel": "듀얼 드림 매트리스 LK",
+          "name": "듀얼 드림 매트리스 LK"
+        },
+        {
+          "key": "청호나이스|듀얼드림매트리스Q",
+          "model": "듀얼드림매트리스Q",
+          "originalModel": "듀얼 드림 매트리스 Q",
+          "name": "듀얼 드림 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|듀얼드림매트리스SS",
+          "model": "듀얼드림매트리스SS",
+          "originalModel": "듀얼 드림 매트리스 SS",
+          "name": "듀얼 드림 매트리스 SS"
+        },
+        {
+          "key": "청호나이스|듀얼드림온열매트리스K",
+          "model": "듀얼드림온열매트리스K",
+          "originalModel": "듀얼 드림 온열 매트리스 K",
+          "name": "듀얼 드림 온열 매트리스 K"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "청호나이스|듀얼드림온열매트리스K",
+          "model": "듀얼드림온열매트리스K",
+          "originalModel": "듀얼 드림 온열 매트리스 K",
+          "name": "듀얼 드림 온열 매트리스 K"
+        },
+        {
+          "key": "청호나이스|듀얼드림온열매트리스LK",
+          "model": "듀얼드림온열매트리스LK",
+          "originalModel": "듀얼 드림 온열 매트리스 LK",
+          "name": "듀얼 드림 온열 매트리스 LK"
+        },
+        {
+          "key": "청호나이스|듀얼드림온열매트리스Q",
+          "model": "듀얼드림온열매트리스Q",
+          "originalModel": "듀얼 드림 온열 매트리스 Q",
+          "name": "듀얼 드림 온열 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|듀얼드림온열매트리스SS",
+          "model": "듀얼드림온열매트리스SS",
+          "originalModel": "듀얼 드림 온열 매트리스 SS",
+          "name": "듀얼 드림 온열 매트리스 SS"
+        }
+      ]
+    },
+    {
+      "brand": "청호나이스",
+      "model": "듀얼 코지 온열 매트리스",
+      "title": "[청호나이스] 듀얼 코지 온열 매트리스 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 29900,
+      "url": "https://rentalsegye.com/product.php?no=47469&cid=1486&gid=1580",
+      "normalizedModel": "듀얼코지온열매트리스",
+      "similarExact": [
+        {
+          "key": "청호나이스|듀얼코지매트리스K",
+          "model": "듀얼코지매트리스K",
+          "originalModel": "듀얼 코지 매트리스 K",
+          "name": "듀얼 코지 매트리스 K"
+        },
+        {
+          "key": "청호나이스|듀얼코지매트리스LK",
+          "model": "듀얼코지매트리스LK",
+          "originalModel": "듀얼 코지 매트리스 LK",
+          "name": "듀얼 코지 매트리스 LK"
+        },
+        {
+          "key": "청호나이스|듀얼코지매트리스Q",
+          "model": "듀얼코지매트리스Q",
+          "originalModel": "듀얼 코지 매트리스 Q",
+          "name": "듀얼 코지 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|듀얼코지매트리스SS",
+          "model": "듀얼코지매트리스SS",
+          "originalModel": "듀얼 코지 매트리스 SS",
+          "name": "듀얼 코지 매트리스 SS"
+        },
+        {
+          "key": "청호나이스|듀얼코지온열매트리스K",
+          "model": "듀얼코지온열매트리스K",
+          "originalModel": "듀얼 코지 온열 매트리스 K",
+          "name": "듀얼 코지 온열 매트리스 K"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "청호나이스|듀얼코지온열매트리스K",
+          "model": "듀얼코지온열매트리스K",
+          "originalModel": "듀얼 코지 온열 매트리스 K",
+          "name": "듀얼 코지 온열 매트리스 K"
+        },
+        {
+          "key": "청호나이스|듀얼코지온열매트리스LK",
+          "model": "듀얼코지온열매트리스LK",
+          "originalModel": "듀얼 코지 온열 매트리스 LK",
+          "name": "듀얼 코지 온열 매트리스 LK"
+        },
+        {
+          "key": "청호나이스|듀얼코지온열매트리스Q",
+          "model": "듀얼코지온열매트리스Q",
+          "originalModel": "듀얼 코지 온열 매트리스 Q",
+          "name": "듀얼 코지 온열 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|듀얼코지온열매트리스SS",
+          "model": "듀얼코지온열매트리스SS",
+          "originalModel": "듀얼 코지 온열 매트리스 SS",
+          "name": "듀얼 코지 온열 매트리스 SS"
+        }
+      ]
+    },
+    {
+      "brand": "청호나이스",
+      "model": "로얄스위트 프라임 매트리스",
+      "title": "[청호나이스] 로얄스위트 프라임 매트리스 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 30900,
+      "url": "https://rentalsegye.com/product.php?no=47471&cid=1486&gid=1580",
+      "normalizedModel": "로얄스위트프라임매트리스",
+      "similarExact": [
+        {
+          "key": "청호나이스|로얄스위트프라임매트리스K",
+          "model": "로얄스위트프라임매트리스K",
+          "originalModel": "로얄스위트 프라임 매트리스 K",
+          "name": "로얄스위트 프라임 매트리스 K"
+        },
+        {
+          "key": "청호나이스|로얄스위트프라임매트리스LK",
+          "model": "로얄스위트프라임매트리스LK",
+          "originalModel": "로얄스위트 프라임 매트리스 LK",
+          "name": "로얄스위트 프라임 매트리스 LK"
+        },
+        {
+          "key": "청호나이스|로얄스위트프라임매트리스Q",
+          "model": "로얄스위트프라임매트리스Q",
+          "originalModel": "로얄스위트 프라임 매트리스 Q",
+          "name": "로얄스위트 프라임 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|로얄스위트프라임매트리스SS",
+          "model": "로얄스위트프라임매트리스SS",
+          "originalModel": "로얄스위트 프라임 매트리스 SS",
+          "name": "로얄스위트 프라임 매트리스 SS"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "청호나이스|로얄스위트프라임매트리스K",
+          "model": "로얄스위트프라임매트리스K",
+          "originalModel": "로얄스위트 프라임 매트리스 K",
+          "name": "로얄스위트 프라임 매트리스 K"
+        },
+        {
+          "key": "청호나이스|로얄스위트프라임매트리스LK",
+          "model": "로얄스위트프라임매트리스LK",
+          "originalModel": "로얄스위트 프라임 매트리스 LK",
+          "name": "로얄스위트 프라임 매트리스 LK"
+        },
+        {
+          "key": "청호나이스|로얄스위트프라임매트리스Q",
+          "model": "로얄스위트프라임매트리스Q",
+          "originalModel": "로얄스위트 프라임 매트리스 Q",
+          "name": "로얄스위트 프라임 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|로얄스위트프라임매트리스SS",
+          "model": "로얄스위트프라임매트리스SS",
+          "originalModel": "로얄스위트 프라임 매트리스 SS",
+          "name": "로얄스위트 프라임 매트리스 SS"
+        }
+      ]
+    },
+    {
+      "brand": "청호나이스",
+      "model": "멜로우드림 매트리스",
+      "title": "[청호나이스] 멜로우드림 매트리스 SS/Q/K/LK",
+      "category": "mattress",
+      "price": 24900,
+      "url": "https://rentalsegye.com/product.php?no=47473&cid=1486&gid=1580",
+      "normalizedModel": "멜로우드림매트리스",
+      "similarExact": [
+        {
+          "key": "청호나이스|멜로우드림매트리스K",
+          "model": "멜로우드림매트리스K",
+          "originalModel": "멜로우 드림 매트리스 K",
+          "name": "멜로우 드림 매트리스 K"
+        },
+        {
+          "key": "청호나이스|멜로우드림매트리스LK",
+          "model": "멜로우드림매트리스LK",
+          "originalModel": "멜로우 드림 매트리스 LK",
+          "name": "멜로우 드림 매트리스 LK"
+        },
+        {
+          "key": "청호나이스|멜로우드림매트리스Q",
+          "model": "멜로우드림매트리스Q",
+          "originalModel": "멜로우 드림 매트리스 Q",
+          "name": "멜로우 드림 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|멜로우드림매트리스SS",
+          "model": "멜로우드림매트리스SS",
+          "originalModel": "멜로우 드림 매트리스 SS",
+          "name": "멜로우 드림 매트리스 SS"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "청호나이스|멜로우드림매트리스K",
+          "model": "멜로우드림매트리스K",
+          "originalModel": "멜로우 드림 매트리스 K",
+          "name": "멜로우 드림 매트리스 K"
+        },
+        {
+          "key": "청호나이스|멜로우드림매트리스LK",
+          "model": "멜로우드림매트리스LK",
+          "originalModel": "멜로우 드림 매트리스 LK",
+          "name": "멜로우 드림 매트리스 LK"
+        },
+        {
+          "key": "청호나이스|멜로우드림매트리스Q",
+          "model": "멜로우드림매트리스Q",
+          "originalModel": "멜로우 드림 매트리스 Q",
+          "name": "멜로우 드림 매트리스 Q"
+        },
+        {
+          "key": "청호나이스|멜로우드림매트리스SS",
+          "model": "멜로우드림매트리스SS",
+          "originalModel": "멜로우 드림 매트리스 SS",
+          "name": "멜로우 드림 매트리스 SS"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMGK-SP02SC,CMLK-SP02SC,CMK-SP02SC,CMQ-SP02SC,CMSS-SP02SC",
+      "title": "[코웨이] 시그니처 파이어쉴드 컴포트 매트리스 (슈퍼싱글,퀸,킹,라지킹,그레이트킹)",
+      "category": "mattress",
+      "price": 42900,
+      "url": "https://rentalsegye.com/product.php?no=48598&cid=1486&gid=1580",
+      "normalizedModel": "CMGKSP02SCCMLKSP02SCCMKSP02SCCMQSP02SCCMSSSP02SC",
+      "similarExact": [
+        {
+          "key": "코웨이|CMGKSP01S",
+          "model": "CMGKSP01S",
+          "originalModel": "CMGK-SP01S",
+          "name": "시그니처 매트리스 기본형(GK)"
+        },
+        {
+          "key": "코웨이|CMGKSP01SC",
+          "model": "CMGKSP01SC",
+          "originalModel": "CMGK-SP01SC",
+          "name": "시그니처 매트리스 탑퍼형(GK)"
+        },
+        {
+          "key": "코웨이|CMGKSP02S",
+          "model": "CMGKSP02S",
+          "originalModel": "CMGK-SP02S",
+          "name": "시그니처 파이어쉴드 매트리스 기본형(GK)"
+        },
+        {
+          "key": "코웨이|CMGKSP02SC",
+          "model": "CMGKSP02SC",
+          "originalModel": "CMGK-SP02SC",
+          "name": "시그니처 파이어쉴드 매트리스 탑퍼형(GK)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CMGKSP02S",
+          "model": "CMGKSP02S",
+          "originalModel": "CMGK-SP02S",
+          "name": "시그니처 파이어쉴드 매트리스 기본형(GK)"
+        },
+        {
+          "key": "코웨이|CMGKSP02SC",
+          "model": "CMGKSP02SC",
+          "originalModel": "CMGK-SP02SC",
+          "name": "시그니처 파이어쉴드 매트리스 탑퍼형(GK)"
+        },
+        {
+          "key": "코웨이|CMKSP02S",
+          "model": "CMKSP02S",
+          "originalModel": "CMK-SP02S",
+          "name": "시그니처 파이어쉴드 매트리스 기본형(K)"
+        },
+        {
+          "key": "코웨이|CMKSP02SC",
+          "model": "CMKSP02SC",
+          "originalModel": "CMK-SP02SC",
+          "name": "시그니처 파이어쉴드 매트리스 탑퍼형(K)"
+        },
+        {
+          "key": "코웨이|CMLKSP02S",
+          "model": "CMLKSP02S",
+          "originalModel": "CMLK-SP02S",
+          "name": "시그니처 파이어쉴드 매트리스 기본형(LK)"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "CMGK-SP02S,CMLK-SP02S,CMK-SP02S,CMQ-SP02S,CMSS-SP02S",
+      "title": "[코웨이] 시그니처 파이어쉴드 매트리스 (슈퍼싱글,퀸,킹,라지킹,그레이트킹)",
+      "category": "mattress",
+      "price": 38900,
+      "url": "https://rentalsegye.com/product.php?no=48599&cid=1486&gid=1580",
+      "normalizedModel": "CMGKSP02SCMLKSP02SCMKSP02SCMQSP02SCMSSSP02S",
+      "similarExact": [
+        {
+          "key": "코웨이|CMGKSP01S",
+          "model": "CMGKSP01S",
+          "originalModel": "CMGK-SP01S",
+          "name": "시그니처 매트리스 기본형(GK)"
+        },
+        {
+          "key": "코웨이|CMGKSP01SC",
+          "model": "CMGKSP01SC",
+          "originalModel": "CMGK-SP01SC",
+          "name": "시그니처 매트리스 탑퍼형(GK)"
+        },
+        {
+          "key": "코웨이|CMGKSP02S",
+          "model": "CMGKSP02S",
+          "originalModel": "CMGK-SP02S",
+          "name": "시그니처 파이어쉴드 매트리스 기본형(GK)"
+        },
+        {
+          "key": "코웨이|CMGKSP02SC",
+          "model": "CMGKSP02SC",
+          "originalModel": "CMGK-SP02SC",
+          "name": "시그니처 파이어쉴드 매트리스 탑퍼형(GK)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|CMGKSP02S",
+          "model": "CMGKSP02S",
+          "originalModel": "CMGK-SP02S",
+          "name": "시그니처 파이어쉴드 매트리스 기본형(GK)"
+        },
+        {
+          "key": "코웨이|CMGKSP02SC",
+          "model": "CMGKSP02SC",
+          "originalModel": "CMGK-SP02SC",
+          "name": "시그니처 파이어쉴드 매트리스 탑퍼형(GK)"
+        },
+        {
+          "key": "코웨이|CMKSP02S",
+          "model": "CMKSP02S",
+          "originalModel": "CMK-SP02S",
+          "name": "시그니처 파이어쉴드 매트리스 기본형(K)"
+        },
+        {
+          "key": "코웨이|CMKSP02SC",
+          "model": "CMKSP02SC",
+          "originalModel": "CMK-SP02SC",
+          "name": "시그니처 파이어쉴드 매트리스 탑퍼형(K)"
+        },
+        {
+          "key": "코웨이|CMLKSP02S",
+          "model": "CMLKSP02S",
+          "originalModel": "CMLK-SP02S",
+          "name": "시그니처 파이어쉴드 매트리스 기본형(LK)"
+        }
+      ]
+    },
+    {
+      "brand": "청호나이스",
+      "model": "MC-700W",
+      "title": "[청호나이스] 안마의자",
+      "category": "massage",
+      "price": 45900,
+      "url": "https://rentalsegye.com/product.php?no=43679&cid=1378&gid=1404",
+      "normalizedModel": "MC700W",
+      "similarExact": [],
+      "similarContains": [
+        {
+          "key": "청호나이스|안마의자MC700W",
+          "model": "안마의자MC700W",
+          "originalModel": "안마의자 MC-700W",
+          "name": "MC-700W"
+        }
+      ]
+    },
+    {
+      "brand": "코웨이",
+      "model": "MC-C02AT",
+      "title": "[코웨이] 비렉스 안마의자 페블체어2",
+      "category": "massage",
+      "price": 58900,
+      "url": "https://rentalsegye.com/product.php?no=47512&cid=1378&gid=1404",
+      "normalizedModel": "MCC02AT",
+      "similarExact": [
+        {
+          "key": "코웨이|MCC01",
+          "model": "MCC01",
+          "originalModel": "MC-C01",
+          "name": "안마의자 페블체어"
+        },
+        {
+          "key": "코웨이|MCC02",
+          "model": "MCC02",
+          "originalModel": "MC-C02",
+          "name": "안마의자 페블체어2"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "코웨이|MCC02",
+          "model": "MCC02",
+          "originalModel": "MC-C02",
+          "name": "안마의자 페블체어2"
+        }
+      ]
+    },
+    {
+      "brand": "LG",
+      "model": "WU523ACB/WB",
+      "title": "[LG] 퓨리케어 오브제컬렉션 빌트인 냉온정수기",
+      "category": "water",
+      "price": 23900,
+      "url": "https://rentalsegye.com/product.php?no=38406&cid=1377&gid=1424",
+      "normalizedModel": "WU523ACBWB",
+      "similarExact": [
+        {
+          "key": "LG|WU523ACWB",
+          "model": "WU523ACWB",
+          "originalModel": "WU523A(C/W)B",
+          "name": "냉온 빌트인(오브제)"
+        },
+        {
+          "key": "LG|WU523AS",
+          "model": "WU523AS",
+          "originalModel": "WU523AS",
+          "name": "냉온 빌트인(실버)"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "WD220MCB/NB",
+      "title": "[LG] 퓨리케어 오브제컬렉션 라이트온 온정수기",
+      "category": "water",
+      "price": 16900,
+      "url": "https://rentalsegye.com/product.php?no=37469&cid=1377&gid=1424",
+      "normalizedModel": "WD220MCBNB",
+      "similarExact": [
+        {
+          "key": "LG|WD220MCNB",
+          "model": "WD220MCNB",
+          "originalModel": "WD220M(C/N)B",
+          "name": "온정 라이트온"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "WD525ACB/GB",
+      "title": "[LG] 오브제컬렉션 ALL직수 상하좌우 냉온정수기",
+      "category": "water",
+      "price": 19900,
+      "url": "https://rentalsegye.com/product.php?no=20174&cid=1377&gid=1424",
+      "normalizedModel": "WD525ACBGB",
+      "similarExact": [
+        {
+          "key": "LG|WD520ACB",
+          "model": "WD520ACB",
+          "originalModel": "WD520ACB",
+          "name": "냉온 맞춤출수Lite(WD520ACB)"
+        },
+        {
+          "key": "LG|WD520VC",
+          "model": "WD520VC",
+          "originalModel": "WD520VC",
+          "name": "냉온 맞춤Lite(WD520VC)"
+        },
+        {
+          "key": "LG|WD523ACB",
+          "model": "WD523ACB",
+          "originalModel": "WD523ACB",
+          "name": "냉온 맞춤출수"
+        },
+        {
+          "key": "LG|WD523VCHSPM",
+          "model": "WD523VCHSPM",
+          "originalModel": "WD523V(C/H/S/P/M)",
+          "name": "냉온 맞춤출수(초고온수)"
+        },
+        {
+          "key": "LG|WD524VCHS",
+          "model": "WD524VCHS",
+          "originalModel": "WD524V(C/H/S)",
+          "name": "냉온 음성인식(초고온수)"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "WD323ACB/WB",
+      "title": "[LG] 퓨리케어 오브제컬렉션 냉정수기",
+      "category": "water",
+      "price": 18900,
+      "url": "https://rentalsegye.com/product.php?no=32284&cid=1377&gid=1424",
+      "normalizedModel": "WD323ACBWB",
+      "similarExact": [
+        {
+          "key": "LG|WD323ACWB",
+          "model": "WD323ACWB",
+          "originalModel": "WD323A(C/W)B",
+          "name": "냉정 맞춤출수"
+        },
+        {
+          "key": "LG|WD325AS",
+          "model": "WD325AS",
+          "originalModel": "WD325AS",
+          "name": "냉정 상하좌우"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "WD120MCB/NB",
+      "title": "[LG] 퓨리케어 오브제컬렉션 라이트온 정수전용 정수기",
+      "category": "water",
+      "price": 13900,
+      "url": "https://rentalsegye.com/product.php?no=34816&cid=1377&gid=1424",
+      "normalizedModel": "WD120MCBNB",
+      "similarExact": [
+        {
+          "key": "LG|WD120MCNB",
+          "model": "WD120MCNB",
+          "originalModel": "WD120M(C/N)B",
+          "name": "정수 라이트온"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "WD524V(C/H/S)T",
+      "title": "[LG] 퓨리케어 오브제컬렉션 음성인식 냉온정수기",
+      "category": "water",
+      "price": 24900,
+      "url": "https://rentalsegye.com/product.php?no=42360&cid=1377&gid=1424",
+      "normalizedModel": "WD524VCHST",
+      "similarExact": [
+        {
+          "key": "LG|WD520ACB",
+          "model": "WD520ACB",
+          "originalModel": "WD520ACB",
+          "name": "냉온 맞춤출수Lite(WD520ACB)"
+        },
+        {
+          "key": "LG|WD520VC",
+          "model": "WD520VC",
+          "originalModel": "WD520VC",
+          "name": "냉온 맞춤Lite(WD520VC)"
+        },
+        {
+          "key": "LG|WD523ACB",
+          "model": "WD523ACB",
+          "originalModel": "WD523ACB",
+          "name": "냉온 맞춤출수"
+        },
+        {
+          "key": "LG|WD523VCHSPM",
+          "model": "WD523VCHSPM",
+          "originalModel": "WD523V(C/H/S/P/M)",
+          "name": "냉온 맞춤출수(초고온수)"
+        },
+        {
+          "key": "LG|WD524VCHS",
+          "model": "WD524VCHS",
+          "originalModel": "WD524V(C/H/S)",
+          "name": "냉온 음성인식(초고온수)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "LG|WD524VCHS",
+          "model": "WD524VCHS",
+          "originalModel": "WD524V(C/H/S)",
+          "name": "냉온 음성인식(초고온수)"
+        }
+      ]
+    },
+    {
+      "brand": "LG",
+      "model": "WD523V(C/H/S/P/M)T",
+      "title": "[LG] 퓨리케어 오브제컬렉션 냉온정수기",
+      "category": "water",
+      "price": 22900,
+      "url": "https://rentalsegye.com/product.php?no=42361&cid=1377&gid=1424",
+      "normalizedModel": "WD523VCHSPMT",
+      "similarExact": [
+        {
+          "key": "LG|WD520ACB",
+          "model": "WD520ACB",
+          "originalModel": "WD520ACB",
+          "name": "냉온 맞춤출수Lite(WD520ACB)"
+        },
+        {
+          "key": "LG|WD520VC",
+          "model": "WD520VC",
+          "originalModel": "WD520VC",
+          "name": "냉온 맞춤Lite(WD520VC)"
+        },
+        {
+          "key": "LG|WD523ACB",
+          "model": "WD523ACB",
+          "originalModel": "WD523ACB",
+          "name": "냉온 맞춤출수"
+        },
+        {
+          "key": "LG|WD523VCHSPM",
+          "model": "WD523VCHSPM",
+          "originalModel": "WD523V(C/H/S/P/M)",
+          "name": "냉온 맞춤출수(초고온수)"
+        },
+        {
+          "key": "LG|WD524VCHS",
+          "model": "WD524VCHS",
+          "originalModel": "WD524V(C/H/S)",
+          "name": "냉온 음성인식(초고온수)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "LG|WD523VCHSPM",
+          "model": "WD523VCHSPM",
+          "originalModel": "WD523V(C/H/S/P/M)",
+          "name": "냉온 맞춤출수(초고온수)"
+        }
+      ]
+    },
+    {
+      "brand": "LG",
+      "model": "WD520VCT",
+      "title": "[LG] 퓨리케어 오브제컬렉션 맞춤 lite 냉온정수기",
+      "category": "water",
+      "price": 18900,
+      "url": "https://rentalsegye.com/product.php?no=42753&cid=1377&gid=1424",
+      "normalizedModel": "WD520VCT",
+      "similarExact": [
+        {
+          "key": "LG|WD520ACB",
+          "model": "WD520ACB",
+          "originalModel": "WD520ACB",
+          "name": "냉온 맞춤출수Lite(WD520ACB)"
+        },
+        {
+          "key": "LG|WD520VC",
+          "model": "WD520VC",
+          "originalModel": "WD520VC",
+          "name": "냉온 맞춤Lite(WD520VC)"
+        },
+        {
+          "key": "LG|WD523ACB",
+          "model": "WD523ACB",
+          "originalModel": "WD523ACB",
+          "name": "냉온 맞춤출수"
+        },
+        {
+          "key": "LG|WD523VCHSPM",
+          "model": "WD523VCHSPM",
+          "originalModel": "WD523V(C/H/S/P/M)",
+          "name": "냉온 맞춤출수(초고온수)"
+        },
+        {
+          "key": "LG|WD524VCHS",
+          "model": "WD524VCHS",
+          "originalModel": "WD524V(C/H/S)",
+          "name": "냉온 음성인식(초고온수)"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "LG|WD520VC",
+          "model": "WD520VC",
+          "originalModel": "WD520VC",
+          "name": "냉온 맞춤Lite(WD520VC)"
+        }
+      ]
+    },
+    {
+      "brand": "LG",
+      "model": "WD722RK/WD722RH/WD722RE",
+      "title": "[LG] 퓨리케어 오브제컬렉션 얼음 냉온정수기",
+      "category": "water",
+      "price": 31900,
+      "url": "https://rentalsegye.com/product.php?no=46340&cid=1377&gid=1424",
+      "normalizedModel": "WD722RKWD722RHWD722RE",
+      "similarExact": [
+        {
+          "key": "LG|WD722RKHE",
+          "model": "WD722RKHE",
+          "originalModel": "WD722R(K/H/E)",
+          "name": "오브제컬렉션 얼음정수기"
+        },
+        {
+          "key": "LG|WD723RKE",
+          "model": "WD723RKE",
+          "originalModel": "WD723R(K/E)",
+          "name": "오브제컬렉션 얼음정수기 Lite"
+        },
+        {
+          "key": "LG|WD724RKHE",
+          "model": "WD724RKHE",
+          "originalModel": "WD724R(K/H/E)",
+          "name": "AI 오브제컬렉션 얼음정수기"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "WU923ACB/WB/NB/BB",
+      "title": "[LG] 퓨리케어 오브제컬렉션 빌트인 냉온정수기",
+      "category": "water",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=50699&cid=1377&gid=1424",
+      "normalizedModel": "WU923ACBWBNBBB",
+      "similarExact": [
+        {
+          "key": "LG|WU923ACWNBBAS",
+          "model": "WU923ACWNBBAS",
+          "originalModel": "WU923A(C/W/N/B)B, AS",
+          "name": "냉온 듀얼"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "WU923AS",
+      "title": "[LG] 퓨리케어 듀얼 빌트인 냉온정수기",
+      "category": "water",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=50701&cid=1377&gid=1424",
+      "normalizedModel": "WU923AS",
+      "similarExact": [
+        {
+          "key": "LG|WU923ACWNBBAS",
+          "model": "WU923ACWNBBAS",
+          "originalModel": "WU923A(C/W/N/B)B, AS",
+          "name": "냉온 듀얼"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS156HWWC",
+      "title": "[LG] 퓨리케어 360도 히트 공기청정기 15평형 화이트",
+      "category": "air",
+      "price": 13900,
+      "url": "https://rentalsegye.com/product.php?no=38910&cid=1379&gid=1407",
+      "normalizedModel": "AS156HWWC",
+      "similarExact": [
+        {
+          "key": "LG|AS155GWDL",
+          "model": "AS155GWDL",
+          "originalModel": "AS155GWDL",
+          "name": "오브제컬렉션 에어로부스터"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS195DWWA",
+      "title": "[LG] 퓨리케어 360도 공기청정기 19평형 크리미스노우",
+      "category": "air",
+      "price": 22900,
+      "url": "https://rentalsegye.com/products.php?no=41643&cid=1379&gid=1407",
+      "normalizedModel": "AS195DWWA",
+      "similarExact": [
+        {
+          "key": "LG|AS192DSFAM",
+          "model": "AS192DSFAM",
+          "originalModel": "AS192DSFAM",
+          "name": "360 오브제컬렉션 19평"
+        },
+        {
+          "key": "LG|AS195DWWAM",
+          "model": "AS195DWWAM",
+          "originalModel": "AS195DWWAM",
+          "name": "360플러스 1단 19평"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "LG|AS195DWWAM",
+          "model": "AS195DWWAM",
+          "originalModel": "AS195DWWAM",
+          "name": "360플러스 1단 19평"
+        }
+      ]
+    },
+    {
+      "brand": "LG",
+      "model": "AS305DWWA",
+      "title": "[LG] 퓨리케어 360도 공기청정기 30평형 크리미스노우",
+      "category": "air",
+      "price": 31900,
+      "url": "https://rentalsegye.com/products.php?no=41867&cid=1379&gid=1407",
+      "normalizedModel": "AS305DWWA",
+      "similarExact": [
+        {
+          "key": "LG|AS305DWWAM",
+          "model": "AS305DWWAM",
+          "originalModel": "AS305DWWAM",
+          "name": "360플러스 2단 30평"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "LG|AS305DWWAM",
+          "model": "AS305DWWAM",
+          "originalModel": "AS305DWWAM",
+          "name": "360플러스 2단 30평"
+        }
+      ]
+    },
+    {
+      "brand": "LG",
+      "model": "AS206NGHA",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M5 공기청정기 20평형 네이처그린",
+      "category": "air",
+      "price": 39100,
+      "url": "https://rentalsegye.com/products.php?no=48393&cid=1379&gid=1407",
+      "normalizedModel": "AS206NGHA",
+      "similarExact": [
+        {
+          "key": "LG|AS206NSGHAM",
+          "model": "AS206NSGHAM",
+          "originalModel": "AS206N(S/G)HAM",
+          "name": "AI 오브제컬렉션 360˚ 20평"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS356LSAA",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 월핏 스탠드 공기청정기 35평형 카밍베이지",
+      "category": "air",
+      "price": 43900,
+      "url": "https://rentalsegye.com/product.php?no=50655&cid=1379&gid=1407",
+      "normalizedModel": "AS356LSAA",
+      "similarExact": [
+        {
+          "key": "LG|AS356NSGMAM",
+          "model": "AS356NSGMAM",
+          "originalModel": "AS356N(S/G)MAM",
+          "name": "AI 오브제컬렉션 360˚ 35평"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS285DWWA",
+      "title": "[LG] 퓨리케어 360도 플러스 공기청정기 29평형 크리미스노우",
+      "category": "air",
+      "price": 29600,
+      "url": "https://rentalsegye.com/products.php?no=46590&cid=1379&gid=1407",
+      "normalizedModel": "AS285DWWA",
+      "similarExact": [
+        {
+          "key": "LG|AS285DWWAM",
+          "model": "AS285DWWAM",
+          "originalModel": "AS285DWWAM",
+          "name": "360플러스 2단 29평"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "LG|AS285DWWAM",
+          "model": "AS285DWWAM",
+          "originalModel": "AS285DWWAM",
+          "name": "360플러스 2단 29평"
+        }
+      ]
+    },
+    {
+      "brand": "LG",
+      "model": "AS185LSAA",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 월핏 스탠드 공기청정기 18평형 카밍베이지",
+      "category": "air",
+      "price": 26900,
+      "url": "https://rentalsegye.com/product.php?no=47047&cid=1379&gid=1407",
+      "normalizedModel": "AS185LSAA",
+      "similarExact": [
+        {
+          "key": "LG|AS185LGAA",
+          "model": "AS185LGAA",
+          "originalModel": "AS185LGAA",
+          "name": "오브제컬렉션 월핏"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS195DWWA(V필터)",
+      "title": "[LG] 퓨리케어 공기청정기 19평형 크리미스노우 + 360도 V필터 1개",
+      "category": "air",
+      "price": 28900,
+      "url": "https://rentalsegye.com/product.php?no=47049&cid=1379&gid=1407",
+      "normalizedModel": "AS195DWWAV필터",
+      "similarExact": [
+        {
+          "key": "LG|AS192DSFAM",
+          "model": "AS192DSFAM",
+          "originalModel": "AS192DSFAM",
+          "name": "360 오브제컬렉션 19평"
+        },
+        {
+          "key": "LG|AS195DWWAM",
+          "model": "AS195DWWAM",
+          "originalModel": "AS195DWWAM",
+          "name": "360플러스 1단 19평"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS305DWWA(V필터)",
+      "title": "[LG] 퓨리케어 공기청정기 30평형 크리미스노우 + 360도 V필터 2개",
+      "category": "air",
+      "price": 39900,
+      "url": "https://rentalsegye.com/product.php?no=47050&cid=1379&gid=1407",
+      "normalizedModel": "AS305DWWAV필터",
+      "similarExact": [
+        {
+          "key": "LG|AS305DWWAM",
+          "model": "AS305DWWAM",
+          "originalModel": "AS305DWWAM",
+          "name": "360플러스 2단 30평"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "FS065PSKA",
+      "title": "[LG] 퓨리케어 오브제컬렉션 에어로타워 Hit 공기청정기 5.5평형 카밍베이지",
+      "category": "air",
+      "price": 32400,
+      "url": "https://rentalsegye.com/products.php?no=50355&cid=1379&gid=1407",
+      "normalizedModel": "FS065PSKA",
+      "similarExact": [
+        {
+          "key": "LG|FS065PSKAM",
+          "model": "FS065PSKAM",
+          "originalModel": "FS065PSKAM",
+          "name": "에어로타워 온풍 6평"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "LG|FS065PSKAM",
+          "model": "FS065PSKAM",
+          "originalModel": "FS065PSKAM",
+          "name": "에어로타워 온풍 6평"
+        }
+      ]
+    },
+    {
+      "brand": "LG",
+      "model": "AS356NSMAM",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M7 공기청정기 34평형 카밍베이지 + 무빙휠",
+      "category": "air",
+      "price": 58900,
+      "url": "https://rentalsegye.com/product.php?no=47868&cid=1379&gid=1407",
+      "normalizedModel": "AS356NSMAM",
+      "similarExact": [
+        {
+          "key": "LG|AS356NSGMAM",
+          "model": "AS356NSGMAM",
+          "originalModel": "AS356N(S/G)MAM",
+          "name": "AI 오브제컬렉션 360˚ 35평"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS356NGMAM",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M7 공기청정기 34평형 네이처그린 + 무빙휠",
+      "category": "air",
+      "price": 58900,
+      "url": "https://rentalsegye.com/product.php?no=47869&cid=1379&gid=1407",
+      "normalizedModel": "AS356NGMAM",
+      "similarExact": [
+        {
+          "key": "LG|AS356NSGMAM",
+          "model": "AS356NSGMAM",
+          "originalModel": "AS356N(S/G)MAM",
+          "name": "AI 오브제컬렉션 360˚ 35평"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS206NSHAM",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M5 공기청정기 19평형 카밍베이지 + 무빙휠",
+      "category": "air",
+      "price": 38900,
+      "url": "https://rentalsegye.com/product.php?no=47870&cid=1379&gid=1407",
+      "normalizedModel": "AS206NSHAM",
+      "similarExact": [
+        {
+          "key": "LG|AS206NSGHAM",
+          "model": "AS206NSGHAM",
+          "originalModel": "AS206N(S/G)HAM",
+          "name": "AI 오브제컬렉션 360˚ 20평"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS206NGHAM",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M5 공기청정기 19평형 네이처그린 + 무빙휠",
+      "category": "air",
+      "price": 38900,
+      "url": "https://rentalsegye.com/product.php?no=47871&cid=1379&gid=1407",
+      "normalizedModel": "AS206NGHAM",
+      "similarExact": [
+        {
+          "key": "LG|AS206NSGHAM",
+          "model": "AS206NSGHAM",
+          "originalModel": "AS206N(S/G)HAM",
+          "name": "AI 오브제컬렉션 360˚ 20평"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS186LSAA",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 월핏 스탠드 공기청정기 18평형 카밍베이지",
+      "category": "air",
+      "price": 21500,
+      "url": "https://rentalsegye.com/products.php?no=47979&cid=1379&gid=1407",
+      "normalizedModel": "AS186LSAA",
+      "similarExact": [
+        {
+          "key": "LG|AS185LGAA",
+          "model": "AS185LGAA",
+          "originalModel": "AS185LGAA",
+          "name": "오브제컬렉션 월핏"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS186LSAAW",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 월핏 벽걸이 공기청정기 18평형 카밍베이지",
+      "category": "air",
+      "price": 22600,
+      "url": "https://rentalsegye.com/products.php?no=47981&cid=1379&gid=1407",
+      "normalizedModel": "AS186LSAAW",
+      "similarExact": [
+        {
+          "key": "LG|AS185LGAA",
+          "model": "AS185LGAA",
+          "originalModel": "AS185LGAA",
+          "name": "오브제컬렉션 월핏"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS186LSAAS",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 월핏 스탠드 공기청정기 18평형 카밍베이지 + 선반 키트",
+      "category": "air",
+      "price": 25900,
+      "url": "https://rentalsegye.com/products.php?no=47983&cid=1379&gid=1407",
+      "normalizedModel": "AS186LSAAS",
+      "similarExact": [
+        {
+          "key": "LG|AS185LGAA",
+          "model": "AS185LGAA",
+          "originalModel": "AS185LGAA",
+          "name": "오브제컬렉션 월핏"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS356NGMA",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M7 공기청정기 34평형 네이처그린",
+      "category": "air",
+      "price": 52200,
+      "url": "https://rentalsegye.com/products.php?no=48395&cid=1379&gid=1407",
+      "normalizedModel": "AS356NGMA",
+      "similarExact": [
+        {
+          "key": "LG|AS356NSGMAM",
+          "model": "AS356NSGMAM",
+          "originalModel": "AS356N(S/G)MAM",
+          "name": "AI 오브제컬렉션 360˚ 35평"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS356NSMA",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M7 공기청정기 34평형 카밍베이지",
+      "category": "air",
+      "price": 52200,
+      "url": "https://rentalsegye.com/products.php?no=48397&cid=1379&gid=1407",
+      "normalizedModel": "AS356NSMA",
+      "similarExact": [
+        {
+          "key": "LG|AS356NSGMAM",
+          "model": "AS356NSGMAM",
+          "originalModel": "AS356N(S/G)MAM",
+          "name": "AI 오브제컬렉션 360˚ 35평"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "LG",
+      "model": "AS206NSHA",
+      "title": "[LG] 퓨리케어 AI 오브제컬렉션 360도 M5 공기청정기 20평형 카밍베이지",
+      "category": "air",
+      "price": 47900,
+      "url": "https://rentalsegye.com/product.php?no=48435&cid=1379&gid=1407",
+      "normalizedModel": "AS206NSHA",
+      "similarExact": [
+        {
+          "key": "LG|AS206NSGHAM",
+          "model": "AS206NSGHAM",
+          "originalModel": "AS206N(S/G)HAM",
+          "name": "AI 오브제컬렉션 360˚ 20평"
+        }
+      ],
+      "similarContains": []
+    },
+    {
+      "brand": "웰스",
+      "model": "HN877TOA",
+      "title": "[웰스] 안마의자 최고급형 일반관리 브라운",
+      "category": "massage",
+      "price": 95900,
+      "url": "https://rentalsegye.com/product.php?no=22194&cid=1378&gid=1404",
+      "normalizedModel": "HN877TOA",
+      "similarExact": [
+        {
+          "key": "웰스|HN877",
+          "model": "HN877",
+          "originalModel": "HN877",
+          "name": "안마의자 최고급형"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|HN877",
+          "model": "HN877",
+          "originalModel": "HN877",
+          "name": "안마의자 최고급형"
+        }
+      ]
+    },
+    {
+      "brand": "웰스",
+      "model": "HR768",
+      "title": "[웰스] 고급형 안마의자",
+      "category": "massage",
+      "price": 63900,
+      "url": "https://rentalsegye.com/product.php?no=34951&cid=1378&gid=1404",
+      "normalizedModel": "HR768",
+      "similarExact": [
+        {
+          "key": "웰스|HR768RWA",
+          "model": "HR768RWA",
+          "originalModel": "HR768RWA",
+          "name": "안마의자 고급형"
+        }
+      ],
+      "similarContains": [
+        {
+          "key": "웰스|HR768RWA",
+          "model": "HR768RWA",
+          "originalModel": "HR768RWA",
+          "name": "안마의자 고급형"
+        }
+      ]
+    }
+  ],
+  "unknown": []
+}
