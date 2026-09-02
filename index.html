@@ -148,8 +148,7 @@ Promise.all([
   window.refreshCrm=renderActions;
   function renderActions(){
     const customers=loadCustomers();
-    const today=new Date().toISOString().slice(0,10);
-    const list=segment==='movein'?[]:customers.slice().sort((a,b)=>{
+    const list=customers.slice().sort((a,b)=>{
       const ea=(Number(b.expectedCommission)||0)*(Number(b.probability)||0)/100;
       const ea2=(Number(a.expectedCommission)||0)*(Number(a.probability)||0)/100;
       return ea-ea2;
