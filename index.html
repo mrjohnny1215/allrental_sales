@@ -71,7 +71,7 @@
 <script src="commission-mapping.js"></script>
 <script>
 const DATA_URL='https://raw.githubusercontent.com/mrjohnny1215/allrental_customer/main/products_data.json';
-const COMMISSION_DATA_URL='commission-map.json';
+const COMMISSION_DATA_URL='https://raw.githubusercontent.com/mrjohnny1215/allrental_sales/main/commission-map.json';
 const categoryLabel={water_purifier:'정수기',air_purifier:'공기청정기',bidet:'비데',mattress:'매트리스',massage_chair:'안마의자'};
 const categoryAlias={water:'water_purifier',water_purifier:'water_purifier',purifier:'water_purifier','정수기':'water_purifier',air:'air_purifier',air_purifier:'air_purifier','공기청정기':'air_purifier',bidet:'bidet','비데':'bidet',mattress:'mattress','매트리스':'mattress',massage_chair:'massage_chair',massage:'massage_chair','안마의자':'massage_chair'};
 const normalizeCategory=v=>categoryAlias[String(v||'').trim().toLowerCase()]||String(v||'').trim();
