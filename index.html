@@ -6,6 +6,8 @@
 <style>
 :root{font-family:Inter,Pretendard,"Noto Sans KR",system-ui,sans-serif;color:#182018;background:#f4f6f2}*{box-sizing:border-box}body{margin:0}.app{min-height:100vh}.topbar{padding:30px 42px 24px;background:#172019;color:white;display:flex;justify-content:space-between;align-items:flex-end}.topbar h1{margin:5px 0 6px;font-size:28px}.topbar p{margin:0;color:#bfc8be;font-size:14px}.eyebrow{font-size:11px;font-weight:800;letter-spacing:.13em;color:#83a985}.status{padding:9px 12px;border:1px solid #3d4a3e;border-radius:999px;font-size:12px;color:#d7dfd6}main{padding:22px 28px 48px;max-width:1500px;margin:auto}.stats{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin-bottom:14px}.stats>div{background:white;border:1px solid #e0e5dd;border-radius:14px;padding:18px}.stats b{font-size:24px;display:block}.stats span{font-size:12px;color:#758075}.workspace{display:grid;grid-template-columns:310px 1fr;gap:14px}.panel,.results{background:white;border:1px solid #e0e5dd;border-radius:16px}.controls{padding:18px;height:max-content;position:sticky;top:14px}.panel-title{margin-bottom:20px;font-weight:800}.controls label{display:block;font-size:12px;font-weight:700;margin:18px 0 8px}.controls label strong{float:right;color:#557b58}.segment-grid{display:grid;grid-template-columns:1fr 1fr;gap:7px}.segment-grid button,.reset{border:1px solid #dfe5dc;background:#f8faf7;border-radius:9px;padding:10px 8px;font-weight:700;color:#566056;cursor:pointer}.segment-grid button.active{background:#26352a;color:white;border-color:#26352a}select,.search{width:100%;border:1px solid #dfe5dc;border-radius:9px;background:white}.controls select{padding:11px}.search{display:flex;align-items:center;padding:0 10px}.search input{border:0;outline:0;padding:11px 0;width:100%}.controls input[type=range]{width:100%;accent-color:#486c4c}.reset{width:100%;margin-top:16px}.note{margin-top:18px;background:#f2f6f0;border-radius:10px;padding:12px;font-size:12px;color:#627063}.note p{line-height:1.55;margin:5px 0 0}.results{padding:18px}.result-head{display:flex;justify-content:space-between;align-items:end;margin-bottom:14px}.result-head h2{margin:4px 0 0;font-size:21px}.result-head>span{font-size:12px;color:#7b847c}.product{display:grid;grid-template-columns:48px 88px 1fr 94px;gap:14px;align-items:center;border-top:1px solid #edf0eb;padding:15px 2px}.product.clickable{cursor:pointer;border-radius:10px;transition:background .16s ease,transform .16s ease}.product.clickable:hover,.product.clickable:focus{background:#f6f8f4;outline:none}.product.clickable:focus-visible{box-shadow:inset 0 0 0 2px #557b58}.rank{font-size:20px;font-weight:900;color:#9aa39a;text-align:center}.product img{width:80px;height:80px;object-fit:contain;border-radius:10px;background:#f8f8f6}.badges{display:flex;gap:5px}.badges span{font-size:10px;background:#eff4ed;border-radius:999px;padding:4px 7px;color:#5f6d60}.info h3{font-size:15px;margin:6px 0 2px}.model{font-size:11px;color:#9aa19a;margin:0 0 6px}.price{font-size:12px}.price b{font-size:16px}.price small{margin-left:8px;color:#7d857d}.commission{display:inline-flex;align-items:center;gap:5px;margin-top:7px;padding:5px 8px;border-radius:7px;background:#fff6dd;color:#785d13;font-size:11px}.commission b{font-size:13px}.commission.missing{background:#f2f3f1;color:#8a9089}.commission.review{background:#fff0d6;color:#b76f00}.score-row{display:flex;flex-wrap:wrap;gap:5px;margin-top:9px}.score-row span{font-size:10px;padding:4px 6px;border:1px solid #e3e8e0;border-radius:6px;color:#8a928b}.score-row .focus{background:#eef5ec;color:#355638;border-color:#b8ccb5;font-weight:800}.fit{text-align:center}.fit>b{font-size:27px;color:#304e33;display:block}.fit>span{font-size:10px;color:#8b948b}.fit button{margin-top:8px;border:0;background:#243227;color:white;border-radius:8px;padding:8px 7px;font-size:11px;width:100%;cursor:pointer}.empty{padding:80px;text-align:center;color:#7d887d}.error{color:#a33}@media(max-width:900px){.topbar{padding:24px;align-items:flex-start;gap:16px}.stats{grid-template-columns:repeat(3,1fr)}.workspace{grid-template-columns:1fr}.controls{position:static}.product{grid-template-columns:38px 70px 1fr}.product img{width:64px;height:64px}.fit{grid-column:2/4;display:flex;align-items:center;gap:10px;text-align:left}.fit>b{font-size:20px}.fit button{width:auto;margin:0 0 0 auto}.score-row{display:none}}@media(max-width:600px){main{padding:14px}.topbar{display:block}.status{margin-top:14px;width:max-content}.stats{grid-template-columns:1fr 1fr}.stats>div:first-child{grid-column:1/3}.product{grid-template-columns:28px 1fr}.product img{display:none}.fit{grid-column:2}.result-head{align-items:flex-start}.price small{display:block;margin:4px 0 0}}
 #authGate form{width:min(360px,92vw);background:#1f2a22;border:1px solid #3d4a3e;border-radius:16px;padding:28px}#authGate input:focus{border-color:#557b58}#authGate button:hover{background:#2f4d33}
+.crm-form{margin-top:16px;padding:12px;background:#f7faf6;border:1px solid #e3e8e0;border-radius:10px}.crm-form input,.crm-form select,.crm-form textarea{width:100%;padding:8px;border:1px solid #dfe5dc;border-radius:7px;font-size:12px;background:white;margin:4px 0 10px}.crm-form button{border:0;background:#243227;color:white;padding:9px;border-radius:8px;width:100%;font-weight:800;cursor:pointer;margin-top:4px}
+.action-item{display:flex;justify-content:space-between;align-items:center;padding:10px;border:1px solid #edf0eb;border-radius:10px;background:white;margin:6px 0}.action-item .meta{font-size:12px;color:#6d766d}.action-item .value{font-weight:900;color:#304e33}.action-item button{border:0;background:#243227;color:white;border-radius:8px;padding:6px 10px;font-size:11px;cursor:pointer}
 </style>
 </head>
 <body>
@@ -24,7 +26,48 @@
 </div>
 <div class="app">
 <header class="topbar"><div><span class="eyebrow">PRIVATE SALES TOOL</span><h1>ALL렌탈 Sales Console</h1><p>고객 조건을 넣으면 전체 상품을 다시 채점해 영업 우선순위를 보여줍니다.</p></div><div class="status">🔒 내부 영업용</div></header>
-<main><section id="stats" class="stats"></section><section class="workspace"><aside class="panel controls"><div class="panel-title">⚙ 고객 조건</div><label>추천 목적</label><div id="segments" class="segment-grid"></div><label>제품군</label><select id="category"><option value="all">전체 카테고리</option><option value="water_purifier">정수기</option><option value="air_purifier">공기청정기</option><option value="bidet">비데</option><option value="mattress">매트리스</option></select><label>월 예산 <strong id="budgetText">50,000원</strong></label><input id="budget" type="range" min="10000" max="150000" step="5000" value="50000"><label>브랜드·모델 검색</label><div class="search"><input id="query" placeholder="예: 코웨이, 얼음, BAS25"></div><button id="reset" class="reset">↻ 조건 초기화</button><div class="note"><b>점수 계산</b><p>카테고리 내 가격 위치, 약정 선택폭, 기능 키워드, 고객상황 적합도를 조합한 내부 우선순위 점수입니다.</p></div></aside><section class="results"><div class="result-head"><div><span class="eyebrow">TOP RECOMMENDATIONS</span><h2 id="resultTitle">입주추천</h2></div><span id="candidateCount"></span></div><div id="productList" class="empty">상품 데이터를 불러오는 중...</div></section></section></main></div>
+<main>
+<section id="stats" class="stats"></section>
+<section class="workspace">
+  <aside class="panel controls">
+    <div class="panel-title">⚙ 고객 조건</div>
+    <label>추천 목적</label>
+    <div id="segments" class="segment-grid"></div>
+    <label>제품군</label>
+    <select id="category"><option value="all">전체 카테고리</option><option value="water_purifier">정수기</option><option value="air_purifier">공기청정기</option><option value="bidet">비데</option><option value="mattress">매트리스</option></select>
+    <label>월 예산 <strong id="budgetText">50,000원</strong></label>
+    <input id="budget" type="range" min="10000" max="150000" step="5000" value="50000">
+    <label>브랜드·모델 검색</label>
+    <div class="search"><input id="query" placeholder="예: 코웨이, 얼음, BAS25"></div>
+    <button id="reset" class="reset">↻ 조건 초기화</button>
+    <div class="note"><b>점수 계산</b><p>카테고리 내 가격 위치, 약정 선택폭, 기능 키워드, 고객상황 적합도를 조합한 내부 우선순위 점수입니다.</p></div>
+
+    <div class="panel-title" style="margin-top:22px">🧑 고객 정보 저장</div>
+    <div class="crm-form">
+      <input id="cName" placeholder="고객 이름/닉네임">
+      <input id="cPhone" placeholder="연락처/카톡ID">
+      <select id="cChannel"><option value="">유입경로</option><option>회사 문의</option><option>맘카페</option><option>입주카페</option><option>네이버 검색</option><option>블로그</option><option>SNS</option><option>지인소개</option><option>기존고객</option><option>개인 랜딩페이지</option><option>기타</option></select>
+      <input id="cCity" placeholder="지역">
+      <select id="cFamily"><option value="">가족수</option><option>1인</option><option>2인</option><option>3인</option><option>4인</option><option>5인 이상</option></select>
+      <label style="display:flex;align-items:center;gap:6px;margin:6px 0 10px"><input id="cBaby" type="checkbox" style="width:auto"><span>아이 있음</span></label>
+      <label style="display:flex;align-items:center;gap:6px;margin:0 0 10px"><input id="cPet" type="checkbox" style="width:auto"><span>반려동물</span></label>
+      <select id="cStatus"><option value="신규문의">신규문의</option><option>조건확인</option><option>상품추천</option><option>견적발송</option><option>고민중</option><option>계약예정</option><option>계약완료</option><option>설치완료</option><option>교차판매</option><option>재계약대기</option></select>
+      <textarea id="cMemo" rows="3" placeholder="상담 메모"></textarea>
+      <input id="cCommission" type="number" placeholder="예상 수수료 (원)">
+      <input id="cProbability" type="number" placeholder="계약 확률 (%)" min="0" max="100">
+      <button id="saveCrm">고객 저장</button>
+    </div>
+  </aside>
+  <section class="results">
+    <div class="result-head"><div><span class="eyebrow">TOP RECOMMENDATIONS</span><h2 id="resultTitle">입주추천</h2></div><span id="candidateCount"></span></div>
+    <div id="productList" class="empty">상품 데이터를 불러오는 중...</div>
+
+    <div class="panel-title" style="margin-top:18px">📋 오늘의 영업 우선순위</div>
+    <div id="todayActions" class="actions"></div>
+  </section>
+</section>
+</main>
+</div>
 <script src="commission-mapping.js"></script>
 <script>
 const DATA_URL='https://raw.githubusercontent.com/mrjohnny1215/allrental_customer/main/products_data.json';
@@ -37,6 +80,10 @@ let allProducts=[], segment='movein';
 const $=s=>document.querySelector(s), clamp=n=>Math.max(0,Math.min(100,Math.round(n)));
 const textOf=p=>`${p.title||''} ${p.desc||''} ${p.model||''}`.toLowerCase();
 const hasAny=(t,ws)=>ws.some(w=>t.includes(w));
+const todayActions = () => JSON.parse(localStorage.getItem('salesActions')||'[]');
+const saveTodayActions = (list) => localStorage.setItem('salesActions', JSON.stringify(list));
+const todayCustomers = () => JSON.parse(localStorage.getItem('salesCustomers')||'[]');
+const saveTodayCustomers = (list) => localStorage.setItem('salesCustomers', JSON.stringify(list));
 function enrich(products){products=products.map(p=>({...p,category:normalizeCategory(p.category)}));const usable=products.filter(p=>!p.not_available&&Number(p.price||p.it_price)>0);const groups={};usable.forEach(p=>(groups[p.category]??=[]).push(Number(p.price||p.it_price)));const stats={};Object.entries(groups).forEach(([k,a])=>{a.sort((x,y)=>x-y);const q=x=>a[Math.floor((a.length-1)*x)]||0;stats[k]={min:a[0],median:q(.5),max:a.at(-1)}});return usable.map(p=>{const price=Number(p.price||p.it_price),st=stats[p.category]||{min:0,median:1,max:1},text=textOf(p),periods=p.rentalPeriods?.length||0,low=100*(1-(price-st.min)/Math.max(1,st.max-st.min)),midFit=100-Math.min(100,Math.abs(price-st.median)/Math.max(1,st.median)*90),high=100*((price-st.min)/Math.max(1,st.max-st.min)),hygiene=hasAny(text,['살균','스스로','케어','클린','항균','uv','방수'])?18:0,ice=hasAny(text,['얼음','ice'])?22:0,hot=hasAny(text,['온수','냉온','hot'])?10:0,compact=hasAny(text,['미니','슬림','컴팩트','mini','직수'])?10:0,premiumWord=hasAny(text,['프리미엄','노블','시그니처','아이콘','premium'])?12:0,boost=({water_purifier:{baby:22,newlywed:22,movein:24},air_purifier:{baby:24,newlywed:12,movein:22},bidet:{baby:7,newlywed:8,movein:23},mattress:{baby:5,newlywed:22,movein:10}}[p.category]||{baby:0,newlywed:0,movein:0});return {...p,price,scores:{entry:clamp(low*.78+(periods>=2?12:5)+compact),value:clamp(midFit*.45+low*.30+Math.min(18,periods*5)+hygiene*.35+compact*.25),premium:clamp(high*.62+premiumWord+ice*.65+hygiene*.45),baby:clamp(45+boost.baby+hygiene+hot+compact*.5+low*.12),newlywed:clamp(43+boost.newlywed+ice*.7+premiumWord*.5+compact+midFit*.12),movein:clamp(45+boost.movein+hygiene*.55+compact*.7+Math.min(14,periods*4)+midFit*.12)}}})}
 function scenarioCopy(p){const opener={baby:'아이 있는 집이면 월요금만 보기보다 관리·위생 기능까지 같이 보시는 게 좋아요.',newlywed:'신혼집은 초기비용을 줄이면서 디자인과 기능 균형을 맞추는 게 좋아요.',movein:'입주 때는 설치일정과 월 부담을 같이 보고 한 번에 정리하는 게 편해요.',entry:'처음 렌탈하시면 월 부담이 낮고 조건이 단순한 제품부터 보시는 게 편해요.',value:'가격과 기능 균형으로 보면 이 제품이 비교 후보에 들어갈 만해요.',premium:'기능과 사용 편의를 우선하시면 프리미엄 쪽에서 이 제품을 먼저 비교해볼 만해요.'}[segment];return `${opener}\n\n${p.title}\n월 ${p.price.toLocaleString()}원 / 약정 ${(p.rentalPeriods||[]).join('·')||'조건 확인'}\n\n${categoryLabel[p.category]||p.category} 중 현재 조건 기준 추천점수 ${p.scores[segment]}점입니다. 같은 조건의 대체상품 2개도 같이 비교해드릴게요.`}
 function safeProductUrl(value){try{const url=new URL(value);return ['http:','https:'].includes(url.protocol)?url.href:''}catch{return ''}}
@@ -77,7 +124,42 @@ Promise.all([
   function unlock(){gate.style.display='none';app.style.display='';}
   function lock(){gate.style.display='';app.style.display='none';}
   if(localStorage.getItem(sessionKey)==='1'){unlock();}else{lock();}
-  form.onsubmit=e=>{e.preventDefault();const v=input.value;if(!v){error.textContent='비밀번호를 입력하세요.';error.style.display='block';return;}const expected=VALID_PASSWORD;if(v!==expected){error.textContent='비밀번호가 올바르지 않습니다.';error.style.display='block';return;}localStorage.setItem(sessionKey,'1');error.style.display='none';unlock();};
+  form.onsubmit=e=>{e.preventDefault();const v=input.value;if(!v){error.textContent='비밀번호를 입력하세요.';error.style.display='block';return;}if(v!==VALID_PASSWORD){error.textContent='비밀번호가 올바르지 않습니다.';error.style.display='block';return;}localStorage.setItem(sessionKey,'1');error.style.display='none';unlock();};
+})();
+
+(function(){
+  const NAME_KEY='crm_customers';
+  const ACTION_KEY='salesActions';
+  const loadCustomers=()=>JSON.parse(localStorage.getItem(NAME_KEY)||'[]');
+  const saveCustomers=(list)=>localStorage.setItem(NAME_KEY, JSON.stringify(list));
+  $('#saveCrm').onclick=()=>{
+    const name=$('#cName').value.trim();
+    const phone=$('#cPhone').value.trim();
+    if(!name||!phone){alert('이름과 연락처를 입력하세요.');return;}
+    const customer={id:Date.now(),name,phone,channel:$('#cChannel').value,city:$('#cCity').value.trim(),family:$('#cFamily').value,baby:$('#cBaby').checked,pet:$('#cPet').checked,status:$('#cStatus').value,memo:$('#cMemo').value.trim(),expectedCommission:Number($('#cCommission').value)||0,probability:Number($('#cProbability').value)||0,createdAt:new Date().toISOString(),nextContact:''};
+    const list=loadCustomers();
+    list.push(customer);
+    saveCustomers(list);
+    ['cName','cPhone','cCity','cMemo'].forEach(id=>$('#'+id).value='');
+    $('#cChannel').value=''; $('#cFamily').value=''; $('#cBaby').checked=false; $('#cPet').checked=false; $('#cStatus').value='신규문의';
+    alert('고객이 저장되었습니다.');
+    renderActions();
+  };
+  window.refreshCrm=renderActions;
+  function renderActions(){
+    const customers=loadCustomers();
+    const today=new Date().toISOString().slice(0,10);
+    const list=segment==='movein'?[]:customers.slice().sort((a,b)=>{
+      const ea=(Number(b.expectedCommission)||0)*(Number(b.probability)||0)/100;
+      const ea2=(Number(a.expectedCommission)||0)*(Number(a.probability)||0)/100;
+      return ea-ea2;
+    }).slice(0,5);
+    const box=$('#todayActions');
+    if(!list.length){box.innerHTML='<div class="empty" style="padding:30px">저장된 고객이 없습니다. 고객 정보를 입력하면 오늘 우선순위가 표시됩니다.</div>';return;}
+    box.innerHTML=list.map((c)=>`<div class="action-item"><div><div style="font-weight:900">${c.name}</div><div class="meta">${c.status} · ${c.phone||''}</div></div><div style="text-align:right"><div class="value">${c.expectedCommission?`예상 ${Number(c.expectedCommission).toLocaleString()}원`:''}</div><button onclick="callCustomer('${c.phone}')">전화</button></div></div>`).join('');
+  }
+  window.callCustomer=(phone)=>{if(phone){window.location.href='tel:'+phone;}};
+  renderActions();
 })();
 </script>
 </body>
