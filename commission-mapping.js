@@ -78,6 +78,26 @@
       }
     }
 
+    // Also try partial model prefix match for alias brands (e.g., SK매직->SK, 청호나이스->청호, 현대큐밍->현대)
+    if (!candidates.length) {
+      const brandAlias = {SK매직:'SK', 청호나이스:'청호', 현대큐밍:'현대'};
+      const alias = brandAlias[brand];
+      if (alias) {
+        const aliasPrefix = alias + '|';
+        for (const [entryKey, entry] of index.entries()) {
+          if (!entryKey.startsWith(aliasPrefix)) continue;
+          const entryModel = normalizeModel(entry.model);
+          if (!entryModel) continue;
+          const isCustomerPrefix = normalizedModel.startsWith(entryModel);
+          const isAdminPrefix = entryModel.startsWith(normalizedModel);
+          const lenDiff = Math.abs(entryModel.length - normalizedModel.length);
+          if ((isCustomerPrefix || isAdminPrefix) && lenDiff <= 3 && lenDiff > 0) {
+            candidates.push({ key: entryKey, commission: entry.commission, lenDiff, baseLen: entryModel.length, alias });
+          }
+        }
+      }
+    }
+
     if (!candidates.length) return null;
     candidates.sort((a, b) => a.lenDiff - b.lenDiff || a.baseLen - b.baseLen);
     return candidates[0];
